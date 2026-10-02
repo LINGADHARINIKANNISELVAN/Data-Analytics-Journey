@@ -24,7 +24,7 @@ An Excel-based analysis project focused on comparing vendors using cost, deliver
 
 **Tools:** Microsoft Excel
 
-*Project files will be added here.*
+[View Excel Project](./Excel)
 
 ---
 
