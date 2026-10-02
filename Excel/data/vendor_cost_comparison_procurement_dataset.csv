@@ -1,0 +1,2001 @@
+PO_ID,Vendor_ID,Product,Order_Date,Delivery_Date,Order_Status,Quantity,Unit_Cost,Negotiated_Cost,Defective_Units,Compliance
+PO-00001,Vendor_D,Router,2023-09-28,2023-10-25,Delivered,111,4558.01,4447.76,1.0,Compliant
+PO-00002,Vendor_C,Hard Drive,2024-10-23,2024-10-30,Delivered,313,5163.63,5111.72,7.0,Compliant
+PO-00003,Vendor_A,Packaging Box,2024-07-14,,Cancelled,479,116.75,110.72,,Compliant
+PO-00004,Vendor_D,Monitor,2024-07-20,2024-08-09,Delivered,248,13270.55,12511.3,0.0,Non-Compliant
+PO-00005,Vendor_B,Desktop,2023-12-12,2024-01-10,Delivered,57,47378.95,45221.39,0.0,Compliant
+PO-00006,Vendor_B,Keyboard,2024-01-23,2024-01-28,Delivered,6,909.76,866.53,0.0,Non-Compliant
+PO-00007,Vendor_F,Keyboard,2023-09-28,,Pending,460,835.0,810.99,,Compliant
+PO-00008,Vendor_H,Mouse,2023-08-05,2023-09-04,Partially Delivered,256,557.06,532.86,3.0,Compliant
+PO-00009,Vendor_H,Packaging Box,2024-04-16,2024-04-20,Partially Delivered,67,124.54,122.35,2.0,Compliant
+PO-00010,Vendor_G,Packaging Box,2023-07-20,2023-08-13,Delivered,332,128.81,121.82,3.0,Compliant
+PO-00011,Vendor_C,Desk,2024-09-04,2024-10-01,Delivered,435,11568.65,11402.61,0.0,Compliant
+PO-00012,Vendor_B,Office Chair,2024-04-05,2024-04-26,Delivered,183,8182.5,8004.0,1.0,Compliant
+PO-00013,Vendor_E,Desk,2023-02-05,,Pending,17,11276.94,10796.37,,Compliant
+PO-00014,Vendor_E,SSD,2024-10-07,2024-10-19,Delivered,288,6669.5,6343.99,0.0,Compliant
+PO-00015,Vendor_A,Laptop,2023-10-10,2023-10-14,Delivered,450,46927.92,45104.96,4.0,Compliant
+PO-00016,Vendor_B,Monitor,2024-11-14,2024-12-09,Delivered,156,13427.65,12882.38,4.0,Non-Compliant
+PO-00017,Vendor_B,Router,2024-01-22,2024-02-19,Delivered,117,4103.09,4102.53,0.0,Compliant
+PO-00018,Vendor_A,Laptop,2024-02-07,2024-02-14,Delivered,130,47792.78,46328.75,3.0,Compliant
+PO-00019,Vendor_H,Printer,2024-09-01,2024-09-18,Partially Delivered,202,14323.95,14166.18,0.0,Compliant
+PO-00020,Vendor_D,Keyboard,2024-02-07,2024-02-15,Delivered,350,946.37,902.45,4.0,Non-Compliant
+PO-00021,Vendor_C,Laptop,2024-04-17,2024-04-21,Delivered,438,51371.08,50993.01,5.0,Compliant
+PO-00022,Vendor_B,Laptop,2023-10-31,2023-11-28,Delivered,258,55568.2,55236.18,2.0,Compliant
+PO-00023,Vendor_H,Keyboard,2023-02-23,2023-03-13,Delivered,124,941.88,933.46,2.0,Compliant
+PO-00024,Vendor_C,SSD,2023-06-02,2023-06-05,Delivered,353,5951.57,5703.52,3.0,Compliant
+PO-00025,Vendor_F,Laptop,2023-10-04,2023-10-12,Partially Delivered,308,49255.06,48219.62,2.0,Compliant
+PO-00026,Vendor_G,Printer,2023-01-22,,Pending,242,15828.89,15808.84,,Compliant
+PO-00027,Vendor_E,Desktop,2024-08-31,2024-09-29,Partially Delivered,288,48483.27,48088.13,0.0,Compliant
+PO-00028,Vendor_D,Laptop,2023-08-08,2023-08-12,Partially Delivered,162,57574.14,57280.04,2.0,Compliant
+PO-00029,Vendor_D,Monitor,2023-04-26,2023-04-28,Delivered,195,12818.97,12196.67,1.0,Non-Compliant
+PO-00030,Vendor_C,Office Chair,2024-11-16,2024-12-10,Delivered,284,7710.91,7558.76,5.0,Compliant
+PO-00031,Vendor_A,Laptop,2023-09-03,2023-09-30,Partially Delivered,180,50236.41,48115.96,6.0,Compliant
+PO-00032,Vendor_D,SSD,2024-11-15,2024-12-02,Delivered,24,6947.82,6823.58,0.0,Compliant
+PO-00033,Vendor_G,Router,2023-02-20,2023-03-15,Delivered,157,4348.23,4343.49,0.0,Compliant
+PO-00034,Vendor_C,Printer,2024-03-19,,Cancelled,105,13666.38,13477.78,,Compliant
+PO-00035,Vendor_E,Printer,2023-12-16,,Cancelled,51,14698.68,13938.78,,Compliant
+PO-00036,Vendor_A,Monitor,2023-04-30,2023-05-27,Delivered,323,11904.27,11721.45,9.0,Compliant
+PO-00037,Vendor_A,Mouse,2023-02-27,2023-03-22,Delivered,126,506.23,483.46,1.0,Non-Compliant
+PO-00038,Vendor_H,Router,2024-03-22,2024-04-04,Delivered,73,4256.31,4108.09,0.0,Compliant
+PO-00039,Vendor_E,Packaging Box,2023-02-16,2023-03-01,Delivered,98,123.87,121.67,3.0,Compliant
+PO-00040,Vendor_G,Mouse,2024-06-05,2024-06-16,Delivered,250,603.63,569.05,4.0,Compliant
+PO-00041,Vendor_H,Keyboard,2023-12-02,2023-12-30,Partially Delivered,251,947.98,940.43,4.0,Compliant
+PO-00042,Vendor_C,Monitor,2024-09-04,2024-09-15,Delivered,272,11589.4,11562.41,1.0,Compliant
+PO-00043,Vendor_B,Monitor,2023-02-04,2023-03-03,Delivered,219,12093.92,11599.74,1.0,Compliant
+PO-00044,Vendor_E,Office Chair,2024-09-17,2024-10-13,Partially Delivered,497,8855.93,8345.4,2.0,Compliant
+PO-00045,Vendor_A,Monitor,2023-04-09,,Pending,500,11463.87,10948.01,,Compliant
+PO-00046,Vendor_A,Packaging Box,2024-11-25,2024-12-13,Delivered,17,118.52,113.1,0.0,Compliant
+PO-00047,Vendor_A,Monitor,2024-09-03,2024-09-13,Delivered,400,12660.3,12544.19,12.0,Compliant
+PO-00048,Vendor_E,Mouse,2023-04-09,,Cancelled,400,533.3,522.82,,Compliant
+PO-00049,Vendor_E,Router,2024-11-23,2024-12-20,Delivered,46,4394.63,4393.56,0.0,Compliant
+PO-00050,Vendor_A,Packaging Box,2023-03-15,2023-03-23,Delivered,446,116.83,110.53,2.0,Compliant
+PO-00051,Vendor_E,Desktop,2023-01-29,2023-02-12,Delivered,169,45998.76,44843.19,6.0,Non-Compliant
+PO-00052,Vendor_D,Keyboard,2023-03-11,2023-04-03,Delivered,256,897.77,885.77,1.0,Compliant
+PO-00053,Vendor_D,Desktop,2024-09-29,2024-10-09,Partially Delivered,62,51857.41,51133.05,0.0,Compliant
+PO-00054,Vendor_A,Packaging Box,2024-02-13,2024-03-11,Delivered,316,115.59,111.68,2.0,Compliant
+PO-00055,Vendor_E,Printer,2023-07-22,2023-08-12,Delivered,256,13620.82,13256.21,0.0,Compliant
+PO-00056,Vendor_E,Laptop,2024-07-19,2024-07-31,Delivered,378,50764.65,49963.89,11.0,Compliant
+PO-00057,Vendor_E,Packaging Box,2023-01-08,2023-02-04,Delivered,126,114.35,110.67,0.0,Compliant
+PO-00058,Vendor_F,Desk,2023-05-25,2023-06-23,Delivered,205,10787.66,10667.14,0.0,Non-Compliant
+PO-00059,Vendor_H,Monitor,2024-12-09,2024-12-28,Delivered,307,13128.76,12406.22,1.0,Compliant
+PO-00060,Vendor_H,Desktop,2023-08-27,,Cancelled,181,47290.02,46579.47,,Compliant
+PO-00061,Vendor_B,Laptop,2023-04-15,,Pending,103,50709.54,47708.57,,Compliant
+PO-00062,Vendor_F,Mouse,2024-03-12,2024-03-23,Delivered,27,522.33,520.6,0.0,Compliant
+PO-00063,Vendor_F,Keyboard,2024-03-24,2024-04-02,Delivered,373,853.54,804.73,4.0,Compliant
+PO-00064,Vendor_D,Desktop,2023-02-23,2023-03-21,Delivered,240,50768.55,50392.82,2.0,Compliant
+PO-00065,Vendor_C,Desktop,2024-03-10,2024-03-17,Delivered,107,43151.17,40599.76,1.0,Compliant
+PO-00066,Vendor_D,Desktop,2023-09-06,2023-09-30,Delivered,170,50103.11,49833.97,4.0,Compliant
+PO-00067,Vendor_B,Laptop,2024-05-22,2024-06-13,Delivered,344,52779.91,52716.68,2.0,Compliant
+PO-00068,Vendor_G,SSD,2023-07-02,2023-07-11,Delivered,340,6726.76,6379.19,4.0,Compliant
+PO-00069,Vendor_E,Desk,2024-11-02,2024-11-24,Delivered,438,12025.32,11465.31,1.0,Compliant
+PO-00070,Vendor_E,Laptop,2023-08-21,2023-09-05,Delivered,16,49665.85,47771.41,0.0,Compliant
+PO-00071,Vendor_G,Printer,2023-02-25,2023-03-15,Delivered,354,15015.39,14454.37,7.0,Compliant
+PO-00072,Vendor_F,Hard Drive,2024-06-09,2024-06-12,Partially Delivered,478,4933.24,4794.5,0.0,Compliant
+PO-00073,Vendor_F,Router,2023-12-29,2024-01-05,Delivered,243,3646.29,3617.24,1.0,Compliant
+PO-00074,Vendor_G,Office Chair,2023-09-30,,Pending,235,8727.47,8484.15,,Compliant
+PO-00075,Vendor_B,Keyboard,2023-03-08,2023-03-24,Partially Delivered,237,917.83,867.55,3.0,Compliant
+PO-00076,Vendor_A,Office Chair,2024-09-04,2024-10-02,Delivered,10,8551.33,8349.97,0.0,Compliant
+PO-00077,Vendor_E,Printer,2024-12-10,2024-12-22,Delivered,74,13917.39,13216.52,0.0,Compliant
+PO-00078,Vendor_C,Monitor,2024-06-26,2024-07-03,Delivered,44,12027.72,12025.74,2.0,Compliant
+PO-00079,Vendor_F,Laptop,2024-05-18,2024-06-03,Delivered,490,48808.15,48601.33,7.0,Compliant
+PO-00080,Vendor_F,Office Chair,2024-12-24,2024-12-26,Delivered,229,8041.69,7814.84,2.0,Compliant
+PO-00081,Vendor_E,Keyboard,2023-09-16,2023-09-22,Delivered,165,877.02,848.3,2.0,Compliant
+PO-00082,Vendor_G,Laptop,2024-09-04,2024-09-29,Delivered,333,57913.73,56508.65,3.0,Compliant
+PO-00083,Vendor_D,Packaging Box,2023-11-30,2023-12-13,Delivered,377,129.49,129.01,8.0,Compliant
+PO-00084,Vendor_C,Hard Drive,2023-08-17,2023-08-23,Partially Delivered,274,5063.7,5010.57,4.0,Compliant
+PO-00085,Vendor_A,Office Chair,2024-02-06,2024-02-26,Delivered,300,8112.95,7973.63,3.0,Compliant
+PO-00086,Vendor_A,Laptop,2024-05-17,2024-06-06,Delivered,454,50180.9,49899.3,3.0,Compliant
+PO-00087,Vendor_H,Office Chair,2024-05-14,2024-05-22,Delivered,19,8886.2,8617.17,1.0,Compliant
+PO-00088,Vendor_G,Desk,2023-10-16,,Pending,258,12500.51,12286.05,,Compliant
+PO-00089,Vendor_E,Printer,2023-06-08,2023-07-03,Delivered,307,14951.8,14169.06,3.0,Compliant
+PO-00090,Vendor_C,Desktop,2023-04-05,2023-04-17,Delivered,119,46170.11,44903.36,5.0,Compliant
+PO-00091,Vendor_H,Printer,2023-01-23,2023-02-19,Delivered,307,14131.0,13804.53,4.0,Compliant
+PO-00092,Vendor_C,Packaging Box,2024-04-04,2024-04-29,Delivered,496,113.68,111.61,8.0,Compliant
+PO-00093,Vendor_F,SSD,2023-02-20,2023-03-04,Delivered,33,5696.01,5641.48,1.0,Compliant
+PO-00094,Vendor_G,Printer,2023-01-01,2023-01-17,Delivered,323,15305.67,14596.16,0.0,Compliant
+PO-00095,Vendor_B,Mouse,2024-07-28,2024-07-31,Delivered,248,563.52,560.81,5.0,Compliant
+PO-00096,Vendor_D,Desk,2023-06-28,2023-07-05,Delivered,186,12110.7,11746.19,2.0,Compliant
+PO-00097,Vendor_D,Office Chair,2024-04-13,2024-05-01,Delivered,53,8580.18,8560.14,1.0,Compliant
+PO-00098,Vendor_A,Router,2023-05-21,2023-06-10,Delivered,482,4152.94,3956.07,5.0,Compliant
+PO-00099,Vendor_C,Hard Drive,2023-01-18,2023-01-21,Delivered,261,5049.61,4883.97,2.0,Compliant
+PO-00100,Vendor_A,Keyboard,2023-09-21,2023-10-02,Delivered,417,819.99,807.85,5.0,Compliant
+PO-00101,Vendor_H,Packaging Box,2023-06-27,2023-07-21,Delivered,395,122.29,115.15,2.0,Compliant
+PO-00102,Vendor_G,SSD,2023-08-17,2023-08-26,Delivered,71,7346.4,7151.01,1.0,Compliant
+PO-00103,Vendor_H,Desk,2024-03-27,,Pending,169,11483.16,11074.17,,Compliant
+PO-00104,Vendor_A,Router,2023-05-31,2023-06-05,Delivered,89,3802.92,3616.14,3.0,Compliant
+PO-00105,Vendor_B,Desk,2024-01-21,2024-01-27,Delivered,199,12372.63,11829.27,2.0,Compliant
+PO-00106,Vendor_D,Monitor,2024-05-20,,Cancelled,346,13565.62,12844.67,,Compliant
+PO-00107,Vendor_B,Laptop,2023-04-25,2023-05-09,Delivered,213,51567.68,50149.47,1.0,Compliant
+PO-00108,Vendor_B,Office Chair,2023-01-29,,Pending,113,8868.95,8700.36,,Compliant
+PO-00109,Vendor_A,Keyboard,2023-02-03,2023-02-16,Delivered,21,854.18,828.42,0.0,Compliant
+PO-00110,Vendor_C,Printer,2023-06-17,2023-06-25,Delivered,102,13794.41,13517.17,1.0,Compliant
+PO-00111,Vendor_D,Desktop,2023-12-29,2024-01-25,Delivered,197,47876.77,46736.78,3.0,Compliant
+PO-00112,Vendor_G,Desk,2023-08-15,2023-09-07,Delivered,314,12922.75,12661.97,2.0,Compliant
+PO-00113,Vendor_C,Monitor,2023-09-01,2023-09-13,Delivered,495,12238.44,12205.57,4.0,Compliant
+PO-00114,Vendor_A,Laptop,2023-08-05,2023-08-13,Delivered,65,51048.61,49317.53,0.0,Non-Compliant
+PO-00115,Vendor_B,Printer,2024-06-07,2024-06-25,Delivered,279,14460.95,14293.87,5.0,Compliant
+PO-00116,Vendor_C,Hard Drive,2024-10-22,,Cancelled,85,4981.14,4889.17,,Compliant
+PO-00117,Vendor_G,Packaging Box,2024-07-24,2024-08-04,Delivered,414,122.63,120.2,9.0,Compliant
+PO-00118,Vendor_F,Router,2023-12-01,,Cancelled,121,3971.12,3778.74,,Non-Compliant
+PO-00119,Vendor_G,Desktop,2024-01-07,2024-01-15,Delivered,427,51560.96,50083.54,4.0,Compliant
+PO-00120,Vendor_C,Desktop,2023-06-20,2023-06-28,Delivered,428,44800.72,43199.95,7.0,Compliant
+PO-00121,Vendor_A,Desktop,2023-01-16,2023-02-09,Delivered,497,46720.68,44570.48,1.0,Compliant
+PO-00122,Vendor_H,Desktop,2024-08-30,2024-09-29,Partially Delivered,231,45523.37,42817.88,2.0,Compliant
+PO-00123,Vendor_D,Hard Drive,2023-08-27,2023-09-04,Delivered,381,5635.77,5438.89,1.0,Compliant
+PO-00124,Vendor_F,Hard Drive,2023-11-20,,Pending,150,4631.07,4364.9,,Compliant
+PO-00125,Vendor_A,Laptop,2023-12-10,2024-01-09,Delivered,456,48232.23,48087.42,11.0,Compliant
+PO-00126,Vendor_C,Hard Drive,2023-03-03,2023-03-08,Delivered,337,5174.94,5095.25,7.0,Compliant
+PO-00127,Vendor_C,Office Chair,2023-08-14,2023-08-18,Partially Delivered,317,7722.0,7345.06,6.0,Compliant
+PO-00128,Vendor_C,SSD,2023-01-20,2023-01-24,Partially Delivered,382,6128.35,5856.34,3.0,Compliant
+PO-00129,Vendor_E,Printer,2023-04-30,,Pending,385,14418.69,14066.53,,Compliant
+PO-00130,Vendor_C,Hard Drive,2024-09-26,,Pending,480,4874.32,4594.84,,Compliant
+PO-00131,Vendor_A,Hard Drive,2023-09-18,2023-10-04,Delivered,399,4744.59,4576.19,2.0,Compliant
+PO-00132,Vendor_D,Mouse,2024-11-18,2024-12-07,Delivered,465,604.84,604.53,5.0,Compliant
+PO-00133,Vendor_H,Hard Drive,2023-02-09,2023-03-06,Partially Delivered,351,5427.44,5340.79,7.0,Compliant
+PO-00134,Vendor_E,SSD,2023-12-29,2024-01-26,Partially Delivered,49,6587.49,6461.07,1.0,Compliant
+PO-00135,Vendor_G,Monitor,2024-06-18,2024-06-26,Delivered,430,12898.77,12384.2,10.0,Compliant
+PO-00136,Vendor_B,Router,2023-08-12,2023-08-30,Delivered,17,4344.11,4339.21,0.0,Compliant
+PO-00137,Vendor_C,Printer,2024-02-18,2024-03-18,Delivered,459,13697.5,13667.08,5.0,Non-Compliant
+PO-00138,Vendor_B,Keyboard,2023-11-20,2023-12-08,Delivered,223,881.25,869.14,2.0,Compliant
+PO-00139,Vendor_F,Desktop,2024-12-04,2024-12-08,Delivered,179,46644.68,45944.04,0.0,Compliant
+PO-00140,Vendor_C,Monitor,2024-07-23,,Cancelled,475,11673.72,11164.95,,Compliant
+PO-00141,Vendor_G,SSD,2023-09-28,2023-10-01,Partially Delivered,379,7294.56,6987.48,1.0,Compliant
+PO-00142,Vendor_H,Packaging Box,2024-08-26,,Cancelled,481,126.39,121.99,,Compliant
+PO-00143,Vendor_C,Mouse,2024-05-21,2024-05-24,Delivered,261,505.88,497.52,0.0,Compliant
+PO-00144,Vendor_H,Packaging Box,2024-06-22,2024-07-22,Partially Delivered,76,115.09,109.59,2.0,Compliant
+PO-00145,Vendor_E,Monitor,2024-11-23,2024-12-08,Delivered,28,12999.96,12700.95,0.0,Compliant
+PO-00146,Vendor_D,Keyboard,2024-06-04,2024-06-27,Delivered,170,913.88,867.87,2.0,Compliant
+PO-00147,Vendor_H,Laptop,2023-10-01,2023-10-08,Delivered,482,51329.16,49727.5,10.0,Compliant
+PO-00148,Vendor_C,Hard Drive,2023-08-02,2023-08-28,Delivered,183,4656.27,4444.52,0.0,Compliant
+PO-00149,Vendor_B,Laptop,2023-08-30,2023-09-13,Delivered,357,53152.73,50243.79,5.0,Compliant
+PO-00150,Vendor_G,Printer,2023-03-31,2023-04-11,Delivered,178,16023.05,15851.39,1.0,Compliant
+PO-00151,Vendor_A,Printer,2023-03-14,,Pending,363,14108.66,13515.11,,Compliant
+PO-00152,Vendor_F,Keyboard,2023-04-21,2023-05-08,Delivered,255,826.45,809.63,4.0,Compliant
+PO-00153,Vendor_D,SSD,2023-01-14,2023-01-27,Delivered,463,7009.13,6838.08,6.0,Non-Compliant
+PO-00154,Vendor_E,Keyboard,2024-09-22,2024-10-11,Delivered,313,907.97,880.63,3.0,Compliant
+PO-00155,Vendor_C,Desk,2024-12-14,2024-12-30,Delivered,247,11523.96,10882.44,4.0,Compliant
+PO-00156,Vendor_D,Hard Drive,2024-05-30,2024-06-24,Delivered,224,5375.5,5371.52,3.0,Compliant
+PO-00157,Vendor_H,Desktop,2024-07-31,,Cancelled,339,50308.04,48562.51,,Compliant
+PO-00158,Vendor_C,Packaging Box,2023-08-25,2023-08-29,Partially Delivered,22,114.58,112.75,0.0,Compliant
+PO-00159,Vendor_G,Desktop,2023-10-20,,Pending,329,49159.66,47499.53,,Compliant
+PO-00160,Vendor_G,Hard Drive,2023-03-25,,Cancelled,134,5343.24,5231.71,,Compliant
+PO-00161,Vendor_E,Mouse,2024-03-24,2024-04-17,Delivered,428,550.95,531.01,0.0,Compliant
+PO-00162,Vendor_E,Office Chair,2023-12-27,2024-01-09,Delivered,261,8363.94,8157.13,0.0,Compliant
+PO-00163,Vendor_G,Mouse,2023-07-23,2023-08-17,Delivered,169,614.09,603.23,2.0,Compliant
+PO-00164,Vendor_F,Desktop,2024-10-03,2024-11-02,Delivered,461,44325.17,44156.57,1.0,Compliant
+PO-00165,Vendor_A,Laptop,2024-11-21,,Cancelled,210,51047.44,49201.7,,Compliant
+PO-00166,Vendor_A,Desktop,2023-11-02,2023-11-18,Delivered,289,48114.44,46540.35,2.0,Compliant
+PO-00167,Vendor_H,Keyboard,2024-01-10,2024-01-19,Delivered,12,950.75,899.06,1.0,Compliant
+PO-00168,Vendor_G,Laptop,2023-04-29,2023-05-18,Delivered,222,55312.86,52052.22,4.0,Compliant
+PO-00169,Vendor_A,Hard Drive,2023-01-01,2023-01-18,Delivered,151,5256.1,5201.49,1.0,Non-Compliant
+PO-00170,Vendor_G,Printer,2024-08-07,2024-08-17,Delivered,165,15485.06,15364.98,0.0,Compliant
+PO-00171,Vendor_F,Printer,2024-10-05,2024-10-19,Partially Delivered,106,13241.03,13162.68,2.0,Compliant
+PO-00172,Vendor_G,Printer,2024-08-23,2024-08-31,Delivered,217,15330.36,14747.62,2.0,Compliant
+PO-00173,Vendor_C,Laptop,2023-04-12,2023-04-27,Delivered,478,49390.67,46926.4,4.0,Compliant
+PO-00174,Vendor_F,Desktop,2024-09-20,2024-09-23,Delivered,225,43318.74,41707.79,1.0,Compliant
+PO-00175,Vendor_F,Router,2024-05-12,2024-06-05,Delivered,368,4075.22,3835.16,3.0,Non-Compliant
+PO-00176,Vendor_C,Keyboard,2023-02-20,2023-03-12,Delivered,275,815.26,789.78,2.0,Compliant
+PO-00177,Vendor_E,Desk,2023-06-05,2023-06-24,Delivered,295,11995.38,11340.16,8.0,Compliant
+PO-00178,Vendor_G,Router,2023-04-18,2023-05-13,Partially Delivered,78,4699.18,4469.27,1.0,Compliant
+PO-00179,Vendor_G,Printer,2024-01-20,2024-02-17,Delivered,176,14801.98,14476.17,2.0,Compliant
+PO-00180,Vendor_A,Office Chair,2023-01-10,2023-01-19,Partially Delivered,476,8072.88,7995.31,4.0,Compliant
+PO-00181,Vendor_C,Hard Drive,2024-09-03,2024-09-23,Delivered,64,4988.55,4931.54,1.0,Compliant
+PO-00182,Vendor_D,Monitor,2023-08-14,2023-08-31,Delivered,165,12678.87,11990.95,0.0,Compliant
+PO-00183,Vendor_F,SSD,2023-03-18,2023-03-22,Delivered,445,5977.68,5973.3,6.0,Compliant
+PO-00184,Vendor_A,SSD,2024-04-03,2024-04-08,Partially Delivered,491,6121.01,6054.43,4.0,Compliant
+PO-00185,Vendor_E,Hard Drive,2023-12-19,2024-01-16,Delivered,168,4957.65,4756.38,2.0,Compliant
+PO-00186,Vendor_E,Packaging Box,2024-03-03,2024-03-12,Delivered,31,120.8,115.52,0.0,Compliant
+PO-00187,Vendor_B,Printer,2024-12-27,2024-12-30,Delivered,176,15077.23,14677.19,1.0,Compliant
+PO-00188,Vendor_E,Mouse,2024-04-21,2024-05-02,Delivered,291,561.15,533.22,4.0,Compliant
+PO-00189,Vendor_H,Packaging Box,2024-05-29,2024-06-18,Delivered,148,118.31,112.06,6.0,Compliant
+PO-00190,Vendor_F,SSD,2023-05-29,,Pending,88,6068.69,5737.02,,Compliant
+PO-00191,Vendor_F,Packaging Box,2024-05-14,2024-06-07,Delivered,230,104.61,99.07,0.0,Non-Compliant
+PO-00192,Vendor_A,SSD,2023-06-29,2023-07-23,Delivered,194,6200.47,6051.88,3.0,Compliant
+PO-00193,Vendor_B,Keyboard,2023-01-12,2023-01-26,Delivered,243,906.67,881.63,7.0,Compliant
+PO-00194,Vendor_D,Router,2024-06-09,2024-07-07,Delivered,77,4316.08,4063.04,2.0,Compliant
+PO-00195,Vendor_B,SSD,2023-09-10,2023-09-12,Delivered,314,6481.8,6328.71,3.0,Compliant
+PO-00196,Vendor_F,SSD,2023-01-25,2023-01-28,Delivered,145,5884.94,5555.91,0.0,Compliant
+PO-00197,Vendor_E,Packaging Box,2024-06-26,2024-07-03,Delivered,338,124.16,,0.0,Compliant
+PO-00198,Vendor_E,Monitor,2024-04-11,2024-04-23,Partially Delivered,422,12315.3,11619.36,4.0,Compliant
+PO-00199,Vendor_C,SSD,2023-05-29,2023-06-06,Delivered,333,6317.27,6038.83,1.0,Non-Compliant
+PO-00200,Vendor_E,Laptop,2023-12-25,,Pending,384,50283.11,49148.41,,Compliant
+PO-00201,Vendor_D,Mouse,2024-12-03,2024-12-31,Delivered,66,588.18,565.39,2.0,Compliant
+PO-00202,Vendor_B,Router,2024-07-27,2024-08-18,Partially Delivered,223,4242.14,4188.77,1.0,Compliant
+PO-00203,Vendor_B,Mouse,2023-08-30,2023-09-13,Delivered,497,593.04,585.98,3.0,Compliant
+PO-00204,Vendor_D,Mouse,2023-07-02,2023-07-23,Delivered,121,576.69,547.28,3.0,Compliant
+PO-00205,Vendor_B,Printer,2023-01-21,2023-02-08,Delivered,46,15485.87,15444.37,2.0,Compliant
+PO-00206,Vendor_B,Laptop,2023-08-30,2023-09-28,Delivered,318,51468.27,50792.5,7.0,Compliant
+PO-00207,Vendor_D,Laptop,2023-06-22,2023-07-16,Delivered,471,52016.5,51979.91,0.0,Compliant
+PO-00208,Vendor_H,Monitor,2024-04-27,2024-05-06,Delivered,156,11803.36,11455.34,0.0,Compliant
+PO-00209,Vendor_C,Router,2024-06-23,2024-07-16,Partially Delivered,55,3793.61,3588.39,0.0,Compliant
+PO-00210,Vendor_A,Packaging Box,2023-08-11,2023-08-14,Delivered,140,118.92,116.24,0.0,Compliant
+PO-00211,Vendor_A,SSD,2023-08-05,2023-08-16,Partially Delivered,382,6223.72,6184.81,6.0,Compliant
+PO-00212,Vendor_H,Mouse,2023-12-17,2023-12-29,Delivered,404,570.58,558.82,1.0,Compliant
+PO-00213,Vendor_C,Hard Drive,2023-05-04,2023-05-25,Delivered,477,4690.73,4486.34,4.0,Compliant
+PO-00214,Vendor_B,Monitor,2024-06-27,2024-07-07,Delivered,226,13302.9,13180.39,2.0,Non-Compliant
+PO-00215,Vendor_F,Hard Drive,2024-10-08,2024-10-31,Partially Delivered,155,4873.65,4633.11,1.0,Compliant
+PO-00216,Vendor_E,Desktop,2023-08-01,2023-08-17,Delivered,467,45192.68,45098.13,10.0,Compliant
+PO-00217,Vendor_H,Laptop,2024-05-29,2024-06-06,Delivered,195,49541.01,47019.08,3.0,Compliant
+PO-00218,Vendor_H,Office Chair,2024-08-06,2024-08-11,Delivered,133,8746.55,8684.34,2.0,Compliant
+PO-00219,Vendor_E,Office Chair,2023-10-29,2023-11-15,Partially Delivered,235,8531.11,8371.35,0.0,Compliant
+PO-00220,Vendor_D,Printer,2023-07-28,2023-08-23,Delivered,466,14681.43,14644.5,10.0,Compliant
+PO-00221,Vendor_E,Monitor,2024-11-28,,Pending,136,12204.78,11943.62,,Compliant
+PO-00222,Vendor_F,Mouse,2024-04-13,2024-04-20,Delivered,314,517.88,486.91,1.0,Compliant
+PO-00223,Vendor_D,Router,2023-08-09,2023-09-05,Delivered,18,4528.23,4284.83,0.0,Compliant
+PO-00224,Vendor_C,Desktop,2023-06-08,2023-06-23,Delivered,192,46879.95,45468.65,4.0,Non-Compliant
+PO-00225,Vendor_G,Mouse,2024-12-04,2024-12-28,Partially Delivered,23,589.74,559.57,0.0,Compliant
+PO-00226,Vendor_C,Packaging Box,2023-10-30,2023-11-01,Delivered,463,115.96,111.09,8.0,Compliant
+PO-00227,Vendor_G,Printer,2023-03-19,2023-04-05,Delivered,128,15441.7,15045.04,4.0,Compliant
+PO-00228,Vendor_A,Desk,2023-09-11,2023-09-25,Partially Delivered,122,11206.29,10882.26,1.0,Compliant
+PO-00229,Vendor_E,Mouse,2023-02-18,2023-02-25,Delivered,409,541.77,524.96,2.0,Compliant
+PO-00230,Vendor_A,Hard Drive,2024-09-03,2024-09-16,Delivered,330,4726.79,4507.06,6.0,Non-Compliant
+PO-00231,Vendor_D,Hard Drive,2024-09-09,,Pending,418,5156.18,4932.11,,Compliant
+PO-00232,Vendor_G,Printer,2024-09-09,,Pending,221,16179.99,15272.65,,Compliant
+PO-00233,Vendor_B,Desktop,2024-03-16,2024-03-24,Delivered,25,49150.48,47413.78,0.0,Compliant
+PO-00234,Vendor_G,Hard Drive,2023-07-18,2023-08-02,Partially Delivered,409,5314.26,5128.94,6.0,Compliant
+PO-00235,Vendor_E,Office Chair,2023-11-01,2023-11-14,Delivered,407,8221.82,8195.69,0.0,Compliant
+PO-00236,Vendor_A,Office Chair,2023-11-23,2023-12-23,Delivered,90,8219.95,7984.89,1.0,Compliant
+PO-00237,Vendor_A,Laptop,2024-09-01,2024-09-12,Delivered,458,48279.51,47836.07,12.0,Compliant
+PO-00238,Vendor_H,Desktop,2024-03-10,2024-03-26,Delivered,129,49435.87,47331.64,2.0,Compliant
+PO-00239,Vendor_H,Laptop,2023-02-01,2023-02-06,Partially Delivered,395,54322.13,52838.64,3.0,Compliant
+PO-00240,Vendor_D,Printer,2024-08-26,2024-09-22,Partially Delivered,274,14747.78,14262.2,3.0,Compliant
+PO-00241,Vendor_H,Monitor,2023-02-13,2023-02-21,Delivered,101,12336.09,12186.83,1.0,Compliant
+PO-00242,Vendor_C,Monitor,2024-05-18,2024-06-16,Partially Delivered,272,11782.89,11278.92,1.0,Compliant
+PO-00243,Vendor_B,Hard Drive,2024-07-07,2024-07-15,Delivered,320,5428.69,5361.35,5.0,Compliant
+PO-00244,Vendor_A,Printer,2023-08-08,2023-09-06,Partially Delivered,133,13140.56,12638.87,2.0,Non-Compliant
+PO-00245,Vendor_H,Monitor,2024-10-10,2024-10-12,Delivered,16,12859.6,12334.67,0.0,Compliant
+PO-00246,Vendor_D,Keyboard,2023-04-12,2023-04-18,Delivered,227,962.71,912.45,3.0,Compliant
+PO-00247,Vendor_C,Mouse,2024-12-01,2024-12-20,Delivered,480,539.22,533.37,14.0,Compliant
+PO-00248,Vendor_D,Packaging Box,2024-04-01,2024-04-14,Delivered,217,122.29,120.96,1.0,Compliant
+PO-00249,Vendor_E,Laptop,2024-11-05,2024-11-24,Partially Delivered,184,53984.15,53140.93,3.0,Compliant
+PO-00250,Vendor_D,Mouse,2024-10-12,2024-11-02,Partially Delivered,354,610.7,597.29,0.0,Compliant
+PO-00251,Vendor_F,Router,2023-07-20,2023-08-13,Delivered,152,3737.5,3700.96,2.0,Compliant
+PO-00252,Vendor_C,Mouse,2023-11-09,,Pending,121,511.31,503.92,,Compliant
+PO-00253,Vendor_D,Monitor,2023-07-26,2023-08-23,Delivered,214,13362.46,13261.62,0.0,Compliant
+PO-00254,Vendor_E,Keyboard,2024-12-02,2024-12-30,Delivered,39,881.67,871.21,0.0,Compliant
+PO-00255,Vendor_F,Router,2023-03-24,2023-04-03,Partially Delivered,114,4054.47,3994.62,3.0,Compliant
+PO-00256,Vendor_G,Packaging Box,2024-09-24,2024-10-01,Delivered,279,135.4,128.19,0.0,Compliant
+PO-00257,Vendor_H,Laptop,2023-03-30,2023-04-27,Partially Delivered,146,52613.75,50395.25,0.0,Compliant
+PO-00258,Vendor_A,Desktop,2024-09-28,2024-10-22,Delivered,114,45197.51,45167.76,1.0,Compliant
+PO-00259,Vendor_H,Desk,2024-05-08,2024-05-25,Partially Delivered,54,12105.62,11857.81,0.0,Compliant
+PO-00260,Vendor_D,SSD,2023-02-04,2023-02-13,Delivered,469,6468.48,6451.34,3.0,Compliant
+PO-00261,Vendor_C,SSD,2023-01-26,2023-02-15,Delivered,312,6068.49,5925.43,6.0,Compliant
+PO-00262,Vendor_D,Packaging Box,2024-02-10,2024-02-13,Delivered,80,125.81,123.18,3.0,Compliant
+PO-00263,Vendor_F,Printer,2023-08-02,2023-08-09,Delivered,157,12544.28,11821.55,0.0,Non-Compliant
+PO-00264,Vendor_C,Laptop,2024-02-28,2024-03-24,Delivered,146,49529.79,47392.13,3.0,Compliant
+PO-00265,Vendor_C,Hard Drive,2024-02-08,2024-03-01,Delivered,384,4761.84,4608.37,3.0,Non-Compliant
+PO-00266,Vendor_H,SSD,2024-07-02,,Pending,309,6591.31,6240.85,,Compliant
+PO-00267,Vendor_E,Router,2024-12-04,2024-12-19,Delivered,271,3930.9,3801.32,3.0,Compliant
+PO-00268,Vendor_E,Mouse,2023-09-25,,Cancelled,449,532.04,526.41,,Compliant
+PO-00269,Vendor_C,SSD,2023-06-23,2023-07-11,Delivered,347,6269.52,6205.42,2.0,Compliant
+PO-00270,Vendor_B,Keyboard,2024-04-29,2024-05-17,Delivered,151,928.61,903.51,0.0,Non-Compliant
+PO-00271,Vendor_B,SSD,2024-03-25,2024-04-13,Delivered,311,6704.52,6306.32,0.0,Compliant
+PO-00272,Vendor_C,Printer,2024-09-20,2024-09-29,Partially Delivered,6,13679.05,13538.72,0.0,Compliant
+PO-00273,Vendor_E,Router,2023-12-23,2024-01-18,Partially Delivered,217,4311.69,4108.88,5.0,Compliant
+PO-00274,Vendor_D,Desktop,2024-09-02,2024-09-29,Delivered,433,49041.51,47000.34,2.0,Compliant
+PO-00275,Vendor_G,Packaging Box,2023-02-10,2023-03-09,Delivered,67,123.36,122.54,0.0,Compliant
+PO-00276,Vendor_H,Desktop,2024-10-29,2024-10-31,Delivered,425,48839.47,46040.32,0.0,Compliant
+PO-00277,Vendor_C,Packaging Box,2024-03-02,2024-03-20,Delivered,499,107.0,103.21,9.0,Compliant
+PO-00278,Vendor_D,Hard Drive,2024-04-30,2024-05-19,Delivered,325,5201.37,4941.52,0.0,Non-Compliant
+PO-00279,Vendor_B,Keyboard,2023-06-04,2023-06-15,Delivered,434,866.33,834.52,1.0,Compliant
+PO-00280,Vendor_E,Office Chair,2023-05-02,,Pending,129,8284.13,7973.38,,Compliant
+PO-00281,Vendor_A,Packaging Box,2024-01-04,2024-01-25,Delivered,289,112.27,112.01,7.0,Non-Compliant
+PO-00282,Vendor_A,SSD,2024-11-04,2024-11-24,Delivered,369,6436.11,,7.0,Compliant
+PO-00283,Vendor_F,Mouse,2024-01-18,2024-01-23,Delivered,496,489.91,484.93,3.0,Compliant
+PO-00284,Vendor_C,Desktop,2024-03-10,2024-04-02,Delivered,277,46390.1,44443.08,2.0,Compliant
+PO-00285,Vendor_E,Packaging Box,2024-10-18,,Pending,105,119.41,113.88,,Compliant
+PO-00286,Vendor_F,Packaging Box,2024-10-22,2024-11-09,Delivered,250,114.25,108.25,0.0,Non-Compliant
+PO-00287,Vendor_C,Monitor,2024-10-27,2024-11-03,Delivered,308,11177.08,11012.52,2.0,Compliant
+PO-00288,Vendor_G,Hard Drive,2024-02-03,2024-02-22,Partially Delivered,415,5623.6,5452.3,7.0,Compliant
+PO-00289,Vendor_G,Keyboard,2023-12-31,2024-01-21,Delivered,167,937.06,886.98,1.0,Compliant
+PO-00290,Vendor_C,Printer,2024-03-18,2024-04-11,Delivered,329,13647.06,13341.31,4.0,Compliant
+PO-00291,Vendor_B,Printer,2023-11-16,2023-11-26,Delivered,130,15046.41,14883.73,2.0,Compliant
+PO-00292,Vendor_B,Monitor,2023-09-21,2023-09-29,Delivered,286,13252.56,12691.67,2.0,Compliant
+PO-00293,Vendor_H,Hard Drive,2023-07-07,2023-07-11,Delivered,132,5392.93,5355.53,0.0,Compliant
+PO-00294,Vendor_F,Keyboard,2023-12-24,2024-01-22,Delivered,79,812.98,769.62,0.0,Compliant
+PO-00295,Vendor_H,Printer,2023-03-07,2023-04-05,Delivered,428,13826.5,13695.49,0.0,Compliant
+PO-00296,Vendor_B,Packaging Box,2023-10-22,,Pending,455,126.86,126.32,,Compliant
+PO-00297,Vendor_G,Mouse,2023-11-17,2023-12-09,Delivered,405,604.01,603.25,5.0,Compliant
+PO-00298,Vendor_G,Router,2024-06-27,2024-07-20,Delivered,450,4510.93,4462.6,4.0,Compliant
+PO-00299,Vendor_E,Keyboard,2024-02-12,,Pending,339,896.61,870.8,,Compliant
+PO-00300,Vendor_G,Packaging Box,2023-10-17,2023-10-27,Partially Delivered,342,134.64,132.39,0.0,Compliant
+PO-00301,Vendor_B,Office Chair,2023-04-06,2023-04-25,Delivered,218,8885.34,8385.64,4.0,Compliant
+PO-00302,Vendor_C,Packaging Box,2024-09-24,2024-09-27,Delivered,69,107.79,104.98,2.0,Compliant
+PO-00303,Vendor_F,Laptop,2024-09-15,2024-10-12,Delivered,60,50504.18,47744.5,2.0,Compliant
+PO-00304,Vendor_B,Router,2023-06-24,,Cancelled,27,4157.66,4126.61,,Compliant
+PO-00305,Vendor_D,Laptop,2024-03-06,2024-03-26,Delivered,285,53276.84,50417.04,3.0,Compliant
+PO-00306,Vendor_D,Router,2024-07-06,2024-07-21,Partially Delivered,359,4387.61,4179.34,1.0,Compliant
+PO-00307,Vendor_E,Mouse,2023-04-10,2023-04-17,Delivered,35,558.85,537.76,0.0,Compliant
+PO-00308,Vendor_A,Desktop,2024-12-28,,Cancelled,268,46918.51,46182.63,,Compliant
+PO-00309,Vendor_H,Packaging Box,2024-03-13,2024-03-17,Delivered,69,125.62,120.25,2.0,Compliant
+PO-00310,Vendor_B,Mouse,2024-07-11,2024-08-03,Delivered,17,552.86,530.88,0.0,Compliant
+PO-00311,Vendor_A,Printer,2023-07-01,2023-07-06,Delivered,376,13101.38,12680.11,4.0,Compliant
+PO-00312,Vendor_H,Laptop,2024-08-26,2024-09-06,Partially Delivered,190,54228.49,52846.82,1.0,Compliant
+PO-00313,Vendor_A,Mouse,2023-02-02,2023-02-15,Delivered,59,529.14,508.44,0.0,Non-Compliant
+PO-00314,Vendor_A,Monitor,2023-06-09,2023-07-04,Delivered,335,12474.86,12180.06,2.0,Compliant
+PO-00315,Vendor_E,SSD,2024-09-01,2024-09-25,Delivered,230,6422.7,6325.37,7.0,Compliant
+PO-00316,Vendor_H,Hard Drive,2024-03-09,2024-03-19,Delivered,335,5488.77,5184.34,5.0,Compliant
+PO-00317,Vendor_B,SSD,2024-05-21,2024-05-30,Delivered,305,6451.97,6444.87,3.0,Compliant
+PO-00318,Vendor_G,Laptop,2024-07-17,2024-08-02,Delivered,106,54748.17,53007.14,2.0,Non-Compliant
+PO-00319,Vendor_D,Keyboard,2023-12-27,2024-01-03,Delivered,463,893.35,862.03,2.0,Compliant
+PO-00320,Vendor_F,Mouse,2023-10-21,2023-11-01,Delivered,66,524.64,507.63,1.0,Compliant
+PO-00321,Vendor_D,Hard Drive,2024-05-07,2024-05-19,Partially Delivered,239,5574.23,5285.6,3.0,Non-Compliant
+PO-00322,Vendor_C,Keyboard,2023-09-09,2023-10-05,Delivered,52,836.53,834.17,2.0,Compliant
+PO-00323,Vendor_F,Printer,2023-06-03,2023-07-01,Delivered,394,12843.92,12684.09,5.0,Non-Compliant
+PO-00324,Vendor_G,Desktop,2024-06-03,2024-06-08,Delivered,145,54043.54,53307.76,2.0,Compliant
+PO-00325,Vendor_B,Hard Drive,2023-04-03,2023-04-08,Delivered,90,5369.6,5316.57,1.0,Compliant
+PO-00326,Vendor_B,Hard Drive,2023-11-18,2023-11-24,Delivered,59,5449.67,5153.88,1.0,Compliant
+PO-00327,Vendor_A,Keyboard,2024-03-13,2024-03-15,Delivered,252,914.81,912.33,3.0,Compliant
+PO-00328,Vendor_F,Mouse,2024-11-05,2024-11-20,Delivered,103,533.38,519.85,1.0,Compliant
+PO-00329,Vendor_D,Desktop,2023-04-24,2023-05-15,Delivered,261,48534.75,48296.66,6.0,Compliant
+PO-00330,Vendor_A,Laptop,2023-10-05,2023-10-10,Delivered,358,50995.58,48623.95,4.0,Compliant
+PO-00331,Vendor_C,Office Chair,2024-02-07,,Pending,113,7849.1,7799.22,,Compliant
+PO-00332,Vendor_G,Keyboard,2023-03-25,2023-04-03,Delivered,403,977.19,930.55,5.0,Compliant
+PO-00333,Vendor_C,SSD,2023-09-28,2023-10-23,Partially Delivered,487,6115.07,5898.38,1.0,Compliant
+PO-00334,Vendor_B,Hard Drive,2023-01-04,2023-01-26,Delivered,327,5313.97,5142.85,0.0,Compliant
+PO-00335,Vendor_A,SSD,2024-05-23,,Cancelled,253,5911.52,5685.29,,Compliant
+PO-00336,Vendor_E,Printer,2023-11-13,2023-11-29,Delivered,216,13890.62,13058.41,2.0,Compliant
+PO-00337,Vendor_E,SSD,2023-12-09,2024-01-04,Delivered,318,6282.82,6028.48,0.0,Compliant
+PO-00338,Vendor_D,Printer,2024-07-04,2024-07-26,Delivered,20,15689.51,15118.28,0.0,Compliant
+PO-00339,Vendor_B,Desk,2023-09-11,2023-10-04,Delivered,13,11900.48,11635.17,0.0,Compliant
+PO-00340,Vendor_E,Mouse,2023-04-12,,Cancelled,245,545.41,529.34,,Compliant
+PO-00341,Vendor_H,Desktop,2023-04-06,2023-04-30,Delivered,427,47779.48,47552.99,6.0,Compliant
+PO-00342,Vendor_E,SSD,2023-03-14,,Pending,145,6213.68,6088.84,,Compliant
+PO-00343,Vendor_H,Packaging Box,2023-06-24,2023-06-28,Delivered,113,126.44,122.62,1.0,Compliant
+PO-00344,Vendor_C,Laptop,2023-02-12,,Cancelled,376,46676.78,46109.79,,Compliant
+PO-00345,Vendor_H,Keyboard,2023-11-11,2023-11-29,Delivered,417,934.25,908.83,3.0,Compliant
+PO-00346,Vendor_E,Hard Drive,2023-08-28,2023-09-14,Delivered,324,5280.45,5265.39,3.0,Compliant
+PO-00347,Vendor_B,Router,2024-01-11,2024-01-19,Delivered,26,4372.78,4319.44,1.0,Non-Compliant
+PO-00348,Vendor_B,Monitor,2024-05-14,2024-05-27,Delivered,468,12234.11,11637.27,2.0,Compliant
+PO-00349,Vendor_E,Laptop,2024-07-22,2024-08-19,Delivered,416,50890.21,48045.51,0.0,Compliant
+PO-00350,Vendor_B,Desk,2024-07-12,2024-08-04,Partially Delivered,171,12892.81,12615.67,1.0,Compliant
+PO-00351,Vendor_D,Hard Drive,2023-01-29,2023-02-24,Delivered,284,5313.44,5132.36,6.0,Compliant
+PO-00352,Vendor_E,Office Chair,2024-02-16,2024-03-08,Delivered,322,8471.04,8059.25,2.0,Compliant
+PO-00353,Vendor_B,Office Chair,2023-12-11,2023-12-22,Delivered,295,8429.18,8068.81,1.0,Compliant
+PO-00354,Vendor_D,Printer,2024-07-06,2024-07-10,Delivered,442,15582.72,15075.99,0.0,Non-Compliant
+PO-00355,Vendor_B,Desk,2023-03-14,2023-04-11,Delivered,485,12492.72,12180.57,9.0,Non-Compliant
+PO-00356,Vendor_A,Office Chair,2023-09-23,2023-10-10,Delivered,313,8595.49,8459.61,5.0,Compliant
+PO-00357,Vendor_A,Packaging Box,2023-10-28,,Cancelled,72,121.23,117.9,,Compliant
+PO-00358,Vendor_H,Office Chair,2023-09-19,2023-10-17,Delivered,180,8668.29,8407.22,1.0,Compliant
+PO-00359,Vendor_G,Packaging Box,2023-09-28,,Cancelled,136,128.58,126.45,,Compliant
+PO-00360,Vendor_A,Desk,2023-02-10,2023-02-18,Delivered,174,11797.68,11234.24,4.0,Compliant
+PO-00361,Vendor_A,Laptop,2024-01-01,2024-01-13,Delivered,73,47386.93,47134.36,1.0,Compliant
+PO-00362,Vendor_F,Desktop,2023-10-31,,Pending,142,46200.0,44490.46,,Compliant
+PO-00363,Vendor_B,Monitor,2024-08-25,,Pending,242,12430.99,12260.0,,Compliant
+PO-00364,Vendor_G,SSD,2024-01-04,2024-01-14,Delivered,448,6909.18,6865.8,6.0,Compliant
+PO-00365,Vendor_D,Desk,2024-11-10,2024-11-26,Delivered,424,12652.96,12003.4,6.0,Compliant
+PO-00366,Vendor_E,SSD,2023-08-02,,Pending,260,6363.67,6161.12,,Compliant
+PO-00367,Vendor_C,Router,2023-05-01,2023-05-31,Delivered,389,4148.89,3927.81,2.0,Compliant
+PO-00368,Vendor_C,Keyboard,2023-03-10,2023-04-04,Delivered,133,826.69,789.49,1.0,Compliant
+PO-00369,Vendor_A,Hard Drive,2023-11-07,2023-11-12,Delivered,306,5239.88,5225.05,1.0,Compliant
+PO-00370,Vendor_E,Laptop,2023-05-17,2023-06-09,Delivered,10,51809.71,50265.16,1.0,Compliant
+PO-00371,Vendor_F,Monitor,2024-12-26,2025-01-09,Partially Delivered,461,11031.3,10815.29,4.0,Compliant
+PO-00372,Vendor_H,Router,2024-08-19,2024-09-11,Delivered,454,4216.07,4162.8,3.0,Compliant
+PO-00373,Vendor_F,Monitor,2024-09-25,2024-09-28,Delivered,142,11685.8,11392.82,1.0,Compliant
+PO-00374,Vendor_G,Printer,2023-05-27,,Cancelled,122,15132.99,15096.55,,Compliant
+PO-00375,Vendor_F,Laptop,2024-04-25,2024-05-06,Delivered,23,48867.48,47143.04,0.0,Compliant
+PO-00376,Vendor_E,Desktop,2023-08-27,2023-09-26,Delivered,209,48641.25,47169.47,1.0,Compliant
+PO-00377,Vendor_B,Mouse,2023-11-01,2023-11-23,Partially Delivered,455,541.09,525.11,8.0,Compliant
+PO-00378,Vendor_G,Monitor,2024-06-24,2024-07-11,Delivered,121,13049.48,12826.05,2.0,Compliant
+PO-00379,Vendor_F,SSD,2023-12-02,2023-12-12,Delivered,429,5969.3,5730.63,7.0,Compliant
+PO-00380,Vendor_C,Monitor,2024-11-23,2024-12-13,Delivered,434,11591.83,11455.19,0.0,Compliant
+PO-00381,Vendor_H,SSD,2023-10-19,2023-11-02,Delivered,339,6161.92,6031.9,9.0,Compliant
+PO-00382,Vendor_B,Desk,2023-11-19,2023-11-28,Delivered,343,11608.42,11419.83,2.0,Compliant
+PO-00383,Vendor_G,Office Chair,2024-09-10,2024-09-28,Delivered,100,8638.41,8232.92,0.0,Compliant
+PO-00384,Vendor_D,SSD,2023-05-16,2023-05-30,Delivered,205,6893.56,6803.38,4.0,Compliant
+PO-00385,Vendor_H,Monitor,2023-02-13,2023-03-14,Delivered,33,12329.93,12080.24,0.0,Compliant
+PO-00386,Vendor_H,Mouse,2024-05-04,2024-05-17,Delivered,489,552.75,544.73,5.0,Compliant
+PO-00387,Vendor_A,Desk,2023-02-09,2023-02-22,Partially Delivered,241,11125.9,10741.96,4.0,Compliant
+PO-00388,Vendor_D,Desktop,2024-01-06,2024-01-24,Delivered,350,50102.29,49977.53,3.0,Non-Compliant
+PO-00389,Vendor_F,Laptop,2024-11-15,2024-11-29,Delivered,484,46065.67,45221.68,4.0,Compliant
+PO-00390,Vendor_H,Keyboard,2023-12-06,2023-12-15,Delivered,361,926.77,879.54,0.0,Compliant
+PO-00391,Vendor_G,Monitor,2024-05-31,2024-06-07,Delivered,320,12753.15,12498.23,1.0,Compliant
+PO-00392,Vendor_H,Router,2023-03-18,2023-03-20,Delivered,234,3995.54,3935.13,0.0,Non-Compliant
+PO-00393,Vendor_E,Desk,2023-04-01,2023-04-29,Delivered,484,12128.42,11404.88,0.0,Compliant
+PO-00394,Vendor_C,Keyboard,2024-11-29,2024-12-28,Delivered,409,874.81,852.04,0.0,Compliant
+PO-00395,Vendor_A,Desktop,2023-12-22,2024-01-18,Delivered,420,44048.67,42757.96,8.0,Compliant
+PO-00396,Vendor_D,SSD,2024-07-26,2024-08-06,Delivered,33,7035.26,6799.84,0.0,Compliant
+PO-00397,Vendor_F,Desk,2024-11-25,2024-12-15,Delivered,32,11076.67,10552.72,1.0,Compliant
+PO-00398,Vendor_A,Printer,2023-01-14,2023-02-11,Delivered,207,14670.34,14523.2,4.0,Compliant
+PO-00399,Vendor_G,Mouse,2024-02-29,2024-03-11,Delivered,63,608.05,595.23,2.0,Compliant
+PO-00400,Vendor_D,Hard Drive,2024-02-10,2024-02-25,Delivered,218,5512.24,5331.3,1.0,Compliant
+PO-00401,Vendor_G,Desk,2023-10-23,2023-11-21,Delivered,122,13248.8,13177.43,0.0,Compliant
+PO-00402,Vendor_B,Printer,2024-03-13,2024-03-25,Delivered,30,15216.95,14390.59,0.0,Compliant
+PO-00403,Vendor_D,Keyboard,2024-03-14,,Pending,148,966.62,943.23,,Compliant
+PO-00404,Vendor_E,Desk,2023-08-03,2023-08-23,Delivered,92,12428.26,11775.94,2.0,Non-Compliant
+PO-00405,Vendor_G,Hard Drive,2024-08-29,2024-09-06,Delivered,377,5321.09,5108.87,4.0,Compliant
+PO-00406,Vendor_F,Monitor,2024-06-06,2024-06-09,Delivered,102,10908.03,10391.51,1.0,Compliant
+PO-00407,Vendor_D,Mouse,2024-09-29,2024-10-23,Partially Delivered,300,550.78,518.02,1.0,Compliant
+PO-00408,Vendor_B,Packaging Box,2023-02-08,2023-02-13,Delivered,32,120.27,117.92,0.0,Compliant
+PO-00409,Vendor_G,Hard Drive,2024-01-11,2024-01-23,Delivered,475,5345.48,5290.74,5.0,Compliant
+PO-00410,Vendor_H,Hard Drive,2023-08-26,2023-09-19,Delivered,412,5277.38,5047.38,3.0,Compliant
+PO-00411,Vendor_E,Office Chair,2023-07-03,2023-07-20,Delivered,230,8373.02,8234.87,5.0,Compliant
+PO-00412,Vendor_G,Router,2024-06-08,2024-07-05,Delivered,341,4680.33,4663.6,5.0,Compliant
+PO-00413,Vendor_F,Packaging Box,2023-07-30,2023-08-18,Delivered,448,108.56,107.65,6.0,Compliant
+PO-00414,Vendor_E,Hard Drive,2023-08-17,,Pending,394,5189.84,5058.84,,Compliant
+PO-00415,Vendor_G,Packaging Box,2023-03-13,,Pending,285,133.36,127.59,,Compliant
+PO-00416,Vendor_D,Monitor,2024-10-04,2024-11-03,Delivered,241,12977.83,12902.45,2.0,Compliant
+PO-00417,Vendor_B,Monitor,2024-01-22,2024-02-21,Partially Delivered,260,12118.14,11795.88,1.0,Compliant
+PO-00418,Vendor_B,Mouse,2024-08-18,,Pending,491,566.99,558.54,,Compliant
+PO-00419,Vendor_D,Keyboard,2024-12-17,2025-01-02,Delivered,341,905.54,876.11,1.0,Non-Compliant
+PO-00420,Vendor_F,Router,2023-11-24,2023-12-08,Delivered,268,4060.84,4008.65,4.0,Compliant
+PO-00421,Vendor_F,Desktop,2024-12-22,2025-01-10,Delivered,405,45241.48,45065.51,4.0,Compliant
+PO-00422,Vendor_H,Mouse,2024-07-20,2024-07-30,Delivered,341,550.7,537.98,3.0,Compliant
+PO-00423,Vendor_A,Laptop,2023-11-04,2023-11-08,Partially Delivered,141,51951.83,49335.58,0.0,Compliant
+PO-00424,Vendor_A,SSD,2023-03-13,2023-03-22,Delivered,159,5995.51,5772.39,0.0,Compliant
+PO-00425,Vendor_H,Laptop,2024-05-20,2024-06-14,Delivered,225,54224.52,53687.91,0.0,Compliant
+PO-00426,Vendor_H,Printer,2023-08-21,2023-09-08,Delivered,437,14037.9,13486.28,0.0,Compliant
+PO-00427,Vendor_A,Desk,2023-01-06,,Cancelled,151,11094.65,10625.78,,Compliant
+PO-00428,Vendor_F,Keyboard,2023-08-06,2023-08-27,Delivered,181,806.3,804.53,1.0,Compliant
+PO-00429,Vendor_B,Monitor,2023-09-09,2023-10-08,Delivered,359,12202.65,11699.78,4.0,Non-Compliant
+PO-00430,Vendor_H,Hard Drive,2024-12-20,2024-12-30,Delivered,374,5467.47,5159.7,4.0,Compliant
+PO-00431,Vendor_G,SSD,2024-08-01,2024-08-11,Partially Delivered,254,6603.03,6230.66,4.0,Compliant
+PO-00432,Vendor_C,Mouse,2023-10-10,2023-10-20,Delivered,468,534.63,517.38,3.0,Compliant
+PO-00433,Vendor_D,Keyboard,2024-04-15,2024-04-17,Delivered,136,923.89,906.76,4.0,Compliant
+PO-00434,Vendor_A,Keyboard,2024-09-19,2024-10-10,Delivered,218,830.13,804.52,1.0,Compliant
+PO-00435,Vendor_E,SSD,2023-03-11,2023-04-04,Delivered,117,6083.84,5798.35,3.0,Compliant
+PO-00436,Vendor_H,Router,2024-07-05,2024-07-14,Partially Delivered,246,4230.53,4215.98,2.0,Compliant
+PO-00437,Vendor_E,Router,2023-02-25,,Pending,447,4397.78,4190.56,,Compliant
+PO-00438,Vendor_D,Hard Drive,2023-01-30,2023-02-26,Partially Delivered,271,5481.16,5186.25,4.0,Compliant
+PO-00439,Vendor_B,Packaging Box,2024-08-28,2024-09-22,Delivered,461,115.52,114.01,0.0,Compliant
+PO-00440,Vendor_F,Router,2024-07-05,2024-07-16,Delivered,105,3916.85,3741.26,3.0,Compliant
+PO-00441,Vendor_F,Hard Drive,2024-11-17,2024-12-05,Partially Delivered,277,4685.36,4463.01,4.0,Compliant
+PO-00442,Vendor_E,Hard Drive,2024-10-16,2024-11-07,Delivered,314,5309.78,5240.17,1.0,Compliant
+PO-00443,Vendor_A,Router,2023-01-26,2023-02-02,Delivered,307,4020.19,3877.33,3.0,Compliant
+PO-00444,Vendor_H,Router,2024-07-09,2024-07-25,Delivered,379,4206.2,4149.06,0.0,Compliant
+PO-00445,Vendor_H,Office Chair,2023-02-13,2023-02-21,Delivered,364,8316.05,8035.72,1.0,Compliant
+PO-00446,Vendor_H,Office Chair,2024-02-02,2024-02-07,Delivered,425,8061.51,7769.0,2.0,Compliant
+PO-00447,Vendor_D,Office Chair,2023-08-25,,Cancelled,198,8986.09,8571.68,,Compliant
+PO-00448,Vendor_E,Router,2024-08-05,2024-08-31,Delivered,368,4365.78,4270.28,0.0,Compliant
+PO-00449,Vendor_E,Mouse,2024-02-27,2024-03-22,Partially Delivered,64,540.83,537.38,2.0,Compliant
+PO-00450,Vendor_E,Keyboard,2023-01-06,2023-02-02,Delivered,292,883.92,844.12,2.0,Compliant
+PO-00451,Vendor_G,Desk,2023-04-16,2023-04-21,Delivered,143,13291.02,13049.15,2.0,Compliant
+PO-00452,Vendor_F,Monitor,2023-07-12,,Cancelled,472,11337.51,11078.57,,Compliant
+PO-00453,Vendor_D,Packaging Box,2024-08-21,2024-08-31,Delivered,274,128.84,122.04,2.0,Compliant
+PO-00454,Vendor_H,Keyboard,2024-12-27,2025-01-21,Delivered,34,929.84,881.33,1.0,Compliant
+PO-00455,Vendor_F,Office Chair,2024-01-10,2024-01-31,Delivered,131,7366.37,7216.86,0.0,Compliant
+PO-00456,Vendor_E,Printer,2024-05-17,2024-05-30,Delivered,213,13892.44,13782.75,2.0,Compliant
+PO-00457,Vendor_B,Monitor,2024-04-27,2024-05-10,Delivered,191,12877.38,12113.47,1.0,Compliant
+PO-00458,Vendor_G,Keyboard,2024-10-03,,Pending,478,945.78,929.29,,Compliant
+PO-00459,Vendor_D,Hard Drive,2023-01-12,2023-02-11,Delivered,145,5677.76,5611.55,0.0,Compliant
+PO-00460,Vendor_D,Keyboard,2024-09-21,2024-10-15,Delivered,353,959.34,918.32,2.0,Compliant
+PO-00461,Vendor_E,Mouse,2023-07-14,2023-08-03,Delivered,403,537.61,522.45,1.0,Compliant
+PO-00462,Vendor_A,Keyboard,2023-06-13,2023-06-19,Partially Delivered,390,854.51,838.09,4.0,Compliant
+PO-00463,Vendor_F,Desk,2023-08-09,2023-08-14,Delivered,360,11551.49,11479.19,1.0,Compliant
+PO-00464,Vendor_D,SSD,2023-01-09,2023-01-30,Delivered,292,7090.64,6834.1,1.0,Compliant
+PO-00465,Vendor_B,Packaging Box,2024-08-11,,Cancelled,302,121.59,117.98,,Compliant
+PO-00466,Vendor_A,Monitor,2023-07-08,2023-07-11,Delivered,419,11696.79,11323.2,4.0,Compliant
+PO-00467,Vendor_E,Router,2023-04-17,2023-04-22,Delivered,92,4319.3,4204.28,0.0,Compliant
+PO-00468,Vendor_D,Desk,2023-11-17,2023-11-20,Delivered,51,12162.0,11990.78,0.0,Compliant
+PO-00469,Vendor_C,Desktop,2023-11-27,2023-12-25,Delivered,497,43144.18,40948.42,7.0,Compliant
+PO-00470,Vendor_F,Keyboard,2023-04-06,2023-04-08,Delivered,385,824.43,821.61,4.0,Compliant
+PO-00471,Vendor_A,Printer,2024-04-12,2024-04-15,Delivered,246,13159.96,12950.05,2.0,Compliant
+PO-00472,Vendor_A,Office Chair,2024-06-05,2024-06-13,Delivered,356,8460.38,8380.18,3.0,Compliant
+PO-00473,Vendor_B,Desk,2024-11-01,2024-11-14,Delivered,61,12923.44,12187.13,0.0,Compliant
+PO-00474,Vendor_B,Mouse,2024-12-28,2025-01-20,Delivered,402,581.21,576.43,4.0,Compliant
+PO-00475,Vendor_H,Keyboard,2024-12-29,2025-01-17,Delivered,100,919.05,901.38,1.0,Compliant
+PO-00476,Vendor_D,Mouse,2024-10-22,2024-11-06,Partially Delivered,108,551.7,533.24,1.0,Compliant
+PO-00477,Vendor_F,Router,2024-06-10,2024-06-23,Delivered,48,4060.72,3929.32,0.0,Compliant
+PO-00478,Vendor_F,Desk,2023-02-12,2023-03-13,Delivered,357,10395.66,9973.22,0.0,Compliant
+PO-00479,Vendor_D,Desk,2023-10-18,2023-11-13,Delivered,137,12621.87,11928.97,6.0,Compliant
+PO-00480,Vendor_G,Hard Drive,2024-10-02,,Cancelled,216,5372.05,5075.85,,Compliant
+PO-00481,Vendor_B,Printer,2024-06-11,2024-07-08,Delivered,103,15484.51,14986.36,1.0,Compliant
+PO-00482,Vendor_E,Hard Drive,2023-04-22,2023-04-28,Delivered,439,5064.4,4984.94,7.0,Compliant
+PO-00483,Vendor_C,Keyboard,2023-04-12,2023-05-11,Partially Delivered,479,858.1,816.22,3.0,Compliant
+PO-00484,Vendor_C,Desk,2023-07-19,2023-08-12,Delivered,302,11311.9,10824.76,1.0,Compliant
+PO-00485,Vendor_C,Router,2023-07-26,2023-08-06,Partially Delivered,483,3742.72,3528.96,1.0,Compliant
+PO-00486,Vendor_F,Keyboard,2024-01-04,2024-01-13,Delivered,430,793.61,792.52,5.0,Compliant
+PO-00487,Vendor_A,Keyboard,2024-10-27,2024-11-18,Delivered,362,869.85,836.38,9.0,Non-Compliant
+PO-00488,Vendor_F,Printer,2023-04-26,2023-05-04,Delivered,122,13545.09,13488.72,3.0,Compliant
+PO-00489,Vendor_B,Router,2024-06-23,2024-07-16,Delivered,239,4525.27,4356.34,0.0,Compliant
+PO-00490,Vendor_A,Packaging Box,2024-12-20,2025-01-05,Delivered,242,113.19,109.12,0.0,Compliant
+PO-00491,Vendor_H,Mouse,2023-09-03,,Cancelled,248,543.2,525.45,,Compliant
+PO-00492,Vendor_A,Desktop,2023-06-18,2023-07-18,Delivered,334,45955.12,44857.18,4.0,Compliant
+PO-00493,Vendor_B,Packaging Box,2024-05-30,2024-06-04,Delivered,405,124.16,121.91,8.0,Compliant
+PO-00494,Vendor_C,Hard Drive,2023-10-19,2023-11-03,Delivered,438,4905.58,4810.92,3.0,Compliant
+PO-00495,Vendor_C,Desk,2023-01-31,2023-02-15,Partially Delivered,264,11434.85,11108.04,5.0,Compliant
+PO-00496,Vendor_B,Desk,2023-04-18,2023-05-10,Delivered,272,12722.73,12557.44,3.0,Non-Compliant
+PO-00497,Vendor_E,Office Chair,2024-01-25,2024-02-14,Delivered,74,8519.35,8417.98,2.0,Compliant
+PO-00498,Vendor_B,Laptop,2023-08-17,,Pending,16,55907.55,52627.12,,Compliant
+PO-00499,Vendor_C,Laptop,2024-12-02,2024-12-24,Delivered,121,48527.22,47490.55,0.0,Compliant
+PO-00500,Vendor_E,Printer,2023-07-05,2023-07-17,Partially Delivered,421,14932.71,14213.15,4.0,Compliant
+PO-00501,Vendor_B,Printer,2023-06-21,2023-07-17,Delivered,387,15023.31,14828.97,4.0,Compliant
+PO-00502,Vendor_C,Packaging Box,2024-09-22,2024-09-28,Delivered,437,113.77,108.21,7.0,Compliant
+PO-00503,Vendor_B,Router,2023-05-03,2023-06-02,Delivered,371,4100.45,4037.05,0.0,Compliant
+PO-00504,Vendor_C,Monitor,2024-06-03,2024-06-25,Delivered,126,11249.91,10916.26,1.0,Non-Compliant
+PO-00505,Vendor_D,SSD,2023-11-30,2023-12-08,Delivered,337,6508.49,6476.29,1.0,Compliant
+PO-00506,Vendor_B,Laptop,2024-05-05,,Pending,212,55217.81,52887.44,,Non-Compliant
+PO-00507,Vendor_B,Packaging Box,2024-05-08,,Cancelled,372,125.05,118.79,,Compliant
+PO-00508,Vendor_A,Desk,2024-06-13,2024-07-02,Delivered,194,11357.07,11053.65,0.0,Compliant
+PO-00509,Vendor_H,SSD,2024-04-12,2024-04-15,Delivered,224,6371.59,6056.99,4.0,Non-Compliant
+PO-00510,Vendor_F,Router,2024-03-04,2024-03-23,Partially Delivered,273,3710.76,3499.46,4.0,Compliant
+PO-00511,Vendor_G,Packaging Box,2023-04-24,2023-04-28,Delivered,115,127.27,125.61,4.0,Compliant
+PO-00512,Vendor_A,Hard Drive,2024-12-05,2024-12-30,Partially Delivered,55,5135.58,5016.11,1.0,Compliant
+PO-00513,Vendor_A,Desk,2024-06-23,2024-06-29,Delivered,383,10922.77,10386.17,1.0,Compliant
+PO-00514,Vendor_D,Router,2023-11-06,,Cancelled,154,4216.96,,,Compliant
+PO-00515,Vendor_G,Router,2023-08-02,2023-08-12,Delivered,89,4500.1,4264.54,1.0,Compliant
+PO-00516,Vendor_H,Router,2023-06-07,2023-06-09,Delivered,81,4247.27,4139.12,0.0,Compliant
+PO-00517,Vendor_C,Hard Drive,2023-10-30,2023-11-16,Delivered,172,4744.02,4594.02,1.0,Compliant
+PO-00518,Vendor_B,Mouse,2023-10-23,2023-11-13,Delivered,116,536.13,518.13,1.0,Compliant
+PO-00519,Vendor_B,SSD,2024-05-12,2024-05-19,Delivered,301,6627.01,6342.96,0.0,Compliant
+PO-00520,Vendor_C,Mouse,2023-08-13,2023-09-03,Delivered,156,487.9,479.54,3.0,Compliant
+PO-00521,Vendor_D,Laptop,2023-05-06,2023-06-05,Partially Delivered,495,55177.19,52912.98,6.0,Compliant
+PO-00522,Vendor_B,Laptop,2024-04-25,2024-05-14,Delivered,422,51010.72,50370.1,5.0,Compliant
+PO-00523,Vendor_H,SSD,2024-05-05,2024-05-31,Delivered,43,6674.0,6582.97,0.0,Compliant
+PO-00524,Vendor_G,Keyboard,2023-06-17,2023-07-05,Delivered,13,949.7,909.44,0.0,Compliant
+PO-00525,Vendor_G,Keyboard,2024-10-19,2024-10-30,Partially Delivered,115,992.89,988.82,0.0,Compliant
+PO-00526,Vendor_F,SSD,2023-04-27,2023-05-11,Delivered,271,5779.54,5480.67,2.0,Compliant
+PO-00527,Vendor_D,SSD,2023-07-18,,Cancelled,134,6972.81,6944.23,,Compliant
+PO-00528,Vendor_E,Router,2023-07-25,2023-08-20,Delivered,478,4298.65,4238.26,1.0,Compliant
+PO-00529,Vendor_E,SSD,2024-09-25,2024-09-29,Delivered,363,6536.95,6429.53,4.0,Compliant
+PO-00530,Vendor_F,Monitor,2024-04-11,2024-05-06,Partially Delivered,386,11084.11,10940.05,5.0,Compliant
+PO-00531,Vendor_C,Laptop,2024-09-03,2024-09-20,Delivered,11,46097.18,45510.74,0.0,Compliant
+PO-00532,Vendor_C,Keyboard,2024-07-07,2024-08-04,Partially Delivered,277,825.95,818.95,4.0,Compliant
+PO-00533,Vendor_E,Printer,2023-05-06,2023-05-18,Delivered,413,13586.33,13316.8,1.0,Compliant
+PO-00534,Vendor_E,Printer,2023-03-19,2023-04-13,Delivered,439,15134.28,14524.81,12.0,Compliant
+PO-00535,Vendor_C,Printer,2023-11-23,2023-12-02,Delivered,397,14425.82,14077.73,4.0,Compliant
+PO-00536,Vendor_G,Hard Drive,2023-10-10,2023-10-23,Delivered,5,5599.47,5548.77,0.0,Compliant
+PO-00537,Vendor_E,Keyboard,2024-11-29,2024-12-16,Partially Delivered,387,888.56,877.53,3.0,Compliant
+PO-00538,Vendor_D,Laptop,2023-01-24,2023-02-08,Delivered,120,52061.69,50211.77,0.0,Compliant
+PO-00539,Vendor_H,Router,2024-08-13,2024-08-16,Partially Delivered,391,4265.33,4230.39,1.0,Compliant
+PO-00540,Vendor_E,Laptop,2023-01-01,2023-01-27,Delivered,38,50671.58,48717.26,0.0,Compliant
+PO-00541,Vendor_F,SSD,2023-01-14,2023-01-20,Delivered,396,5905.91,5719.52,4.0,Compliant
+PO-00542,Vendor_F,Mouse,2023-10-18,2023-11-05,Delivered,489,525.45,514.38,0.0,Non-Compliant
+PO-00543,Vendor_B,Router,2024-01-25,2024-02-15,Delivered,85,4538.85,4385.05,1.0,Compliant
+PO-00544,Vendor_A,Office Chair,2023-09-22,2023-10-15,Partially Delivered,367,8566.37,8486.13,7.0,Compliant
+PO-00545,Vendor_A,Router,2023-04-07,2023-04-26,Delivered,5,3847.73,3735.16,0.0,Compliant
+PO-00546,Vendor_D,Router,2024-11-30,2024-12-19,Delivered,74,4202.57,4009.08,0.0,Compliant
+PO-00547,Vendor_E,Laptop,2023-06-20,,Pending,299,53426.39,53033.55,,Compliant
+PO-00548,Vendor_B,Office Chair,2024-12-08,2024-12-16,Partially Delivered,327,8990.51,8624.09,2.0,Non-Compliant
+PO-00549,Vendor_B,Keyboard,2023-12-29,2024-01-26,Delivered,289,940.73,903.79,3.0,Compliant
+PO-00550,Vendor_H,Keyboard,2024-02-15,2024-03-04,Delivered,426,953.12,950.34,0.0,Compliant
+PO-00551,Vendor_D,Router,2024-09-02,2024-09-23,Partially Delivered,66,4344.84,4312.49,1.0,Compliant
+PO-00552,Vendor_G,Desktop,2023-05-02,2023-05-18,Partially Delivered,277,50686.84,49695.46,1.0,Compliant
+PO-00553,Vendor_B,Packaging Box,2023-04-24,2023-05-01,Delivered,385,115.68,114.74,5.0,Compliant
+PO-00554,Vendor_C,Packaging Box,2023-03-02,2023-03-04,Partially Delivered,58,106.21,103.1,0.0,Compliant
+PO-00555,Vendor_D,Router,2024-11-23,2024-12-07,Delivered,331,4411.96,4379.77,2.0,Compliant
+PO-00556,Vendor_B,Office Chair,2023-05-05,2023-05-15,Delivered,85,8673.48,8567.55,0.0,Compliant
+PO-00557,Vendor_F,Desktop,2023-02-14,2023-02-22,Delivered,101,41721.37,39903.96,3.0,Compliant
+PO-00558,Vendor_H,Router,2023-08-07,2023-09-03,Delivered,189,4303.8,4175.64,3.0,Compliant
+PO-00559,Vendor_C,Office Chair,2023-03-20,2023-03-30,Delivered,71,7694.71,7300.44,2.0,Compliant
+PO-00560,Vendor_G,Desk,2024-09-08,2024-09-15,Delivered,5,13056.21,12798.8,0.0,Compliant
+PO-00561,Vendor_A,Packaging Box,2023-04-07,2023-04-27,Delivered,78,121.67,119.17,1.0,Compliant
+PO-00562,Vendor_D,Desk,2024-12-21,2024-12-24,Delivered,324,12553.19,12403.26,3.0,Compliant
+PO-00563,Vendor_F,Packaging Box,2024-05-26,2024-06-21,Delivered,451,111.4,110.42,2.0,Compliant
+PO-00564,Vendor_F,Hard Drive,2023-04-30,2023-05-03,Delivered,101,4548.49,4524.15,1.0,Compliant
+PO-00565,Vendor_E,Laptop,2024-01-03,2024-01-25,Delivered,98,49662.52,48892.45,0.0,Compliant
+PO-00566,Vendor_H,Office Chair,2024-12-24,2025-01-08,Partially Delivered,105,8601.36,8189.15,2.0,Compliant
+PO-00567,Vendor_G,Hard Drive,2023-04-17,2023-05-03,Delivered,112,5312.47,5075.66,0.0,Compliant
+PO-00568,Vendor_B,Office Chair,2024-11-16,2024-11-20,Delivered,96,8799.26,8709.18,2.0,Compliant
+PO-00569,Vendor_H,Laptop,2024-10-04,2024-10-13,Partially Delivered,367,53848.92,53309.15,8.0,Compliant
+PO-00570,Vendor_E,Hard Drive,2023-05-09,2023-05-26,Delivered,53,4851.49,4578.6,0.0,Compliant
+PO-00571,Vendor_A,Router,2023-11-30,2023-12-02,Partially Delivered,303,3844.68,3751.59,2.0,Non-Compliant
+PO-00572,Vendor_C,Office Chair,2024-05-28,2024-06-24,Delivered,402,8283.01,7934.96,4.0,Compliant
+PO-00573,Vendor_E,Office Chair,2024-07-31,2024-08-24,Delivered,238,8896.96,8492.52,1.0,Compliant
+PO-00574,Vendor_G,Monitor,2023-09-25,2023-10-12,Delivered,300,13936.99,13916.43,6.0,Compliant
+PO-00575,Vendor_F,Keyboard,2023-01-18,2023-02-09,Delivered,16,861.99,842.03,1.0,Compliant
+PO-00576,Vendor_E,Desk,2024-09-10,2024-09-22,Delivered,361,12274.6,12162.32,8.0,Compliant
+PO-00577,Vendor_G,SSD,2024-01-22,2024-01-31,Delivered,97,6840.13,6642.35,2.0,Compliant
+PO-00578,Vendor_G,Monitor,2024-06-09,2024-07-03,Delivered,18,13817.83,13148.66,0.0,Compliant
+PO-00579,Vendor_A,Monitor,2024-05-30,,Pending,430,11519.41,11090.71,,Compliant
+PO-00580,Vendor_B,Monitor,2023-01-12,2023-02-11,Delivered,85,13088.33,12447.36,1.0,Compliant
+PO-00581,Vendor_B,Hard Drive,2024-10-12,2024-11-02,Delivered,128,5316.29,5060.33,1.0,Compliant
+PO-00582,Vendor_B,Printer,2024-10-22,2024-11-16,Delivered,240,14518.46,14459.98,2.0,Compliant
+PO-00583,Vendor_F,Packaging Box,2024-07-09,2024-07-27,Delivered,334,115.97,109.1,0.0,Compliant
+PO-00584,Vendor_H,Mouse,2023-03-11,2023-03-13,Delivered,345,535.57,518.14,0.0,Compliant
+PO-00585,Vendor_C,Office Chair,2024-08-08,2024-08-19,Delivered,114,8304.46,7994.53,0.0,Compliant
+PO-00586,Vendor_E,Router,2024-07-29,2024-08-17,Delivered,459,4127.01,4088.38,4.0,Compliant
+PO-00587,Vendor_B,Printer,2024-09-13,2024-09-26,Delivered,258,14462.61,13687.38,7.0,Compliant
+PO-00588,Vendor_D,Office Chair,2023-06-10,2023-06-21,Delivered,435,8694.31,8442.46,4.0,Compliant
+PO-00589,Vendor_H,Printer,2023-05-20,,Pending,284,14359.3,13595.36,,Compliant
+PO-00590,Vendor_E,Printer,2023-12-05,2024-01-01,Delivered,289,13873.22,13469.76,0.0,Non-Compliant
+PO-00591,Vendor_F,Mouse,2023-09-15,2023-10-10,Delivered,131,517.12,515.03,0.0,Compliant
+PO-00592,Vendor_E,Mouse,2024-05-31,2024-06-22,Delivered,463,570.59,557.7,8.0,Compliant
+PO-00593,Vendor_H,Packaging Box,2023-12-21,2023-12-28,Delivered,259,121.81,115.63,2.0,Compliant
+PO-00594,Vendor_H,Mouse,2023-08-25,2023-09-08,Delivered,241,546.23,541.22,2.0,Compliant
+PO-00595,Vendor_B,Mouse,2024-02-13,2024-03-01,Delivered,304,557.35,551.22,3.0,Compliant
+PO-00596,Vendor_H,Packaging Box,2023-04-09,,Cancelled,201,126.87,120.68,,Compliant
+PO-00597,Vendor_B,Desk,2024-02-26,2024-03-07,Partially Delivered,328,12428.74,11843.46,4.0,Compliant
+PO-00598,Vendor_G,Printer,2023-08-09,,Cancelled,87,15175.65,14450.39,,Compliant
+PO-00599,Vendor_D,Hard Drive,2023-10-08,2023-10-12,Delivered,219,5379.54,5315.58,5.0,Compliant
+PO-00600,Vendor_G,SSD,2023-08-14,2023-08-28,Delivered,109,7098.39,6880.85,2.0,Compliant
+PO-00601,Vendor_B,Desktop,2024-05-27,2024-06-24,Delivered,171,49922.02,47280.86,4.0,Compliant
+PO-00602,Vendor_F,Laptop,2023-10-21,2023-10-31,Delivered,411,47376.92,46527.26,5.0,Compliant
+PO-00603,Vendor_H,Hard Drive,2023-02-20,2023-03-21,Delivered,303,5201.21,5173.1,4.0,Compliant
+PO-00604,Vendor_F,Packaging Box,2024-02-24,,Cancelled,199,113.01,106.79,,Compliant
+PO-00605,Vendor_G,Packaging Box,2024-04-13,2024-05-10,Partially Delivered,316,133.13,132.12,1.0,Non-Compliant
+PO-00606,Vendor_E,Mouse,2023-05-25,2023-06-13,Delivered,41,567.88,544.2,1.0,Non-Compliant
+PO-00607,Vendor_G,Packaging Box,2024-03-03,2024-03-09,Delivered,121,127.0,126.54,1.0,Compliant
+PO-00608,Vendor_B,Office Chair,2024-06-05,2024-06-27,Delivered,362,8515.9,8365.48,4.0,Compliant
+PO-00609,Vendor_A,Mouse,2023-05-25,2023-06-15,Delivered,73,497.55,473.33,0.0,Compliant
+PO-00610,Vendor_E,Laptop,2024-08-31,2024-09-27,Delivered,450,51065.11,49642.06,8.0,Compliant
+PO-00611,Vendor_E,Desk,2023-04-02,2023-04-23,Delivered,131,11248.8,11202.23,3.0,Compliant
+PO-00612,Vendor_G,Desktop,2024-12-10,2024-12-12,Delivered,61,50465.25,48663.55,1.0,Compliant
+PO-00613,Vendor_G,SSD,2023-08-25,2023-09-07,Delivered,490,6652.63,6283.14,7.0,Non-Compliant
+PO-00614,Vendor_E,Monitor,2024-05-11,,Cancelled,91,12811.86,12523.76,,Compliant
+PO-00615,Vendor_B,Office Chair,2023-11-11,2023-11-14,Delivered,280,8969.84,8444.59,5.0,Non-Compliant
+PO-00616,Vendor_F,Mouse,2023-03-22,2023-03-29,Delivered,43,500.27,475.33,0.0,Compliant
+PO-00617,Vendor_C,Keyboard,2024-10-25,2024-11-14,Delivered,18,825.23,780.2,0.0,Compliant
+PO-00618,Vendor_A,Laptop,2023-12-01,2023-12-26,Delivered,292,49511.5,48863.24,5.0,Compliant
+PO-00619,Vendor_A,Keyboard,2024-12-25,2025-01-22,Delivered,437,889.98,849.18,6.0,Compliant
+PO-00620,Vendor_D,Desk,2024-06-13,2024-06-22,Delivered,171,13163.25,12566.28,2.0,Compliant
+PO-00621,Vendor_C,Printer,2024-05-25,,Cancelled,397,14230.36,13584.87,,Compliant
+PO-00622,Vendor_F,Packaging Box,2023-01-04,2023-01-17,Delivered,171,116.58,112.69,0.0,Compliant
+PO-00623,Vendor_G,Printer,2023-03-09,2023-04-04,Delivered,467,15446.31,14847.12,10.0,Compliant
+PO-00624,Vendor_D,Packaging Box,2024-10-19,2024-11-15,Partially Delivered,454,125.16,121.98,0.0,Compliant
+PO-00625,Vendor_G,Desk,2023-04-29,2023-05-26,Delivered,166,12282.08,11984.47,2.0,Compliant
+PO-00626,Vendor_B,Mouse,2024-02-20,2024-03-11,Delivered,455,590.47,579.03,1.0,Compliant
+PO-00627,Vendor_B,Hard Drive,2023-01-04,2023-01-11,Partially Delivered,142,5170.17,4934.02,0.0,Compliant
+PO-00628,Vendor_H,Mouse,2024-04-30,2024-05-05,Delivered,8,574.52,554.47,0.0,Compliant
+PO-00629,Vendor_A,Packaging Box,2023-10-23,2023-11-20,Delivered,465,120.15,119.03,1.0,Compliant
+PO-00630,Vendor_A,Desktop,2024-08-11,2024-09-08,Partially Delivered,184,44564.0,42360.82,2.0,Compliant
+PO-00631,Vendor_D,Office Chair,2024-12-28,2025-01-07,Delivered,73,9131.62,9124.7,1.0,Compliant
+PO-00632,Vendor_H,SSD,2023-12-02,2023-12-08,Delivered,132,6324.24,6124.81,1.0,Compliant
+PO-00633,Vendor_B,Keyboard,2024-08-01,2024-08-15,Delivered,204,865.9,837.29,1.0,Compliant
+PO-00634,Vendor_H,Desktop,2024-01-31,2024-02-07,Delivered,203,46836.22,45304.89,1.0,Compliant
+PO-00635,Vendor_D,Printer,2024-08-23,2024-08-29,Partially Delivered,339,15487.92,15333.96,3.0,Compliant
+PO-00636,Vendor_F,Desktop,2024-01-09,2024-01-20,Delivered,377,46100.48,44715.22,10.0,Compliant
+PO-00637,Vendor_F,Printer,2023-06-12,2023-06-22,Delivered,102,13943.71,13548.98,1.0,Compliant
+PO-00638,Vendor_H,Keyboard,2023-07-08,2023-08-04,Delivered,351,880.1,860.11,0.0,Compliant
+PO-00639,Vendor_D,Router,2024-07-18,2024-08-07,Partially Delivered,403,4385.62,4255.89,3.0,Compliant
+PO-00640,Vendor_F,Keyboard,2023-01-03,2023-01-10,Delivered,68,838.22,820.83,2.0,Non-Compliant
+PO-00641,Vendor_C,Desktop,2023-06-13,2023-06-17,Delivered,463,46099.75,45765.96,4.0,Compliant
+PO-00642,Vendor_C,Keyboard,2024-12-03,2025-01-02,Delivered,55,805.09,759.89,0.0,Compliant
+PO-00643,Vendor_B,Office Chair,2023-03-17,,Pending,168,8696.34,8209.03,,Non-Compliant
+PO-00644,Vendor_F,Mouse,2023-08-06,2023-08-19,Delivered,193,521.15,511.75,2.0,Compliant
+PO-00645,Vendor_C,Mouse,2023-02-16,2023-02-28,Delivered,355,546.33,545.77,7.0,Compliant
+PO-00646,Vendor_F,Desk,2023-06-23,2023-07-15,Delivered,221,11539.61,11015.61,1.0,Compliant
+PO-00647,Vendor_H,Mouse,2023-09-05,2023-09-24,Delivered,280,550.93,537.9,1.0,Compliant
+PO-00648,Vendor_H,Printer,2023-03-25,2023-04-18,Delivered,369,13950.59,13161.27,1.0,Compliant
+PO-00649,Vendor_A,Mouse,2024-05-19,2024-06-02,Delivered,77,514.32,514.16,1.0,Compliant
+PO-00650,Vendor_E,Router,2024-01-24,2024-02-21,Delivered,46,4011.25,3855.41,1.0,Compliant
+PO-00651,Vendor_B,Router,2024-03-01,2024-03-08,Delivered,440,4203.44,4034.1,7.0,Compliant
+PO-00652,Vendor_B,Router,2023-07-23,2023-08-09,Delivered,154,4411.25,4371.77,0.0,Compliant
+PO-00653,Vendor_G,SSD,2023-02-15,2023-02-28,Delivered,315,6746.97,6437.44,0.0,Compliant
+PO-00654,Vendor_D,Hard Drive,2024-04-28,2024-05-18,Delivered,468,5268.75,5190.89,2.0,Compliant
+PO-00655,Vendor_C,Office Chair,2024-08-02,2024-08-14,Delivered,303,8400.38,7979.73,1.0,Compliant
+PO-00656,Vendor_G,Desk,2023-09-16,,Cancelled,208,12595.59,12516.85,,Compliant
+PO-00657,Vendor_H,Router,2024-10-05,2024-11-03,Delivered,280,4176.25,4162.65,1.0,Compliant
+PO-00658,Vendor_A,Keyboard,2024-03-14,2024-03-20,Delivered,221,865.53,840.25,1.0,Compliant
+PO-00659,Vendor_D,Mouse,2024-11-06,2024-11-25,Delivered,72,606.86,600.36,0.0,Compliant
+PO-00660,Vendor_G,Packaging Box,2024-07-12,,Pending,43,123.42,117.29,,Compliant
+PO-00661,Vendor_G,SSD,2024-07-14,,Cancelled,105,6753.32,6350.89,,Non-Compliant
+PO-00662,Vendor_B,Router,2024-05-09,,Pending,439,4437.48,4199.73,,Compliant
+PO-00663,Vendor_D,Keyboard,2024-06-24,2024-06-30,Partially Delivered,395,912.99,862.5,12.0,Compliant
+PO-00664,Vendor_A,Office Chair,2024-03-08,2024-04-03,Delivered,421,8134.62,8073.94,1.0,Compliant
+PO-00665,Vendor_E,Office Chair,2023-12-01,2023-12-19,Partially Delivered,353,8212.59,7945.39,2.0,Compliant
+PO-00666,Vendor_H,Office Chair,2023-04-12,2023-05-03,Partially Delivered,433,8581.19,8536.19,6.0,Compliant
+PO-00667,Vendor_D,Laptop,2023-02-21,2023-02-27,Delivered,297,51874.12,51158.32,10.0,Compliant
+PO-00668,Vendor_F,Monitor,2023-04-24,2023-05-24,Delivered,208,11888.79,11320.81,5.0,Compliant
+PO-00669,Vendor_C,SSD,2023-05-21,2023-05-31,Delivered,235,6466.46,6396.95,1.0,Compliant
+PO-00670,Vendor_H,Desktop,2024-09-13,2024-10-08,Delivered,73,47688.31,46854.48,1.0,Compliant
+PO-00671,Vendor_F,Printer,2024-07-20,2024-08-14,Delivered,327,14134.36,13688.73,6.0,Compliant
+PO-00672,Vendor_D,Laptop,2024-03-25,2024-04-16,Delivered,15,55451.88,53513.45,0.0,Compliant
+PO-00673,Vendor_C,Desktop,2023-09-12,,Cancelled,385,44145.5,42837.15,,Compliant
+PO-00674,Vendor_A,Hard Drive,2023-10-02,2023-10-22,Delivered,265,4898.18,4609.9,0.0,Compliant
+PO-00675,Vendor_B,Desktop,2024-02-17,2024-02-23,Partially Delivered,171,50407.77,47823.42,2.0,Compliant
+PO-00676,Vendor_H,Packaging Box,2024-10-06,2024-11-02,Delivered,110,121.84,120.6,0.0,Compliant
+PO-00677,Vendor_C,Laptop,2023-01-18,,Cancelled,246,46274.08,46029.0,,Compliant
+PO-00678,Vendor_A,Laptop,2024-02-26,2024-03-04,Delivered,390,52416.54,51790.11,6.0,Compliant
+PO-00679,Vendor_G,Laptop,2024-03-21,,Cancelled,417,54477.49,53927.46,,Compliant
+PO-00680,Vendor_F,Monitor,2023-10-05,,Pending,55,10988.55,10577.02,,Compliant
+PO-00681,Vendor_E,Office Chair,2024-11-25,,Pending,255,7961.4,7707.42,,Compliant
+PO-00682,Vendor_C,Desktop,2023-05-11,2023-05-28,Delivered,494,47743.69,46788.07,7.0,Compliant
+PO-00683,Vendor_E,Packaging Box,2024-10-12,2024-11-09,Delivered,125,121.9,120.27,0.0,Compliant
+PO-00684,Vendor_E,Mouse,2024-12-20,2025-01-01,Delivered,436,526.25,511.51,1.0,Compliant
+PO-00685,Vendor_G,Packaging Box,2024-07-07,2024-07-27,Delivered,493,122.13,121.25,1.0,Compliant
+PO-00686,Vendor_E,Office Chair,2023-07-14,2023-08-05,Delivered,338,8659.39,8156.2,2.0,Compliant
+PO-00687,Vendor_A,SSD,2024-02-09,2024-02-22,Delivered,287,6574.83,6340.69,8.0,Compliant
+PO-00688,Vendor_C,Keyboard,2023-03-17,,Cancelled,235,875.57,833.59,,Compliant
+PO-00689,Vendor_C,Mouse,2023-03-10,2023-03-12,Delivered,103,521.18,501.7,3.0,Compliant
+PO-00690,Vendor_G,Desk,2024-01-12,2024-01-15,Delivered,134,13273.16,12488.22,0.0,Compliant
+PO-00691,Vendor_G,Keyboard,2023-11-13,2023-12-09,Partially Delivered,42,991.52,939.5,0.0,Compliant
+PO-00692,Vendor_E,Monitor,2023-01-13,2023-02-02,Delivered,407,12542.98,11908.71,7.0,Compliant
+PO-00693,Vendor_G,SSD,2024-01-22,2024-02-16,Partially Delivered,384,7423.47,7201.6,7.0,Compliant
+PO-00694,Vendor_D,Desktop,2023-11-28,,Pending,209,52536.67,52083.24,,Compliant
+PO-00695,Vendor_A,Packaging Box,2024-05-12,,Pending,475,109.69,107.21,,Compliant
+PO-00696,Vendor_G,Laptop,2023-11-21,2023-12-10,Delivered,218,54947.33,54166.47,4.0,Compliant
+PO-00697,Vendor_H,Monitor,2024-04-18,2024-05-04,Delivered,470,12429.9,12320.4,12.0,Compliant
+PO-00698,Vendor_B,Laptop,2024-02-02,2024-02-10,Delivered,97,52366.54,51889.6,1.0,Compliant
+PO-00699,Vendor_B,Hard Drive,2023-03-14,2023-04-03,Delivered,421,5580.58,5488.86,7.0,Compliant
+PO-00700,Vendor_B,Keyboard,2023-07-21,2023-08-17,Delivered,348,967.49,927.15,2.0,Compliant
+PO-00701,Vendor_B,Monitor,2023-01-16,,Cancelled,428,12110.48,11600.74,,Compliant
+PO-00702,Vendor_H,Laptop,2023-05-14,2023-05-24,Delivered,476,50601.92,49785.24,0.0,Compliant
+PO-00703,Vendor_G,Laptop,2023-04-11,,Pending,202,58970.76,57496.82,,Compliant
+PO-00704,Vendor_G,Printer,2024-09-25,2024-10-06,Delivered,35,15320.29,15233.8,0.0,Compliant
+PO-00705,Vendor_E,Hard Drive,2024-12-03,2024-12-22,Delivered,351,5071.56,5048.22,6.0,Compliant
+PO-00706,Vendor_D,Hard Drive,2023-07-01,2023-07-30,Delivered,366,5478.39,5216.11,10.0,Compliant
+PO-00707,Vendor_F,Keyboard,2024-08-21,2024-08-27,Delivered,407,793.35,759.3,5.0,Compliant
+PO-00708,Vendor_G,Keyboard,2023-09-01,2023-09-29,Partially Delivered,392,995.26,942.23,3.0,Compliant
+PO-00709,Vendor_E,Desk,2023-10-01,2023-10-12,Delivered,443,11302.99,10643.44,9.0,Compliant
+PO-00710,Vendor_G,Mouse,2023-03-19,2023-04-10,Partially Delivered,444,571.71,538.52,10.0,Compliant
+PO-00711,Vendor_D,Keyboard,2024-04-24,2024-05-23,Delivered,310,971.07,964.59,7.0,Compliant
+PO-00712,Vendor_B,Office Chair,2023-08-31,,Pending,245,8206.51,8125.97,,Compliant
+PO-00713,Vendor_D,Packaging Box,2023-01-12,2023-02-11,Delivered,241,123.45,121.4,3.0,Compliant
+PO-00714,Vendor_H,Laptop,2023-11-22,2023-12-17,Delivered,375,49440.49,47235.93,7.0,Non-Compliant
+PO-00715,Vendor_F,Desk,2023-01-24,2023-02-05,Delivered,325,11597.25,10966.57,4.0,Compliant
+PO-00716,Vendor_B,Printer,2024-11-05,2024-11-24,Delivered,120,15584.86,14891.54,2.0,Compliant
+PO-00717,Vendor_H,Mouse,2024-04-19,2024-04-28,Delivered,104,568.01,561.3,0.0,Compliant
+PO-00718,Vendor_D,Hard Drive,2023-07-09,,Cancelled,363,5201.72,5085.68,,Compliant
+PO-00719,Vendor_H,Packaging Box,2024-02-13,2024-02-26,Delivered,11,119.9,112.73,0.0,Compliant
+PO-00720,Vendor_H,Desk,2024-04-15,2024-04-18,Delivered,267,12238.8,11662.73,5.0,Compliant
+PO-00721,Vendor_A,Office Chair,2024-08-12,2024-08-28,Delivered,112,8215.66,8162.36,0.0,Compliant
+PO-00722,Vendor_E,Packaging Box,2024-09-26,,Pending,499,125.8,124.92,,Compliant
+PO-00723,Vendor_B,SSD,2024-04-03,2024-04-15,Delivered,436,6630.7,6623.31,12.0,Compliant
+PO-00724,Vendor_E,Desktop,2023-08-13,2023-08-19,Delivered,206,48038.16,47037.22,4.0,Compliant
+PO-00725,Vendor_H,Monitor,2023-06-04,2023-06-13,Delivered,261,12820.41,12210.81,1.0,Compliant
+PO-00726,Vendor_H,SSD,2023-03-28,,Pending,423,6862.26,6746.1,,Compliant
+PO-00727,Vendor_F,Packaging Box,2023-06-01,2023-06-10,Delivered,486,107.9,106.49,4.0,Compliant
+PO-00728,Vendor_C,Mouse,2023-12-14,,Pending,300,508.49,496.32,,Compliant
+PO-00729,Vendor_H,Printer,2023-01-09,2023-01-31,Delivered,293,15254.14,15001.11,1.0,Compliant
+PO-00730,Vendor_D,Laptop,2023-08-27,2023-09-06,Delivered,306,54222.18,53144.26,1.0,Compliant
+PO-00731,Vendor_F,Desk,2024-09-21,2024-09-29,Delivered,168,11051.53,10549.65,2.0,Compliant
+PO-00732,Vendor_H,Packaging Box,2023-06-29,2023-07-20,Delivered,419,121.95,120.53,6.0,Compliant
+PO-00733,Vendor_G,Desk,2024-01-31,2024-02-11,Delivered,11,12240.76,11924.38,1.0,Compliant
+PO-00734,Vendor_G,Router,2023-10-19,2023-11-02,Delivered,349,4517.34,4311.42,3.0,Compliant
+PO-00735,Vendor_G,Hard Drive,2024-06-28,,Pending,280,5896.31,5760.26,,Compliant
+PO-00736,Vendor_A,Desk,2023-11-29,,Pending,89,11632.6,11596.15,,Compliant
+PO-00737,Vendor_C,Packaging Box,2024-01-06,,Cancelled,103,118.11,116.22,,Compliant
+PO-00738,Vendor_B,Router,2024-08-20,2024-08-22,Delivered,386,4360.46,4289.11,6.0,Compliant
+PO-00739,Vendor_G,Hard Drive,2024-05-22,2024-06-21,Delivered,366,5575.82,5424.86,8.0,Compliant
+PO-00740,Vendor_F,Hard Drive,2024-07-03,2024-07-16,Delivered,185,4668.75,4598.19,0.0,Compliant
+PO-00741,Vendor_H,Packaging Box,2023-04-13,2023-04-26,Delivered,406,124.28,118.83,0.0,Compliant
+PO-00742,Vendor_B,Mouse,2024-10-17,2024-11-07,Partially Delivered,396,580.15,562.5,11.0,Compliant
+PO-00743,Vendor_F,Packaging Box,2023-05-13,2023-05-30,Delivered,283,105.3,99.78,3.0,Compliant
+PO-00744,Vendor_E,Router,2024-11-20,2024-12-18,Delivered,166,4391.92,4256.0,8.0,Compliant
+PO-00745,Vendor_F,Router,2024-10-08,2024-10-15,Delivered,122,3917.52,3777.83,3.0,Compliant
+PO-00746,Vendor_B,Desk,2024-05-26,,Cancelled,406,12756.97,12264.51,,Compliant
+PO-00747,Vendor_C,Office Chair,2024-01-14,2024-01-20,Delivered,493,8195.14,8158.09,7.0,Compliant
+PO-00748,Vendor_B,Monitor,2023-06-30,2023-07-09,Delivered,324,12000.37,11420.64,5.0,Compliant
+PO-00749,Vendor_D,Laptop,2023-05-18,2023-05-23,Delivered,331,54015.67,51480.28,5.0,Compliant
+PO-00750,Vendor_A,Office Chair,2024-08-27,2024-09-21,Delivered,98,8265.45,8257.21,1.0,Compliant
+PO-00751,Vendor_E,SSD,2024-06-18,,Pending,87,6576.45,6202.51,,Compliant
+PO-00752,Vendor_G,Desk,2023-05-08,2023-05-24,Delivered,194,13497.06,13276.11,3.0,Compliant
+PO-00753,Vendor_E,Router,2024-08-15,2024-08-22,Delivered,409,3920.9,3882.14,5.0,Compliant
+PO-00754,Vendor_E,Printer,2024-06-21,,Pending,75,15087.6,14968.08,,Compliant
+PO-00755,Vendor_D,Monitor,2024-11-28,2024-12-27,Delivered,330,13605.32,13578.65,8.0,Compliant
+PO-00756,Vendor_B,Printer,2023-01-10,2023-01-16,Delivered,96,15234.18,14610.15,0.0,Compliant
+PO-00757,Vendor_A,Desk,2024-03-14,2024-04-05,Delivered,370,11872.42,11840.49,4.0,Compliant
+PO-00758,Vendor_D,Keyboard,2023-01-06,2023-02-01,Partially Delivered,153,951.82,916.78,1.0,Compliant
+PO-00759,Vendor_E,Laptop,2023-02-15,2023-03-17,Delivered,148,53491.45,50474.56,3.0,Non-Compliant
+PO-00760,Vendor_D,Printer,2023-07-21,2023-08-04,Delivered,470,15111.08,14512.4,3.0,Compliant
+PO-00761,Vendor_C,Hard Drive,2024-09-18,2024-10-03,Delivered,323,4877.96,4699.52,8.0,Compliant
+PO-00762,Vendor_A,Mouse,2024-03-23,2024-04-03,Delivered,207,529.28,512.6,5.0,Compliant
+PO-00763,Vendor_C,Router,2023-07-05,2023-07-12,Delivered,253,3828.52,3607.16,4.0,Compliant
+PO-00764,Vendor_C,Hard Drive,2024-12-28,2025-01-01,Delivered,180,4902.37,4799.97,1.0,Compliant
+PO-00765,Vendor_D,Desk,2023-06-19,,Pending,43,12506.42,12369.69,,Non-Compliant
+PO-00766,Vendor_H,Hard Drive,2024-12-13,2024-12-24,Delivered,132,5268.45,5033.23,3.0,Compliant
+PO-00767,Vendor_H,Monitor,2023-07-22,2023-07-29,Delivered,275,12144.62,11943.79,2.0,Compliant
+PO-00768,Vendor_A,Keyboard,2024-08-22,2024-09-18,Delivered,6,836.98,807.75,0.0,Compliant
+PO-00769,Vendor_A,Hard Drive,2024-04-11,2024-05-03,Partially Delivered,390,4924.94,4864.65,4.0,Compliant
+PO-00770,Vendor_H,Laptop,2023-09-27,,Pending,296,50417.21,47583.52,,Compliant
+PO-00771,Vendor_F,Hard Drive,2024-06-21,2024-07-09,Partially Delivered,198,4799.83,4700.6,0.0,Compliant
+PO-00772,Vendor_G,Printer,2023-02-11,2023-02-22,Partially Delivered,416,16001.5,15240.91,3.0,Compliant
+PO-00773,Vendor_H,Office Chair,2023-01-26,2023-02-06,Delivered,375,8356.05,8160.54,6.0,Compliant
+PO-00774,Vendor_F,SSD,2023-04-20,2023-05-10,Delivered,53,6194.19,5921.83,0.0,Compliant
+PO-00775,Vendor_B,Printer,2024-12-16,2025-01-05,Delivered,366,15423.66,14882.39,2.0,Compliant
+PO-00776,Vendor_E,Monitor,2024-05-01,2024-05-28,Partially Delivered,215,12739.91,12002.39,0.0,Compliant
+PO-00777,Vendor_D,Keyboard,2023-03-23,2023-03-28,Delivered,367,994.15,955.06,3.0,Compliant
+PO-00778,Vendor_B,Hard Drive,2023-06-25,,Pending,37,5472.19,5403.23,,Compliant
+PO-00779,Vendor_B,Laptop,2024-08-19,2024-09-14,Partially Delivered,397,50329.07,50307.42,1.0,Compliant
+PO-00780,Vendor_G,Hard Drive,2023-08-24,,Cancelled,285,5397.37,5131.03,,Compliant
+PO-00781,Vendor_A,Laptop,2024-11-30,2024-12-30,Delivered,74,47311.19,47233.19,1.0,Compliant
+PO-00782,Vendor_H,Keyboard,2024-08-19,2024-09-01,Delivered,32,933.12,879.92,0.0,Compliant
+PO-00783,Vendor_B,Desktop,2023-04-16,2023-04-18,Delivered,171,48108.19,46612.7,1.0,Compliant
+PO-00784,Vendor_D,Desktop,2023-04-20,2023-05-01,Delivered,436,50788.79,48991.76,3.0,Compliant
+PO-00785,Vendor_D,Laptop,2024-06-18,2024-06-21,Delivered,500,52555.29,49868.85,1.0,Compliant
+PO-00786,Vendor_H,Desk,2024-08-15,2024-08-29,Delivered,499,12659.39,12525.91,4.0,Compliant
+PO-00787,Vendor_H,Keyboard,2023-05-10,,Pending,297,851.91,828.17,,Compliant
+PO-00788,Vendor_D,Router,2024-04-02,2024-04-09,Delivered,294,4661.5,4651.93,0.0,Compliant
+PO-00789,Vendor_E,Laptop,2024-08-06,,Pending,436,53660.35,51688.73,,Compliant
+PO-00790,Vendor_C,Desktop,2023-06-15,,Pending,383,46042.87,44078.24,,Compliant
+PO-00791,Vendor_B,Office Chair,2023-06-03,2023-06-14,Delivered,418,9095.99,8655.9,4.0,Compliant
+PO-00792,Vendor_A,Router,2023-10-02,2023-10-14,Partially Delivered,183,3799.47,3646.05,4.0,Compliant
+PO-00793,Vendor_F,Hard Drive,2023-12-11,2023-12-16,Delivered,23,4964.59,4736.39,0.0,Compliant
+PO-00794,Vendor_E,Packaging Box,2024-02-23,2024-03-17,Delivered,173,112.85,110.28,1.0,Compliant
+PO-00795,Vendor_H,Printer,2024-01-13,2024-01-24,Delivered,160,13681.84,12868.96,4.0,Non-Compliant
+PO-00796,Vendor_D,Printer,2024-07-10,2024-08-09,Delivered,405,14584.45,14155.65,6.0,Compliant
+PO-00797,Vendor_F,Laptop,2023-01-31,2023-02-19,Delivered,318,45632.11,45088.74,1.0,Compliant
+PO-00798,Vendor_C,Monitor,2023-08-24,2023-09-13,Delivered,346,11370.68,11235.54,3.0,Compliant
+PO-00799,Vendor_C,Keyboard,2023-02-22,,Pending,179,833.78,821.53,,Compliant
+PO-00800,Vendor_H,Packaging Box,2023-08-01,2023-08-15,Delivered,440,120.95,118.16,2.0,Compliant
+PO-00801,Vendor_F,Office Chair,2023-04-16,,Cancelled,337,7830.88,7435.7,,Compliant
+PO-00802,Vendor_D,Office Chair,2023-09-02,2023-09-29,Delivered,70,8922.8,8553.41,0.0,Compliant
+PO-00803,Vendor_A,Laptop,2023-06-01,2023-06-17,Delivered,162,47805.48,46976.23,2.0,Compliant
+PO-00804,Vendor_E,Monitor,2023-09-25,2023-10-17,Delivered,88,12166.84,11831.59,1.0,Compliant
+PO-00805,Vendor_D,Desk,2024-06-10,,Pending,342,12294.8,11650.4,,Compliant
+PO-00806,Vendor_G,Router,2024-07-11,2024-08-03,Delivered,68,4296.87,4145.62,0.0,Compliant
+PO-00807,Vendor_A,Hard Drive,2023-03-07,2023-03-22,Delivered,154,5013.93,4994.32,3.0,Compliant
+PO-00808,Vendor_H,Hard Drive,2023-09-03,2023-09-05,Delivered,180,5421.28,5356.94,2.0,Compliant
+PO-00809,Vendor_B,SSD,2024-08-01,2024-08-29,Delivered,14,6507.18,6359.4,0.0,Compliant
+PO-00810,Vendor_E,Hard Drive,2023-09-28,2023-10-19,Delivered,487,5355.5,5066.71,0.0,Compliant
+PO-00811,Vendor_G,Router,2024-04-13,,Pending,404,4395.21,4152.21,,Compliant
+PO-00812,Vendor_A,Keyboard,2024-02-06,2024-03-01,Delivered,195,901.2,885.0,2.0,Compliant
+PO-00813,Vendor_C,Keyboard,2024-10-01,2024-10-11,Delivered,109,824.1,803.62,4.0,Non-Compliant
+PO-00814,Vendor_G,Mouse,2024-06-20,2024-06-30,Delivered,272,600.47,582.66,4.0,Compliant
+PO-00815,Vendor_F,Laptop,2023-09-14,2023-09-20,Delivered,213,47765.84,47416.92,1.0,Compliant
+PO-00816,Vendor_B,Laptop,2023-01-14,2023-01-31,Delivered,498,55583.45,55286.05,3.0,Compliant
+PO-00817,Vendor_G,Router,2023-03-13,2023-04-06,Delivered,422,4395.73,4375.82,4.0,Compliant
+PO-00818,Vendor_E,Office Chair,2023-11-17,2023-12-05,Delivered,328,8489.7,8305.0,0.0,Compliant
+PO-00819,Vendor_B,Packaging Box,2024-01-15,2024-02-12,Delivered,407,115.33,112.94,4.0,Compliant
+PO-00820,Vendor_A,Packaging Box,2023-01-17,2023-02-16,Delivered,355,113.22,110.45,4.0,Compliant
+PO-00821,Vendor_F,Mouse,2024-01-10,2024-01-18,Delivered,334,487.25,467.16,4.0,Compliant
+PO-00822,Vendor_G,Mouse,2023-03-08,,Pending,246,607.43,576.76,,Compliant
+PO-00823,Vendor_G,SSD,2024-01-16,2024-01-25,Delivered,96,6694.22,6603.0,1.0,Compliant
+PO-00824,Vendor_A,Printer,2024-07-22,2024-08-10,Delivered,66,13372.69,13173.97,0.0,Compliant
+PO-00825,Vendor_C,Office Chair,2023-11-09,2023-11-23,Partially Delivered,369,8111.06,7950.0,5.0,Compliant
+PO-00826,Vendor_H,Desktop,2023-06-12,2023-06-26,Delivered,275,49461.97,47144.36,2.0,Compliant
+PO-00827,Vendor_F,Mouse,2024-04-26,2024-05-12,Partially Delivered,196,511.12,496.05,2.0,Compliant
+PO-00828,Vendor_D,Desktop,2024-09-28,2024-10-23,Delivered,439,51676.86,48737.38,5.0,Compliant
+PO-00829,Vendor_D,Desk,2023-02-20,2023-03-17,Delivered,279,13065.3,12560.76,7.0,Compliant
+PO-00830,Vendor_E,Office Chair,2023-09-30,2023-10-30,Delivered,72,8323.67,8213.84,0.0,Compliant
+PO-00831,Vendor_A,SSD,2024-12-10,2024-12-29,Delivered,286,6550.4,6201.81,2.0,Compliant
+PO-00832,Vendor_E,SSD,2023-09-28,2023-10-14,Delivered,12,6253.6,6153.91,0.0,Non-Compliant
+PO-00833,Vendor_G,Mouse,2023-07-18,,Pending,215,585.67,578.45,,Compliant
+PO-00834,Vendor_F,Hard Drive,2024-07-03,2024-07-29,Delivered,173,4848.1,4721.78,0.0,Non-Compliant
+PO-00835,Vendor_D,Desk,2023-12-31,2024-01-10,Delivered,94,13197.37,13175.24,1.0,Compliant
+PO-00836,Vendor_E,Laptop,2024-09-06,2024-10-05,Delivered,128,50149.89,49811.7,3.0,Compliant
+PO-00837,Vendor_H,Desktop,2024-12-18,2025-01-12,Delivered,324,45249.31,44163.02,1.0,Compliant
+PO-00838,Vendor_A,Office Chair,2024-05-30,,Pending,161,8101.47,8020.4,,Compliant
+PO-00839,Vendor_D,Laptop,2024-07-21,2024-07-31,Delivered,115,57764.75,57504.73,1.0,Compliant
+PO-00840,Vendor_G,Hard Drive,2024-11-17,,Pending,351,5539.33,5368.12,,Compliant
+PO-00841,Vendor_H,Desktop,2024-07-13,2024-08-11,Partially Delivered,206,50160.05,48057.71,5.0,Compliant
+PO-00842,Vendor_D,Desk,2024-02-21,,Pending,361,12158.23,11796.45,,Non-Compliant
+PO-00843,Vendor_A,Hard Drive,2023-09-25,2023-09-27,Delivered,73,5268.68,5125.61,2.0,Compliant
+PO-00844,Vendor_C,Packaging Box,2024-02-17,2024-03-17,Delivered,438,114.69,108.7,4.0,Compliant
+PO-00845,Vendor_C,Desktop,2024-07-08,,Cancelled,61,45011.81,43397.85,,Compliant
+PO-00846,Vendor_G,Desk,2023-05-28,2023-06-14,Delivered,234,13222.06,13200.34,5.0,Compliant
+PO-00847,Vendor_F,Laptop,2024-08-23,2024-09-20,Partially Delivered,480,49004.62,46264.31,5.0,Compliant
+PO-00848,Vendor_C,SSD,2023-08-25,2023-09-05,Partially Delivered,231,6123.56,5885.59,2.0,Non-Compliant
+PO-00849,Vendor_H,Desk,2023-10-19,2023-11-02,Delivered,442,12279.16,11902.92,2.0,Compliant
+PO-00850,Vendor_C,Monitor,2024-07-02,,Cancelled,306,11104.5,10768.9,,Compliant
+PO-00851,Vendor_B,Monitor,2023-03-22,2023-04-16,Delivered,177,13081.58,12850.81,2.0,Compliant
+PO-00852,Vendor_F,Hard Drive,2024-08-19,,Pending,449,4988.17,4842.92,,Compliant
+PO-00853,Vendor_H,Packaging Box,2024-03-02,2024-03-10,Delivered,130,121.5,115.09,0.0,Compliant
+PO-00854,Vendor_E,Monitor,2024-07-19,2024-07-22,Delivered,108,12787.75,12666.02,0.0,Non-Compliant
+PO-00855,Vendor_F,Laptop,2024-01-19,2024-02-03,Delivered,395,48700.34,45850.49,0.0,Compliant
+PO-00856,Vendor_B,Desk,2023-05-14,2023-05-27,Delivered,111,11872.66,11207.03,0.0,Compliant
+PO-00857,Vendor_C,Keyboard,2023-08-04,2023-08-09,Delivered,187,802.47,758.63,2.0,Compliant
+PO-00858,Vendor_C,Desktop,2023-03-08,2023-03-17,Delivered,117,42877.95,42142.47,1.0,Compliant
+PO-00859,Vendor_D,Mouse,2024-08-13,2024-08-24,Delivered,277,593.73,560.07,1.0,Compliant
+PO-00860,Vendor_D,Desk,2024-05-27,2024-06-22,Delivered,135,12630.93,12525.44,1.0,Compliant
+PO-00861,Vendor_C,Desktop,2024-02-21,2024-03-02,Delivered,410,46593.2,46152.53,3.0,Compliant
+PO-00862,Vendor_B,SSD,2023-08-15,2023-08-31,Delivered,298,6712.75,6660.93,10.0,Compliant
+PO-00863,Vendor_F,Laptop,2023-11-30,2023-12-17,Delivered,373,50215.63,48312.34,9.0,Compliant
+PO-00864,Vendor_A,Router,2024-11-03,2024-11-29,Delivered,289,3952.73,3788.72,6.0,Compliant
+PO-00865,Vendor_G,SSD,2024-08-11,2024-08-29,Delivered,391,6678.91,6299.9,3.0,Compliant
+PO-00866,Vendor_H,Laptop,2024-08-03,,Pending,124,52619.49,52011.67,,Compliant
+PO-00867,Vendor_F,Router,2024-08-30,2024-09-17,Delivered,316,3912.03,3795.52,4.0,Compliant
+PO-00868,Vendor_A,Laptop,2023-07-16,2023-07-21,Delivered,298,50260.36,50098.66,5.0,Compliant
+PO-00869,Vendor_E,Mouse,2024-05-17,2024-06-07,Delivered,252,519.2,507.03,5.0,Compliant
+PO-00870,Vendor_A,Office Chair,2023-04-16,2023-05-16,Delivered,183,8609.56,8573.96,2.0,Compliant
+PO-00871,Vendor_H,Router,2024-09-30,2024-10-12,Delivered,25,4008.11,3821.63,0.0,Compliant
+PO-00872,Vendor_B,Hard Drive,2024-06-04,2024-06-19,Delivered,285,5107.88,4820.17,8.0,Compliant
+PO-00873,Vendor_F,SSD,2024-12-08,2024-12-27,Delivered,354,6054.45,5729.42,4.0,Compliant
+PO-00874,Vendor_A,SSD,2024-02-15,2024-03-11,Delivered,177,6040.1,5885.58,2.0,Compliant
+PO-00875,Vendor_C,Packaging Box,2023-12-10,2024-01-02,Delivered,332,106.78,105.63,7.0,Compliant
+PO-00876,Vendor_C,Keyboard,2024-09-28,2024-10-15,Delivered,431,888.3,872.6,7.0,Compliant
+PO-00877,Vendor_A,Packaging Box,2023-01-08,2023-01-10,Delivered,212,118.39,114.99,1.0,Compliant
+PO-00878,Vendor_B,Laptop,2023-12-05,2023-12-31,Partially Delivered,442,51190.43,48155.19,1.0,Compliant
+PO-00879,Vendor_G,Laptop,2023-05-26,,Pending,385,57307.38,54515.03,,Compliant
+PO-00880,Vendor_E,Desk,2024-01-03,2024-01-20,Delivered,349,12365.56,11974.47,3.0,Non-Compliant
+PO-00881,Vendor_E,SSD,2024-11-26,2024-11-28,Delivered,265,6120.15,6020.83,6.0,Compliant
+PO-00882,Vendor_E,Desktop,2023-02-08,,Pending,351,47455.02,46325.27,,Compliant
+PO-00883,Vendor_G,Monitor,2024-08-28,,Pending,246,13699.77,12924.09,,Non-Compliant
+PO-00884,Vendor_B,SSD,2024-11-25,2024-12-13,Delivered,132,6401.58,6307.85,0.0,Compliant
+PO-00885,Vendor_B,Hard Drive,2023-05-03,2023-05-05,Partially Delivered,346,5348.1,5287.74,6.0,Compliant
+PO-00886,Vendor_F,Desk,2023-01-07,2023-01-25,Delivered,475,11200.92,11051.64,2.0,Compliant
+PO-00887,Vendor_H,Office Chair,2023-10-20,,Pending,211,8770.18,8335.85,,Compliant
+PO-00888,Vendor_D,Hard Drive,2023-06-03,2023-06-17,Delivered,14,5623.35,5611.44,0.0,Compliant
+PO-00889,Vendor_C,Hard Drive,2024-06-25,2024-07-24,Delivered,363,4754.43,4517.49,3.0,Compliant
+PO-00890,Vendor_C,Monitor,2023-10-19,,Pending,303,12364.75,12125.95,,Compliant
+PO-00891,Vendor_D,Laptop,2023-03-18,2023-04-11,Delivered,165,51979.1,48964.98,0.0,Compliant
+PO-00892,Vendor_F,Keyboard,2024-12-23,2025-01-07,Delivered,99,861.86,811.88,1.0,Compliant
+PO-00893,Vendor_C,Router,2023-03-11,2023-03-31,Delivered,222,3778.46,3696.79,0.0,Compliant
+PO-00894,Vendor_H,Desktop,2024-07-03,2024-07-23,Delivered,52,47548.15,46713.78,0.0,Compliant
+PO-00895,Vendor_B,Office Chair,2023-12-02,2023-12-30,Partially Delivered,99,8809.26,8764.13,0.0,Compliant
+PO-00896,Vendor_B,Hard Drive,2023-08-11,2023-08-14,Delivered,124,5615.71,5405.93,1.0,Compliant
+PO-00897,Vendor_D,SSD,2024-10-10,2024-10-12,Delivered,168,6520.49,6295.67,5.0,Compliant
+PO-00898,Vendor_D,Desktop,2024-08-14,2024-08-26,Delivered,19,47865.58,46651.24,0.0,Compliant
+PO-00899,Vendor_C,Router,2024-03-16,,Pending,273,4051.76,3931.15,,Compliant
+PO-00900,Vendor_B,Mouse,2024-11-05,2024-11-09,Delivered,206,550.3,543.81,4.0,Compliant
+PO-00901,Vendor_D,Packaging Box,2024-03-06,,Pending,44,122.88,118.45,,Compliant
+PO-00902,Vendor_C,Laptop,2024-01-16,2024-02-13,Partially Delivered,448,51546.74,50320.69,2.0,Compliant
+PO-00903,Vendor_G,Packaging Box,2024-04-25,2024-05-06,Delivered,148,134.28,129.88,0.0,Compliant
+PO-00904,Vendor_D,Desktop,2023-06-04,2023-06-24,Delivered,359,48822.82,47109.77,2.0,Compliant
+PO-00905,Vendor_B,Packaging Box,2023-12-19,2024-01-07,Delivered,427,128.36,125.02,5.0,Compliant
+PO-00906,Vendor_C,Packaging Box,2023-09-24,2023-10-11,Delivered,321,111.95,107.87,1.0,Compliant
+PO-00907,Vendor_C,Laptop,2023-03-27,2023-04-06,Delivered,66,50865.79,49251.57,0.0,Compliant
+PO-00908,Vendor_F,Monitor,2023-05-24,2023-06-04,Delivered,150,10973.48,10324.05,1.0,Compliant
+PO-00909,Vendor_B,Desktop,2024-01-03,2024-01-15,Delivered,187,47381.62,44926.41,0.0,Compliant
+PO-00910,Vendor_F,SSD,2023-12-30,2024-01-09,Delivered,206,5929.81,5924.27,1.0,Non-Compliant
+PO-00911,Vendor_A,Monitor,2024-12-06,2024-12-27,Delivered,467,12062.78,,3.0,Compliant
+PO-00912,Vendor_A,Office Chair,2024-12-28,2025-01-01,Delivered,96,8222.86,7973.29,0.0,Compliant
+PO-00913,Vendor_A,Laptop,2023-06-12,2023-06-20,Delivered,376,51164.71,49577.62,3.0,Compliant
+PO-00914,Vendor_A,Office Chair,2023-11-03,2023-11-16,Delivered,343,7933.92,7840.2,1.0,Compliant
+PO-00915,Vendor_G,Packaging Box,2024-04-08,2024-04-24,Delivered,239,132.23,130.11,0.0,Compliant
+PO-00916,Vendor_E,Router,2023-08-23,,Cancelled,353,4113.57,4026.65,,Compliant
+PO-00917,Vendor_C,Router,2023-03-22,2023-04-13,Partially Delivered,40,4011.23,3796.02,0.0,Compliant
+PO-00918,Vendor_H,Packaging Box,2024-08-13,2024-08-27,Delivered,394,119.21,112.87,3.0,Compliant
+PO-00919,Vendor_F,Office Chair,2023-04-15,,Cancelled,429,7504.62,7226.08,,Non-Compliant
+PO-00920,Vendor_G,Office Chair,2024-02-07,2024-03-05,Delivered,161,9010.06,8562.11,1.0,Compliant
+PO-00921,Vendor_G,Desktop,2024-04-22,2024-05-22,Delivered,175,48969.67,48613.8,6.0,Compliant
+PO-00922,Vendor_E,Router,2024-05-24,,Cancelled,162,4209.96,,,Compliant
+PO-00923,Vendor_C,Monitor,2023-05-02,2023-05-12,Partially Delivered,303,12334.95,11855.38,6.0,Compliant
+PO-00924,Vendor_C,Monitor,2024-02-15,2024-02-29,Partially Delivered,12,11481.72,11125.43,0.0,Compliant
+PO-00925,Vendor_F,SSD,2024-04-14,,Cancelled,153,5817.83,5578.66,,Compliant
+PO-00926,Vendor_D,Monitor,2023-09-06,2023-09-18,Delivered,216,13495.81,12931.82,4.0,Compliant
+PO-00927,Vendor_E,Keyboard,2024-05-28,2024-06-12,Delivered,92,909.6,858.11,0.0,Compliant
+PO-00928,Vendor_H,Router,2024-06-26,,Pending,142,4312.36,4106.97,,Compliant
+PO-00929,Vendor_D,SSD,2023-06-11,2023-06-19,Partially Delivered,361,6424.24,6338.11,3.0,Compliant
+PO-00930,Vendor_G,SSD,2024-06-16,2024-06-23,Delivered,498,7253.52,6935.4,16.0,Compliant
+PO-00931,Vendor_B,Desktop,2024-05-13,2024-05-17,Delivered,37,46614.34,45796.32,0.0,Compliant
+PO-00932,Vendor_H,SSD,2023-01-12,2023-01-19,Delivered,323,6735.07,6491.65,3.0,Compliant
+PO-00933,Vendor_D,Keyboard,2024-05-30,2024-06-24,Delivered,130,933.29,929.82,1.0,Compliant
+PO-00934,Vendor_G,Office Chair,2023-12-20,2024-01-19,Delivered,79,9086.2,8940.49,0.0,Compliant
+PO-00935,Vendor_G,Office Chair,2023-02-11,2023-03-12,Delivered,97,9677.31,9306.55,0.0,Compliant
+PO-00936,Vendor_G,Laptop,2023-04-05,2023-04-28,Delivered,330,53141.15,52772.07,2.0,Compliant
+PO-00937,Vendor_E,Hard Drive,2023-03-15,2023-04-05,Partially Delivered,129,5301.35,5019.36,2.0,Compliant
+PO-00938,Vendor_D,Keyboard,2024-03-30,2024-04-02,Delivered,398,910.81,883.2,3.0,Compliant
+PO-00939,Vendor_A,Office Chair,2024-09-13,2024-09-23,Delivered,282,7994.53,7869.96,1.0,Compliant
+PO-00940,Vendor_E,Mouse,2024-10-12,2024-10-26,Delivered,43,554.62,530.77,0.0,Compliant
+PO-00941,Vendor_B,Packaging Box,2024-04-30,2024-05-23,Delivered,9,122.04,120.51,1.0,Compliant
+PO-00942,Vendor_H,Office Chair,2024-09-28,2024-10-16,Delivered,238,8400.83,7915.03,0.0,Compliant
+PO-00943,Vendor_C,SSD,2023-05-12,2023-06-01,Delivered,364,6400.09,6056.63,4.0,Compliant
+PO-00944,Vendor_E,Desk,2023-01-19,2023-02-06,Delivered,230,11867.75,11669.78,0.0,Compliant
+PO-00945,Vendor_E,Monitor,2024-03-18,2024-03-27,Delivered,325,12844.31,12692.15,7.0,Non-Compliant
+PO-00946,Vendor_C,Laptop,2024-05-05,2024-05-31,Delivered,345,46278.03,45912.33,1.0,Non-Compliant
+PO-00947,Vendor_G,Hard Drive,2024-06-12,2024-07-11,Delivered,257,5504.68,5283.49,2.0,Compliant
+PO-00948,Vendor_H,Printer,2024-12-12,2024-12-29,Delivered,220,14643.38,14370.13,1.0,Non-Compliant
+PO-00949,Vendor_E,Office Chair,2023-12-12,2024-01-07,Delivered,370,8349.6,8322.97,0.0,Compliant
+PO-00950,Vendor_E,Mouse,2023-09-09,2023-09-26,Delivered,16,536.62,520.73,0.0,Compliant
+PO-00951,Vendor_B,Printer,2023-12-31,2024-01-26,Delivered,39,14509.34,13785.26,0.0,Compliant
+PO-00952,Vendor_E,Hard Drive,2024-08-05,2024-08-27,Delivered,125,5039.43,4770.64,2.0,Compliant
+PO-00953,Vendor_B,Laptop,2024-09-17,2024-10-10,Delivered,188,50013.07,48247.85,2.0,Compliant
+PO-00954,Vendor_D,Monitor,2024-02-16,,Cancelled,226,12354.31,12074.66,,Compliant
+PO-00955,Vendor_H,Laptop,2024-10-08,2024-11-05,Partially Delivered,317,50924.57,48511.28,1.0,Compliant
+PO-00956,Vendor_D,Router,2023-12-23,2024-01-19,Delivered,308,4577.05,4319.65,1.0,Compliant
+PO-00957,Vendor_C,Office Chair,2023-07-03,2023-07-06,Delivered,99,7645.9,7466.43,4.0,Compliant
+PO-00958,Vendor_C,Desktop,2023-05-19,,Pending,129,44802.04,42162.19,,Compliant
+PO-00959,Vendor_B,Keyboard,2024-11-06,,Pending,96,873.2,848.1,,Compliant
+PO-00960,Vendor_F,Hard Drive,2023-06-27,2023-07-20,Delivered,301,4508.6,4367.77,0.0,Compliant
+PO-00961,Vendor_H,Monitor,2024-02-19,2024-03-09,Delivered,119,12512.81,12119.97,5.0,Compliant
+PO-00962,Vendor_G,Monitor,2024-08-23,2024-09-13,Delivered,479,12968.44,12236.42,5.0,Compliant
+PO-00963,Vendor_C,Mouse,2024-03-12,2024-03-21,Delivered,340,529.67,515.64,6.0,Compliant
+PO-00964,Vendor_B,Office Chair,2024-12-01,2024-12-20,Delivered,264,9128.78,8847.45,1.0,Compliant
+PO-00965,Vendor_B,Router,2024-01-08,,Pending,421,4414.06,4364.05,,Compliant
+PO-00966,Vendor_F,Mouse,2023-09-29,2023-10-17,Delivered,175,526.29,510.18,0.0,Compliant
+PO-00967,Vendor_C,Printer,2024-12-04,2024-12-11,Delivered,28,13029.09,12429.8,0.0,Non-Compliant
+PO-00968,Vendor_F,Laptop,2024-08-05,2024-08-31,Partially Delivered,218,45330.45,43905.42,2.0,Compliant
+PO-00969,Vendor_H,Desk,2023-08-15,2023-08-29,Delivered,427,11889.75,11543.71,2.0,Compliant
+PO-00970,Vendor_D,Printer,2024-08-26,2024-09-10,Delivered,196,14844.04,14372.33,2.0,Compliant
+PO-00971,Vendor_H,SSD,2024-11-06,,Cancelled,362,6389.09,6111.34,,Compliant
+PO-00972,Vendor_G,Office Chair,2024-07-10,,Pending,385,9222.28,8920.43,,Compliant
+PO-00973,Vendor_G,Desktop,2024-05-06,2024-05-19,Delivered,42,51984.9,49939.01,0.0,Compliant
+PO-00974,Vendor_H,Packaging Box,2023-07-27,2023-08-11,Delivered,429,114.96,112.01,7.0,Compliant
+PO-00975,Vendor_C,Hard Drive,2023-01-05,2023-01-28,Delivered,81,4775.75,4526.55,1.0,Non-Compliant
+PO-00976,Vendor_D,Monitor,2024-10-01,2024-10-29,Delivered,259,13346.62,12877.29,3.0,Compliant
+PO-00977,Vendor_F,Laptop,2023-05-22,2023-06-10,Delivered,140,46747.69,44621.49,1.0,Compliant
+PO-00978,Vendor_H,SSD,2023-02-25,2023-02-27,Delivered,19,6611.41,6366.25,0.0,Compliant
+PO-00979,Vendor_G,Printer,2024-11-29,2024-12-27,Delivered,249,15195.2,14681.7,2.0,Compliant
+PO-00980,Vendor_D,Packaging Box,2024-12-04,2024-12-27,Delivered,236,129.35,126.84,6.0,Compliant
+PO-00981,Vendor_A,Packaging Box,2023-01-24,2023-01-30,Delivered,19,112.66,106.14,0.0,Compliant
+PO-00982,Vendor_E,Keyboard,2024-02-28,2024-03-20,Delivered,249,937.89,892.07,1.0,Compliant
+PO-00983,Vendor_D,Monitor,2023-11-03,2023-11-26,Delivered,339,13296.24,13237.99,0.0,Compliant
+PO-00984,Vendor_H,Printer,2023-05-05,,Pending,341,13952.82,13661.22,,Compliant
+PO-00985,Vendor_H,Packaging Box,2024-01-16,,Pending,61,119.76,114.47,,Compliant
+PO-00986,Vendor_E,Router,2024-07-02,2024-07-11,Delivered,138,3962.3,3840.48,3.0,Compliant
+PO-00987,Vendor_G,Router,2024-07-08,2024-08-06,Delivered,429,4577.89,4345.01,7.0,Compliant
+PO-00988,Vendor_D,Hard Drive,2024-12-09,2024-12-17,Delivered,490,5659.35,5543.61,10.0,Compliant
+PO-00989,Vendor_H,Packaging Box,2023-05-23,2023-06-14,Delivered,353,114.11,111.7,7.0,Compliant
+PO-00990,Vendor_C,Keyboard,2024-04-15,2024-04-25,Delivered,97,862.66,832.61,2.0,Compliant
+PO-00991,Vendor_D,Office Chair,2023-07-16,2023-08-02,Delivered,137,8869.48,8483.35,0.0,Compliant
+PO-00992,Vendor_E,Desktop,2024-12-10,2024-12-20,Delivered,303,46543.76,45592.39,3.0,Compliant
+PO-00993,Vendor_A,Laptop,2023-03-04,2023-03-10,Delivered,315,52157.87,51415.56,1.0,Compliant
+PO-00994,Vendor_G,Hard Drive,2023-02-14,2023-02-16,Delivered,447,5284.88,5261.9,6.0,Compliant
+PO-00995,Vendor_G,Office Chair,2023-01-30,2023-02-22,Delivered,270,9597.94,9302.93,2.0,Compliant
+PO-00996,Vendor_E,Router,2024-10-02,,Cancelled,262,3961.46,3779.17,,Compliant
+PO-00997,Vendor_E,Mouse,2024-01-20,2024-02-09,Delivered,64,523.59,507.96,2.0,Compliant
+PO-00998,Vendor_G,Office Chair,2023-10-02,2023-10-04,Delivered,250,9371.92,8934.15,7.0,Compliant
+PO-00999,Vendor_B,Monitor,2024-04-19,2024-05-14,Delivered,147,13342.27,12828.44,0.0,Compliant
+PO-01000,Vendor_H,Desktop,2023-10-20,2023-11-02,Delivered,308,45644.95,44874.29,9.0,Compliant
+PO-01001,Vendor_B,Desktop,2023-09-10,,Cancelled,136,49178.38,46828.25,,Compliant
+PO-01002,Vendor_F,Monitor,2023-10-02,2023-10-17,Delivered,191,12050.37,12000.57,1.0,Compliant
+PO-01003,Vendor_D,Monitor,2023-01-26,2023-01-30,Delivered,270,13144.59,12786.45,1.0,Compliant
+PO-01004,Vendor_C,Packaging Box,2024-04-29,,Pending,91,106.16,104.94,,Compliant
+PO-01005,Vendor_D,Desktop,2024-04-11,2024-04-19,Delivered,264,51298.29,49172.79,3.0,Compliant
+PO-01006,Vendor_D,Desk,2023-03-15,,Pending,346,12759.91,12731.48,,Compliant
+PO-01007,Vendor_D,Laptop,2023-08-21,2023-08-23,Delivered,270,55435.42,54718.33,4.0,Compliant
+PO-01008,Vendor_H,Desk,2024-09-04,2024-09-21,Delivered,230,12008.76,11805.01,6.0,Compliant
+PO-01009,Vendor_E,Packaging Box,2024-01-03,2024-01-06,Delivered,349,123.41,121.06,5.0,Compliant
+PO-01010,Vendor_A,SSD,2024-10-25,2024-11-22,Partially Delivered,156,6357.8,6138.33,1.0,Compliant
+PO-01011,Vendor_F,Router,2023-05-10,2023-05-26,Delivered,381,3688.16,3561.17,3.0,Compliant
+PO-01012,Vendor_D,Monitor,2024-05-19,2024-06-14,Delivered,312,13535.54,13113.82,2.0,Compliant
+PO-01013,Vendor_C,Packaging Box,2023-02-23,2023-03-21,Delivered,462,108.92,104.9,4.0,Compliant
+PO-01014,Vendor_D,SSD,2023-08-23,2023-09-14,Delivered,154,6472.93,6094.77,0.0,Compliant
+PO-01015,Vendor_F,Printer,2024-06-07,2024-07-04,Delivered,196,14056.73,13319.91,2.0,Compliant
+PO-01016,Vendor_D,Keyboard,2024-06-21,2024-06-30,Delivered,57,963.01,937.96,0.0,Compliant
+PO-01017,Vendor_E,Office Chair,2024-06-11,2024-07-02,Delivered,277,8424.31,8236.05,0.0,Compliant
+PO-01018,Vendor_E,Office Chair,2023-08-09,,Cancelled,215,8407.6,8074.15,,Compliant
+PO-01019,Vendor_D,Hard Drive,2023-01-14,2023-01-31,Delivered,137,5474.37,5196.93,2.0,Compliant
+PO-01020,Vendor_A,Laptop,2024-02-24,2024-03-25,Delivered,11,50381.58,48393.32,1.0,Compliant
+PO-01021,Vendor_B,Printer,2023-07-22,2023-07-24,Delivered,292,14486.52,13957.58,1.0,Compliant
+PO-01022,Vendor_G,Desktop,2023-12-31,,Pending,107,50650.49,48500.2,,Compliant
+PO-01023,Vendor_E,Keyboard,2024-02-22,2024-02-27,Partially Delivered,360,863.41,857.0,8.0,Compliant
+PO-01024,Vendor_B,Mouse,2023-02-06,,Pending,181,559.0,526.43,,Compliant
+PO-01025,Vendor_G,Hard Drive,2024-06-14,2024-06-22,Delivered,451,5666.07,5537.57,10.0,Compliant
+PO-01026,Vendor_F,Desk,2024-08-19,2024-09-18,Delivered,323,10643.66,10293.72,3.0,Compliant
+PO-01027,Vendor_G,Mouse,2023-09-07,2023-09-23,Delivered,63,569.32,562.26,0.0,Compliant
+PO-01028,Vendor_A,Laptop,2023-01-16,2023-01-29,Delivered,48,51056.39,50213.56,0.0,Compliant
+PO-01029,Vendor_G,Desk,2024-07-21,2024-07-31,Delivered,36,12646.15,12341.55,1.0,Compliant
+PO-01030,Vendor_E,Desktop,2024-09-29,2024-10-16,Delivered,255,44785.77,43075.56,4.0,Compliant
+PO-01031,Vendor_B,Office Chair,2023-09-15,2023-09-26,Delivered,315,8958.14,8889.59,3.0,Non-Compliant
+PO-01032,Vendor_A,Packaging Box,2023-01-13,2023-02-10,Delivered,151,109.82,108.91,1.0,Compliant
+PO-01033,Vendor_F,Router,2024-10-07,2024-10-20,Delivered,477,3689.41,3684.99,4.0,Compliant
+PO-01034,Vendor_F,Desktop,2023-06-29,2023-07-01,Delivered,44,41843.68,41056.82,0.0,Compliant
+PO-01035,Vendor_G,Printer,2023-02-09,2023-02-23,Delivered,177,16343.91,16129.66,1.0,Compliant
+PO-01036,Vendor_B,Hard Drive,2023-09-20,2023-10-01,Delivered,170,5201.66,4990.27,0.0,Compliant
+PO-01037,Vendor_A,Desk,2024-09-10,2024-09-28,Delivered,254,12147.74,11983.86,4.0,Compliant
+PO-01038,Vendor_D,Laptop,2023-11-17,2023-11-27,Delivered,314,51845.83,50071.47,5.0,Compliant
+PO-01039,Vendor_A,Desk,2023-08-05,2023-08-18,Delivered,380,11710.0,11396.24,6.0,Compliant
+PO-01040,Vendor_C,Laptop,2024-11-21,2024-12-08,Delivered,68,47943.76,46438.04,2.0,Compliant
+PO-01041,Vendor_B,Keyboard,2024-04-24,2024-05-12,Delivered,425,867.46,828.47,4.0,Compliant
+PO-01042,Vendor_A,Keyboard,2023-11-11,2023-11-26,Delivered,73,872.25,834.92,2.0,Compliant
+PO-01043,Vendor_C,Printer,2024-06-01,2024-06-12,Delivered,357,13791.33,13205.92,6.0,Compliant
+PO-01044,Vendor_C,Office Chair,2023-02-26,2023-03-06,Delivered,230,8051.65,7623.88,0.0,Compliant
+PO-01045,Vendor_A,Monitor,2023-11-13,,Pending,24,12029.62,11590.61,,Compliant
+PO-01046,Vendor_A,Office Chair,2023-09-21,2023-10-04,Delivered,153,8626.17,8241.53,1.0,Compliant
+PO-01047,Vendor_B,Office Chair,2023-09-21,2023-10-14,Delivered,142,8469.96,8018.47,4.0,Compliant
+PO-01048,Vendor_G,Printer,2024-07-27,2024-08-18,Partially Delivered,50,15098.44,15028.23,1.0,Compliant
+PO-01049,Vendor_B,Printer,2024-05-16,2024-05-19,Delivered,145,15553.81,14960.87,0.0,Compliant
+PO-01050,Vendor_G,Hard Drive,2023-10-17,2023-10-19,Delivered,436,5631.67,5309.01,3.0,Compliant
+PO-01051,Vendor_G,Laptop,2024-01-24,2024-02-13,Delivered,381,55479.61,55412.75,1.0,Compliant
+PO-01052,Vendor_H,Hard Drive,2024-09-14,2024-10-12,Partially Delivered,473,5432.19,5200.43,7.0,Compliant
+PO-01053,Vendor_G,Monitor,2024-10-24,2024-11-07,Partially Delivered,330,13258.49,13203.23,2.0,Non-Compliant
+PO-01054,Vendor_G,Packaging Box,2024-09-15,,Cancelled,325,131.53,128.08,,Non-Compliant
+PO-01055,Vendor_G,Packaging Box,2023-09-10,,Pending,226,128.48,127.56,,Compliant
+PO-01056,Vendor_B,Desk,2024-07-20,2024-08-18,Delivered,408,11872.8,11541.63,4.0,Compliant
+PO-01057,Vendor_G,Office Chair,2023-08-30,2023-09-28,Delivered,308,9159.37,8949.08,1.0,Compliant
+PO-01058,Vendor_C,Printer,2024-08-29,2024-09-01,Partially Delivered,450,13478.16,13000.38,2.0,Compliant
+PO-01059,Vendor_E,Keyboard,2024-09-28,2024-10-27,Delivered,174,860.04,824.86,4.0,Compliant
+PO-01060,Vendor_A,Hard Drive,2024-11-30,2024-12-12,Delivered,359,5183.97,5138.54,0.0,Compliant
+PO-01061,Vendor_D,Hard Drive,2023-03-03,2023-03-09,Delivered,495,5539.82,5407.32,8.0,Compliant
+PO-01062,Vendor_A,Laptop,2024-02-19,2024-02-22,Delivered,365,47607.38,46682.3,5.0,Compliant
+PO-01063,Vendor_A,Laptop,2024-05-26,2024-06-06,Partially Delivered,51,49739.09,48409.85,0.0,Compliant
+PO-01064,Vendor_H,Keyboard,2024-11-16,2024-11-21,Delivered,485,890.63,884.05,8.0,Compliant
+PO-01065,Vendor_C,Desktop,2024-01-17,2024-01-23,Delivered,90,46700.5,45532.11,0.0,Compliant
+PO-01066,Vendor_H,Desk,2024-06-19,2024-07-03,Delivered,295,12591.54,12475.61,3.0,Compliant
+PO-01067,Vendor_F,Keyboard,2024-10-20,2024-11-02,Delivered,431,818.32,812.93,0.0,Compliant
+PO-01068,Vendor_H,Router,2024-12-07,2024-12-28,Delivered,430,4349.95,4129.16,5.0,Compliant
+PO-01069,Vendor_C,Printer,2024-07-12,2024-08-10,Delivered,218,13039.81,12442.83,1.0,Compliant
+PO-01070,Vendor_D,Packaging Box,2023-10-06,2023-10-26,Partially Delivered,483,131.7,125.51,9.0,Compliant
+PO-01071,Vendor_G,Keyboard,2023-01-15,2023-02-01,Partially Delivered,447,993.86,971.99,7.0,Non-Compliant
+PO-01072,Vendor_F,Office Chair,2023-02-19,2023-03-08,Delivered,414,7986.53,7870.76,5.0,Compliant
+PO-01073,Vendor_A,Hard Drive,2024-09-14,2024-09-21,Partially Delivered,424,4740.28,4574.74,11.0,Compliant
+PO-01074,Vendor_D,Keyboard,2024-07-21,2024-08-04,Delivered,46,959.34,947.55,0.0,Non-Compliant
+PO-01075,Vendor_E,SSD,2024-05-23,2024-05-28,Delivered,330,6667.75,6645.12,4.0,Compliant
+PO-01076,Vendor_E,Hard Drive,2024-12-02,2024-12-25,Delivered,100,5312.08,5150.66,0.0,Compliant
+PO-01077,Vendor_A,Desk,2023-06-29,,Cancelled,412,10966.95,10838.65,,Compliant
+PO-01078,Vendor_B,Keyboard,2023-04-01,2023-04-05,Delivered,346,917.88,917.28,8.0,Compliant
+PO-01079,Vendor_H,Printer,2023-07-26,2023-08-23,Delivered,115,14286.17,14205.93,0.0,Compliant
+PO-01080,Vendor_F,Mouse,2023-03-11,,Pending,114,496.52,487.4,,Compliant
+PO-01081,Vendor_H,Office Chair,2023-06-20,2023-07-12,Delivered,479,8757.45,8685.94,4.0,Compliant
+PO-01082,Vendor_A,Router,2023-06-05,2023-06-18,Delivered,57,4171.4,4130.22,0.0,Compliant
+PO-01083,Vendor_F,SSD,2024-10-25,2024-11-10,Partially Delivered,28,5825.61,5652.65,0.0,Compliant
+PO-01084,Vendor_H,Router,2023-02-11,2023-02-27,Delivered,371,3988.25,3935.12,5.0,Compliant
+PO-01085,Vendor_G,Keyboard,2023-02-18,2023-02-20,Delivered,119,948.75,924.73,1.0,Compliant
+PO-01086,Vendor_B,Office Chair,2023-08-01,2023-08-27,Partially Delivered,185,8753.27,8606.05,0.0,Compliant
+PO-01087,Vendor_D,Laptop,2023-03-29,,Pending,155,51471.88,50505.01,,Compliant
+PO-01088,Vendor_A,Office Chair,2024-04-14,2024-05-06,Delivered,354,7897.84,7677.4,1.0,Compliant
+PO-01089,Vendor_B,Laptop,2024-10-08,2024-10-11,Delivered,33,55564.1,54368.56,0.0,Compliant
+PO-01090,Vendor_B,Router,2024-06-27,2024-07-26,Delivered,309,4532.91,4269.19,5.0,Compliant
+PO-01091,Vendor_D,Desktop,2024-03-02,2024-03-19,Delivered,61,51377.68,51376.13,0.0,Compliant
+PO-01092,Vendor_B,Printer,2024-12-03,2024-12-17,Delivered,338,14025.96,14002.54,8.0,Compliant
+PO-01093,Vendor_A,Keyboard,2023-06-17,2023-07-16,Delivered,218,827.34,787.08,5.0,Compliant
+PO-01094,Vendor_G,Laptop,2024-05-12,2024-05-17,Delivered,238,57250.34,55354.99,7.0,Compliant
+PO-01095,Vendor_E,Keyboard,2024-05-23,2024-06-01,Delivered,241,876.05,847.93,0.0,Compliant
+PO-01096,Vendor_H,Mouse,2023-09-20,2023-10-17,Delivered,55,522.14,502.52,0.0,Compliant
+PO-01097,Vendor_F,Monitor,2023-12-09,2023-12-26,Delivered,371,10817.77,10289.64,4.0,Compliant
+PO-01098,Vendor_D,Printer,2024-03-28,2024-04-05,Delivered,437,15216.45,14693.94,3.0,Non-Compliant
+PO-01099,Vendor_A,Packaging Box,2023-06-14,2023-07-03,Delivered,370,114.7,108.43,2.0,Non-Compliant
+PO-01100,Vendor_G,Desktop,2024-12-21,2025-01-20,Partially Delivered,213,50090.34,47815.14,2.0,Compliant
+PO-01101,Vendor_G,Packaging Box,2023-12-25,2024-01-23,Delivered,452,132.27,124.93,6.0,Compliant
+PO-01102,Vendor_G,Desktop,2023-02-27,2023-03-11,Delivered,258,49698.02,47394.16,3.0,Compliant
+PO-01103,Vendor_H,Router,2024-08-01,2024-08-25,Partially Delivered,225,4042.11,3883.49,0.0,Compliant
+PO-01104,Vendor_F,Router,2024-04-18,,Cancelled,110,4015.58,3798.26,,Compliant
+PO-01105,Vendor_E,Desktop,2023-04-03,2023-04-09,Partially Delivered,357,45278.5,43933.06,9.0,Compliant
+PO-01106,Vendor_E,Packaging Box,2024-08-25,2024-08-30,Delivered,240,111.82,108.06,3.0,Compliant
+PO-01107,Vendor_A,Desktop,2024-11-14,2024-11-30,Partially Delivered,276,45264.03,44484.63,0.0,Compliant
+PO-01108,Vendor_C,Printer,2023-06-20,2023-07-19,Delivered,217,13063.13,12609.42,1.0,Compliant
+PO-01109,Vendor_B,Office Chair,2024-11-10,2024-11-24,Delivered,266,8918.65,8595.91,2.0,Compliant
+PO-01110,Vendor_E,Desk,2023-03-17,2023-04-09,Delivered,13,11908.51,11756.99,0.0,Compliant
+PO-01111,Vendor_D,Monitor,2024-09-25,2024-10-20,Delivered,171,13498.63,13255.42,4.0,Compliant
+PO-01112,Vendor_F,Mouse,2023-03-03,2023-04-01,Delivered,426,485.67,483.38,1.0,Compliant
+PO-01113,Vendor_H,Monitor,2023-06-12,,Cancelled,279,12643.03,12546.09,,Non-Compliant
+PO-01114,Vendor_B,Mouse,2023-03-07,,Pending,335,588.83,563.24,,Compliant
+PO-01115,Vendor_H,Monitor,2023-06-27,2023-07-08,Delivered,423,12475.39,12101.91,2.0,Compliant
+PO-01116,Vendor_A,Monitor,2023-01-29,2023-01-31,Delivered,267,11737.86,11408.23,1.0,Compliant
+PO-01117,Vendor_G,Office Chair,2023-10-22,,Pending,455,9529.49,9278.05,,Compliant
+PO-01118,Vendor_F,Hard Drive,2024-05-11,2024-05-13,Delivered,210,4529.27,4369.48,3.0,Compliant
+PO-01119,Vendor_B,Desk,2024-04-14,2024-04-27,Delivered,25,12129.83,11504.5,0.0,Compliant
+PO-01120,Vendor_D,Laptop,2024-05-19,2024-06-15,Delivered,402,56695.78,55178.4,2.0,Compliant
+PO-01121,Vendor_A,Hard Drive,2024-06-30,2024-07-15,Delivered,18,5087.74,4879.88,0.0,Compliant
+PO-01122,Vendor_A,Desk,2024-05-09,2024-06-03,Partially Delivered,421,11104.85,10775.95,2.0,Compliant
+PO-01123,Vendor_F,Laptop,2023-01-10,2023-01-20,Delivered,156,48155.23,45809.23,0.0,Compliant
+PO-01124,Vendor_E,Printer,2023-11-03,2023-11-16,Partially Delivered,40,13620.45,13317.35,1.0,Compliant
+PO-01125,Vendor_B,Mouse,2024-08-22,2024-09-20,Delivered,492,541.11,514.69,5.0,Compliant
+PO-01126,Vendor_F,Mouse,2023-10-02,2023-10-12,Delivered,22,519.76,504.48,0.0,Compliant
+PO-01127,Vendor_G,Packaging Box,2023-08-05,2023-08-28,Delivered,249,125.95,123.59,6.0,Compliant
+PO-01128,Vendor_D,Desktop,2024-10-03,2024-10-10,Delivered,231,52090.88,50763.21,5.0,Compliant
+PO-01129,Vendor_E,SSD,2023-07-20,2023-07-30,Partially Delivered,63,6162.33,6151.55,1.0,Compliant
+PO-01130,Vendor_D,Mouse,2023-12-21,2024-01-16,Delivered,76,595.94,572.3,1.0,Compliant
+PO-01131,Vendor_D,Router,2024-05-22,2024-06-01,Delivered,383,4201.79,4178.09,7.0,Compliant
+PO-01132,Vendor_E,Keyboard,2023-01-27,2023-02-06,Partially Delivered,460,891.23,838.83,2.0,Compliant
+PO-01133,Vendor_F,Keyboard,2023-11-12,,Pending,5,871.13,835.98,,Compliant
+PO-01134,Vendor_D,Hard Drive,2024-09-17,2024-09-21,Partially Delivered,466,5332.47,5149.84,12.0,Compliant
+PO-01135,Vendor_H,Keyboard,2023-05-22,,Pending,214,873.2,861.53,,Compliant
+PO-01136,Vendor_C,SSD,2023-03-31,2023-04-30,Partially Delivered,264,5944.8,5819.48,2.0,Compliant
+PO-01137,Vendor_C,Keyboard,2024-06-13,2024-06-30,Delivered,446,849.72,,3.0,Compliant
+PO-01138,Vendor_E,Printer,2024-09-03,2024-09-13,Partially Delivered,242,13761.18,13587.16,6.0,Non-Compliant
+PO-01139,Vendor_B,Keyboard,2024-05-15,2024-06-02,Delivered,67,875.63,844.47,0.0,Compliant
+PO-01140,Vendor_F,SSD,2024-10-27,2024-11-12,Delivered,249,6149.28,6089.69,1.0,Compliant
+PO-01141,Vendor_E,Printer,2024-05-19,2024-06-15,Delivered,421,14457.62,14167.46,0.0,Compliant
+PO-01142,Vendor_C,Hard Drive,2024-06-13,2024-06-16,Delivered,317,4749.2,4524.05,3.0,Compliant
+PO-01143,Vendor_B,Hard Drive,2023-06-07,,Pending,469,5509.12,5364.56,,Compliant
+PO-01144,Vendor_G,Office Chair,2023-03-04,,Cancelled,52,8955.19,8803.16,,Compliant
+PO-01145,Vendor_H,Desktop,2024-11-22,2024-12-19,Partially Delivered,276,50701.0,49402.88,0.0,Compliant
+PO-01146,Vendor_D,Monitor,2023-09-02,,Pending,126,13782.32,13279.11,,Compliant
+PO-01147,Vendor_H,Keyboard,2023-02-25,2023-03-17,Delivered,283,944.08,892.93,0.0,Non-Compliant
+PO-01148,Vendor_C,Packaging Box,2023-01-15,2023-02-02,Delivered,374,110.16,107.14,5.0,Compliant
+PO-01149,Vendor_B,Packaging Box,2024-09-14,2024-09-27,Delivered,5,127.32,126.51,0.0,Non-Compliant
+PO-01150,Vendor_G,Router,2024-12-30,2025-01-16,Partially Delivered,34,4601.26,4348.03,0.0,Compliant
+PO-01151,Vendor_E,Keyboard,2023-12-01,2023-12-30,Delivered,316,872.92,834.68,7.0,Compliant
+PO-01152,Vendor_D,Office Chair,2024-08-26,2024-09-25,Partially Delivered,380,8763.79,8628.02,11.0,Compliant
+PO-01153,Vendor_F,Desk,2023-03-07,2023-03-21,Delivered,284,11029.12,10741.56,1.0,Compliant
+PO-01154,Vendor_C,Office Chair,2023-02-28,2023-03-08,Delivered,390,8404.67,8278.65,6.0,Non-Compliant
+PO-01155,Vendor_C,Router,2024-02-27,2024-03-21,Delivered,352,3919.06,3908.05,2.0,Compliant
+PO-01156,Vendor_A,Router,2024-02-23,2024-03-01,Delivered,354,4248.7,4117.43,9.0,Non-Compliant
+PO-01157,Vendor_E,Mouse,2023-10-22,2023-11-08,Delivered,187,560.36,532.79,3.0,Compliant
+PO-01158,Vendor_C,Laptop,2024-07-09,2024-07-14,Delivered,72,50402.04,50057.51,0.0,Compliant
+PO-01159,Vendor_F,Hard Drive,2024-07-21,2024-08-01,Delivered,42,4743.42,4733.76,0.0,Compliant
+PO-01160,Vendor_C,Desktop,2024-05-25,2024-06-22,Delivered,404,47351.98,47047.4,2.0,Non-Compliant
+PO-01161,Vendor_E,Desktop,2023-08-08,2023-08-22,Delivered,87,49764.74,47649.29,0.0,Compliant
+PO-01162,Vendor_G,Office Chair,2023-11-24,2023-11-28,Delivered,47,9311.48,8882.48,2.0,Compliant
+PO-01163,Vendor_E,Monitor,2023-10-03,2023-10-20,Partially Delivered,156,11835.82,11367.84,3.0,Compliant
+PO-01164,Vendor_E,Router,2023-11-02,2023-11-19,Delivered,76,4259.18,4119.33,1.0,Compliant
+PO-01165,Vendor_E,Monitor,2023-06-14,2023-07-07,Delivered,382,12576.36,12050.96,5.0,Compliant
+PO-01166,Vendor_B,Laptop,2023-08-22,2023-09-07,Partially Delivered,340,53402.49,52299.61,0.0,Compliant
+PO-01167,Vendor_C,Keyboard,2024-04-09,2024-05-08,Delivered,212,817.7,776.56,8.0,Compliant
+PO-01168,Vendor_A,Laptop,2024-07-14,2024-07-17,Delivered,488,47932.03,47851.78,3.0,Compliant
+PO-01169,Vendor_G,Keyboard,2023-04-15,2023-05-03,Delivered,167,950.96,903.47,0.0,Compliant
+PO-01170,Vendor_G,Desktop,2023-08-29,2023-09-20,Partially Delivered,22,53376.59,53107.34,0.0,Compliant
+PO-01171,Vendor_C,Hard Drive,2024-01-18,2024-02-02,Delivered,243,5076.36,4921.95,3.0,Compliant
+PO-01172,Vendor_A,Hard Drive,2024-01-10,2024-02-05,Delivered,360,4766.35,4619.48,5.0,Compliant
+PO-01173,Vendor_E,Office Chair,2024-03-13,2024-04-12,Delivered,140,8843.78,8524.13,4.0,Compliant
+PO-01174,Vendor_D,Keyboard,2023-10-04,2023-10-21,Delivered,22,908.42,879.94,0.0,Compliant
+PO-01175,Vendor_A,Monitor,2023-07-20,2023-08-08,Delivered,253,11935.72,11799.99,4.0,Compliant
+PO-01176,Vendor_G,Keyboard,2024-01-20,2024-01-23,Delivered,326,971.78,940.16,1.0,Compliant
+PO-01177,Vendor_E,Monitor,2024-06-10,2024-06-17,Partially Delivered,182,12656.61,12253.62,2.0,Compliant
+PO-01178,Vendor_F,Router,2023-08-20,2023-08-25,Delivered,43,3861.59,3826.63,0.0,Compliant
+PO-01179,Vendor_D,Laptop,2024-06-03,2024-06-25,Partially Delivered,308,54343.95,53508.02,1.0,Compliant
+PO-01180,Vendor_H,Monitor,2024-01-07,2024-01-17,Partially Delivered,55,12232.19,11615.42,1.0,Compliant
+PO-01181,Vendor_G,Keyboard,2024-07-14,,Cancelled,426,993.1,986.98,,Compliant
+PO-01182,Vendor_D,Mouse,2023-06-10,2023-06-14,Delivered,33,549.17,538.59,1.0,Compliant
+PO-01183,Vendor_A,Desktop,2024-01-04,2024-01-25,Delivered,255,46672.94,45036.78,3.0,Compliant
+PO-01184,Vendor_D,Printer,2024-03-03,2024-03-29,Delivered,87,14945.55,14424.62,0.0,Compliant
+PO-01185,Vendor_C,Keyboard,2023-09-19,2023-09-25,Delivered,413,893.41,848.39,11.0,Compliant
+PO-01186,Vendor_E,Hard Drive,2023-10-27,2023-11-20,Delivered,366,5408.96,5300.65,6.0,Compliant
+PO-01187,Vendor_E,Keyboard,2023-01-16,2023-02-06,Delivered,485,913.82,909.77,4.0,Compliant
+PO-01188,Vendor_C,Packaging Box,2024-03-17,2024-04-14,Delivered,137,112.76,106.27,2.0,Compliant
+PO-01189,Vendor_B,Office Chair,2024-11-25,2024-11-27,Delivered,341,8928.88,8750.6,1.0,Compliant
+PO-01190,Vendor_G,Printer,2023-09-24,2023-10-07,Delivered,419,14733.97,14129.82,9.0,Compliant
+PO-01191,Vendor_F,Packaging Box,2024-09-05,2024-09-09,Delivered,267,113.56,112.24,1.0,Compliant
+PO-01192,Vendor_D,Monitor,2023-12-17,,Pending,17,12824.93,12806.78,,Compliant
+PO-01193,Vendor_H,Mouse,2024-07-05,2024-07-27,Delivered,367,545.19,530.62,2.0,Compliant
+PO-01194,Vendor_F,Laptop,2023-05-02,2023-05-28,Delivered,448,46360.66,44730.81,9.0,Compliant
+PO-01195,Vendor_F,Hard Drive,2023-04-21,2023-04-28,Partially Delivered,112,4948.4,4725.74,0.0,Compliant
+PO-01196,Vendor_F,SSD,2024-07-22,2024-08-16,Delivered,168,6270.68,6057.96,0.0,Compliant
+PO-01197,Vendor_G,Laptop,2024-01-14,2024-01-18,Delivered,466,58324.03,56348.61,8.0,Compliant
+PO-01198,Vendor_F,Router,2023-04-30,2023-05-02,Delivered,407,4076.21,4043.85,3.0,Compliant
+PO-01199,Vendor_E,Packaging Box,2023-04-02,2023-04-18,Delivered,259,124.57,120.86,4.0,Compliant
+PO-01200,Vendor_B,Keyboard,2023-04-25,2023-05-06,Delivered,400,868.39,860.84,10.0,Compliant
+PO-01201,Vendor_E,Mouse,2023-08-01,2023-08-09,Delivered,192,549.02,524.18,3.0,Compliant
+PO-01202,Vendor_C,Office Chair,2023-06-18,2023-07-13,Delivered,253,8131.62,7888.96,0.0,Compliant
+PO-01203,Vendor_C,Desktop,2023-12-17,2024-01-05,Delivered,214,43870.74,42793.07,4.0,Non-Compliant
+PO-01204,Vendor_D,Laptop,2023-10-07,2023-11-03,Delivered,232,56733.8,55705.09,3.0,Compliant
+PO-01205,Vendor_D,Monitor,2023-07-21,2023-08-20,Delivered,354,12660.8,12123.66,3.0,Compliant
+PO-01206,Vendor_C,Keyboard,2024-11-15,2024-11-18,Delivered,340,860.39,833.13,4.0,Compliant
+PO-01207,Vendor_G,Keyboard,2024-12-01,,Cancelled,404,1022.28,999.18,,Compliant
+PO-01208,Vendor_G,Desk,2024-04-17,2024-05-10,Partially Delivered,124,13652.12,12872.53,4.0,Compliant
+PO-01209,Vendor_B,Office Chair,2024-05-08,2024-05-22,Delivered,337,8300.5,8092.09,4.0,Non-Compliant
+PO-01210,Vendor_H,Router,2024-07-19,2024-07-21,Delivered,263,4133.92,3991.04,0.0,Compliant
+PO-01211,Vendor_A,Hard Drive,2023-12-05,2023-12-28,Delivered,311,4969.1,4942.37,2.0,Compliant
+PO-01212,Vendor_G,Monitor,2024-10-30,2024-11-24,Delivered,175,12823.39,12520.65,4.0,Compliant
+PO-01213,Vendor_C,Office Chair,2024-05-14,2024-06-11,Delivered,373,7736.37,7336.12,4.0,Compliant
+PO-01214,Vendor_F,Desk,2023-04-23,2023-05-17,Delivered,328,10412.5,10249.52,6.0,Compliant
+PO-01215,Vendor_H,Mouse,2023-03-04,2023-03-22,Delivered,188,533.71,527.56,2.0,Compliant
+PO-01216,Vendor_A,Hard Drive,2023-08-24,2023-09-02,Delivered,202,5135.65,5045.04,2.0,Compliant
+PO-01217,Vendor_C,Desktop,2023-07-09,2023-07-16,Partially Delivered,16,46279.07,45911.31,1.0,Compliant
+PO-01218,Vendor_D,Printer,2023-01-21,2023-02-14,Delivered,149,14317.3,14282.57,0.0,Compliant
+PO-01219,Vendor_A,Keyboard,2024-01-20,2024-02-13,Delivered,318,854.61,852.2,1.0,Compliant
+PO-01220,Vendor_F,Monitor,2024-08-21,2024-09-14,Delivered,223,11706.32,11055.25,3.0,Non-Compliant
+PO-01221,Vendor_H,Keyboard,2023-12-17,2023-12-27,Delivered,190,947.62,920.39,3.0,Compliant
+PO-01222,Vendor_B,Desktop,2023-05-22,2023-06-13,Delivered,255,47766.16,45915.51,3.0,Compliant
+PO-01223,Vendor_D,Printer,2024-06-26,2024-06-29,Delivered,165,15003.65,14908.57,1.0,Compliant
+PO-01224,Vendor_C,Printer,2024-01-15,2024-02-04,Delivered,499,13040.41,12865.75,6.0,Compliant
+PO-01225,Vendor_D,Printer,2023-10-13,2023-10-22,Delivered,248,15554.12,14673.79,2.0,Compliant
+PO-01226,Vendor_C,Desktop,2023-12-17,2024-01-10,Delivered,338,42543.67,40773.03,3.0,Compliant
+PO-01227,Vendor_D,Desk,2023-07-04,2023-07-23,Delivered,220,12164.82,12100.03,1.0,Compliant
+PO-01228,Vendor_G,Keyboard,2023-09-20,2023-10-03,Delivered,277,1011.44,982.63,4.0,Compliant
+PO-01229,Vendor_B,Mouse,2023-09-01,2023-09-11,Partially Delivered,352,574.03,571.69,1.0,Compliant
+PO-01230,Vendor_H,SSD,2023-01-28,2023-02-17,Delivered,346,6167.84,6127.67,6.0,Compliant
+PO-01231,Vendor_G,Office Chair,2023-09-06,2023-10-05,Delivered,267,9176.39,8956.16,3.0,Compliant
+PO-01232,Vendor_B,Office Chair,2024-06-05,2024-06-19,Delivered,21,9067.48,8765.2,0.0,Compliant
+PO-01233,Vendor_G,Printer,2023-08-28,2023-09-18,Delivered,77,15124.47,14402.66,1.0,Compliant
+PO-01234,Vendor_G,Packaging Box,2023-10-23,2023-11-06,Delivered,139,131.12,123.37,2.0,Compliant
+PO-01235,Vendor_A,Hard Drive,2024-03-04,2024-04-02,Delivered,150,4877.32,4874.95,1.0,Compliant
+PO-01236,Vendor_H,Mouse,2024-02-16,2024-03-06,Delivered,370,541.47,514.97,0.0,Compliant
+PO-01237,Vendor_G,Monitor,2024-01-01,2024-01-20,Delivered,166,13869.09,13115.09,3.0,Compliant
+PO-01238,Vendor_H,Office Chair,2024-08-12,2024-08-28,Delivered,274,8280.84,7881.09,4.0,Compliant
+PO-01239,Vendor_B,Keyboard,2023-01-10,2023-02-07,Delivered,127,956.69,908.79,1.0,Compliant
+PO-01240,Vendor_B,Mouse,2024-02-11,2024-02-25,Partially Delivered,303,581.1,576.1,2.0,Compliant
+PO-01241,Vendor_D,Desk,2023-11-08,,Pending,225,12836.58,12080.6,,Compliant
+PO-01242,Vendor_H,SSD,2023-02-11,2023-02-13,Partially Delivered,206,6545.06,6408.14,0.0,Compliant
+PO-01243,Vendor_A,Mouse,2024-03-05,2024-03-19,Delivered,364,555.53,554.76,3.0,Compliant
+PO-01244,Vendor_B,Printer,2024-10-03,2024-10-09,Delivered,63,15676.75,15202.43,0.0,Compliant
+PO-01245,Vendor_E,Keyboard,2023-10-27,,Pending,430,890.34,853.59,,Compliant
+PO-01246,Vendor_F,SSD,2024-05-20,2024-05-31,Delivered,178,5787.87,5752.27,2.0,Compliant
+PO-01247,Vendor_A,Desk,2023-04-16,2023-05-15,Partially Delivered,325,11757.02,11229.67,0.0,Compliant
+PO-01248,Vendor_B,Desk,2024-05-09,2024-05-29,Delivered,171,12471.9,11771.41,3.0,Compliant
+PO-01249,Vendor_A,Office Chair,2024-11-05,2024-11-09,Delivered,282,7919.71,7895.41,5.0,Compliant
+PO-01250,Vendor_B,Keyboard,2023-11-03,2023-11-30,Delivered,456,874.68,865.06,2.0,Compliant
+PO-01251,Vendor_C,Mouse,2023-05-07,2023-05-26,Delivered,409,489.69,488.56,8.0,Compliant
+PO-01252,Vendor_G,Mouse,2024-03-11,2024-04-07,Delivered,332,619.28,599.64,1.0,Compliant
+PO-01253,Vendor_B,Router,2024-01-21,,Pending,307,4054.53,3933.13,,Compliant
+PO-01254,Vendor_H,Mouse,2024-12-15,2024-12-31,Delivered,265,563.78,534.5,2.0,Compliant
+PO-01255,Vendor_A,Hard Drive,2024-12-14,2025-01-02,Partially Delivered,480,5181.76,4931.88,4.0,Compliant
+PO-01256,Vendor_G,Laptop,2024-06-05,2024-06-18,Delivered,73,54839.86,53029.24,0.0,Compliant
+PO-01257,Vendor_D,Monitor,2023-10-21,2023-11-10,Delivered,468,12669.16,12359.77,5.0,Compliant
+PO-01258,Vendor_F,Desktop,2023-09-03,2023-09-21,Delivered,348,44754.62,42479.89,3.0,Compliant
+PO-01259,Vendor_B,SSD,2023-06-29,2023-07-09,Delivered,120,6625.83,6347.53,2.0,Compliant
+PO-01260,Vendor_E,Desk,2024-10-15,2024-11-03,Delivered,192,11455.83,11380.3,0.0,Compliant
+PO-01261,Vendor_F,Packaging Box,2024-06-11,2024-06-24,Delivered,6,111.66,107.14,0.0,Compliant
+PO-01262,Vendor_F,Laptop,2023-08-15,2023-08-19,Delivered,375,46439.13,43742.0,5.0,Compliant
+PO-01263,Vendor_F,Mouse,2023-08-08,2023-08-19,Delivered,244,477.21,449.16,4.0,Compliant
+PO-01264,Vendor_C,Desktop,2023-01-11,,Cancelled,310,44316.76,44066.48,,Compliant
+PO-01265,Vendor_H,Packaging Box,2023-06-02,,Pending,216,113.96,113.1,,Compliant
+PO-01266,Vendor_F,Office Chair,2023-08-16,,Pending,198,7646.45,7427.92,,Compliant
+PO-01267,Vendor_B,Office Chair,2024-11-08,,Cancelled,187,8900.64,8441.63,,Compliant
+PO-01268,Vendor_D,Hard Drive,2024-08-30,2024-09-20,Delivered,126,5426.01,5405.67,1.0,Compliant
+PO-01269,Vendor_H,Mouse,2024-07-26,2024-07-31,Delivered,254,536.79,511.47,2.0,Compliant
+PO-01270,Vendor_C,Monitor,2023-01-08,2023-01-16,Delivered,269,11291.67,11018.22,6.0,Compliant
+PO-01271,Vendor_C,Printer,2023-07-30,,Cancelled,317,13037.75,12717.99,,Compliant
+PO-01272,Vendor_F,Monitor,2024-01-22,,Pending,150,11302.64,10972.17,,Compliant
+PO-01273,Vendor_B,Router,2024-10-22,2024-11-02,Delivered,251,4295.22,4087.37,1.0,Compliant
+PO-01274,Vendor_D,Laptop,2023-12-07,2024-01-02,Delivered,57,55035.49,52226.65,1.0,Compliant
+PO-01275,Vendor_E,Monitor,2024-11-14,2024-12-07,Delivered,16,12818.68,12776.52,0.0,Non-Compliant
+PO-01276,Vendor_D,Office Chair,2024-05-26,2024-06-03,Delivered,323,8520.52,8491.07,0.0,Compliant
+PO-01277,Vendor_A,Hard Drive,2024-06-13,2024-07-02,Delivered,177,4772.38,4673.48,2.0,Compliant
+PO-01278,Vendor_E,Hard Drive,2023-02-03,,Pending,284,4905.93,4685.63,,Compliant
+PO-01279,Vendor_G,Mouse,2024-05-12,2024-05-15,Delivered,157,564.2,540.53,2.0,Compliant
+PO-01280,Vendor_B,Office Chair,2024-06-10,2024-06-18,Delivered,408,8163.6,7942.11,15.0,Compliant
+PO-01281,Vendor_A,Hard Drive,2023-02-05,2023-03-06,Partially Delivered,377,5234.57,5096.38,7.0,Compliant
+PO-01282,Vendor_G,Monitor,2023-11-03,,Cancelled,476,13824.3,13680.2,,Compliant
+PO-01283,Vendor_H,Keyboard,2024-06-01,2024-06-17,Delivered,123,885.12,871.0,0.0,Compliant
+PO-01284,Vendor_B,Desk,2023-10-16,,Pending,488,12905.48,12459.02,,Compliant
+PO-01285,Vendor_H,Mouse,2023-12-22,2024-01-20,Delivered,153,530.52,510.5,3.0,Compliant
+PO-01286,Vendor_B,Packaging Box,2024-08-12,2024-08-24,Delivered,394,121.09,120.12,6.0,Compliant
+PO-01287,Vendor_B,Desktop,2024-04-23,2024-05-20,Delivered,94,50065.56,50023.43,0.0,Compliant
+PO-01288,Vendor_H,Router,2023-11-01,2023-11-09,Partially Delivered,38,4028.62,3790.34,0.0,Compliant
+PO-01289,Vendor_H,Monitor,2023-07-26,,Cancelled,457,13164.57,12516.58,,Compliant
+PO-01290,Vendor_G,Router,2023-04-20,2023-04-27,Delivered,176,4270.32,4141.83,0.0,Compliant
+PO-01291,Vendor_G,Office Chair,2024-07-30,,Cancelled,348,8861.13,8509.56,,Compliant
+PO-01292,Vendor_F,Desk,2024-10-17,2024-10-27,Delivered,385,10609.04,10179.63,4.0,Compliant
+PO-01293,Vendor_G,Monitor,2024-10-31,2024-11-27,Partially Delivered,62,13149.1,12865.15,0.0,Compliant
+PO-01294,Vendor_F,Packaging Box,2023-02-16,,Cancelled,232,113.57,112.1,,Compliant
+PO-01295,Vendor_F,Mouse,2024-05-27,2024-06-03,Partially Delivered,90,535.63,503.75,0.0,Compliant
+PO-01296,Vendor_D,Mouse,2023-12-04,2023-12-18,Delivered,166,561.91,556.34,2.0,Compliant
+PO-01297,Vendor_A,Monitor,2023-07-08,2023-08-06,Delivered,310,11426.78,11079.57,4.0,Non-Compliant
+PO-01298,Vendor_G,Router,2024-08-25,2024-09-08,Delivered,181,4621.78,4575.93,2.0,Compliant
+PO-01299,Vendor_H,Desktop,2024-04-27,2024-05-26,Delivered,266,46450.37,46099.91,2.0,Compliant
+PO-01300,Vendor_E,Mouse,2024-12-02,,Cancelled,50,567.51,552.32,,Compliant
+PO-01301,Vendor_G,Router,2024-01-18,,Pending,162,4574.23,4400.23,,Compliant
+PO-01302,Vendor_H,Monitor,2023-10-02,,Pending,496,12257.22,11706.3,,Compliant
+PO-01303,Vendor_F,Mouse,2024-03-07,2024-03-24,Delivered,34,508.0,500.66,0.0,Compliant
+PO-01304,Vendor_C,Router,2023-07-26,2023-08-10,Delivered,416,4098.06,4039.38,9.0,Compliant
+PO-01305,Vendor_B,Office Chair,2024-02-27,2024-03-21,Delivered,408,8505.94,8220.32,7.0,Compliant
+PO-01306,Vendor_G,Desktop,2024-12-17,2024-12-25,Delivered,324,50636.89,50133.39,1.0,Compliant
+PO-01307,Vendor_H,Desktop,2024-05-12,,Cancelled,247,45253.1,42676.75,,Non-Compliant
+PO-01308,Vendor_G,Mouse,2024-02-20,2024-03-02,Delivered,12,594.63,575.54,0.0,Compliant
+PO-01309,Vendor_C,Mouse,2023-03-22,2023-04-21,Delivered,108,523.38,510.16,0.0,Compliant
+PO-01310,Vendor_C,Desk,2024-06-12,2024-06-14,Delivered,82,10695.72,10584.31,2.0,Compliant
+PO-01311,Vendor_B,Desktop,2024-10-09,,Pending,422,47069.56,46671.87,,Compliant
+PO-01312,Vendor_F,Packaging Box,2024-06-11,,Cancelled,16,114.38,110.9,,Compliant
+PO-01313,Vendor_E,Mouse,2023-11-06,2023-11-22,Delivered,169,537.49,505.38,1.0,Compliant
+PO-01314,Vendor_G,Router,2024-03-31,2024-04-05,Partially Delivered,482,4284.08,4119.79,2.0,Compliant
+PO-01315,Vendor_F,Laptop,2024-03-24,2024-04-10,Delivered,121,45767.91,43623.17,2.0,Compliant
+PO-01316,Vendor_F,Laptop,2023-02-15,2023-02-28,Delivered,167,47650.37,45442.64,1.0,Compliant
+PO-01317,Vendor_E,Office Chair,2023-01-01,2023-01-04,Delivered,220,8226.49,8028.14,1.0,Compliant
+PO-01318,Vendor_G,Printer,2023-08-03,2023-09-02,Delivered,403,16097.9,15392.05,1.0,Compliant
+PO-01319,Vendor_C,Printer,2023-05-23,2023-06-02,Delivered,41,13841.83,13417.2,0.0,Compliant
+PO-01320,Vendor_F,Hard Drive,2024-02-29,2024-03-08,Delivered,197,4735.73,4538.36,1.0,Compliant
+PO-01321,Vendor_B,Mouse,2024-07-24,2024-08-02,Delivered,312,574.11,542.41,0.0,Compliant
+PO-01322,Vendor_D,Packaging Box,2024-08-18,2024-09-13,Delivered,301,133.25,128.97,5.0,Compliant
+PO-01323,Vendor_E,Printer,2024-07-29,2024-08-06,Delivered,223,13695.43,13119.69,4.0,Compliant
+PO-01324,Vendor_H,SSD,2023-03-20,2023-04-13,Delivered,481,6754.56,6457.61,9.0,Compliant
+PO-01325,Vendor_D,Keyboard,2023-09-27,2023-10-18,Delivered,432,990.94,983.17,2.0,Compliant
+PO-01326,Vendor_E,Laptop,2023-11-29,2023-12-11,Delivered,315,52375.95,51900.08,6.0,Compliant
+PO-01327,Vendor_D,Office Chair,2024-08-05,2024-08-21,Delivered,160,8726.3,8636.71,0.0,Compliant
+PO-01328,Vendor_C,Keyboard,2023-08-14,2023-09-04,Delivered,312,820.59,799.6,4.0,Compliant
+PO-01329,Vendor_B,Desk,2023-08-21,2023-09-09,Delivered,336,12923.2,12527.52,5.0,Compliant
+PO-01330,Vendor_G,Packaging Box,2023-02-05,,Cancelled,307,130.28,129.03,,Compliant
+PO-01331,Vendor_G,Desk,2023-10-06,2023-10-30,Delivered,175,12187.9,12137.54,3.0,Compliant
+PO-01332,Vendor_E,Keyboard,2024-02-25,2024-03-13,Delivered,117,880.65,865.26,0.0,Compliant
+PO-01333,Vendor_C,Hard Drive,2024-11-26,2024-12-07,Delivered,19,5160.07,4912.41,0.0,Compliant
+PO-01334,Vendor_B,Printer,2024-09-11,2024-10-05,Partially Delivered,246,14873.04,,2.0,Compliant
+PO-01335,Vendor_D,Laptop,2024-03-09,,Pending,413,54660.35,54480.14,,Compliant
+PO-01336,Vendor_G,Router,2023-01-09,2023-01-19,Delivered,49,4516.31,4451.56,2.0,Compliant
+PO-01337,Vendor_A,Mouse,2023-04-15,2023-04-22,Partially Delivered,151,504.1,476.41,0.0,Compliant
+PO-01338,Vendor_F,Mouse,2023-02-27,2023-03-07,Delivered,483,502.58,475.05,6.0,Non-Compliant
+PO-01339,Vendor_F,Keyboard,2024-06-09,2024-06-17,Delivered,423,789.15,753.67,6.0,Compliant
+PO-01340,Vendor_C,Keyboard,2024-10-25,2024-11-03,Delivered,428,843.24,838.17,9.0,Compliant
+PO-01341,Vendor_A,Office Chair,2023-01-30,2023-02-15,Partially Delivered,147,7922.7,7885.94,4.0,Compliant
+PO-01342,Vendor_A,Desk,2023-07-16,2023-08-07,Partially Delivered,247,11059.8,10418.37,6.0,Compliant
+PO-01343,Vendor_F,Monitor,2023-08-04,2023-08-23,Delivered,427,11253.49,10603.59,4.0,Compliant
+PO-01344,Vendor_G,Hard Drive,2024-03-17,2024-04-05,Delivered,427,5665.19,5481.09,3.0,Compliant
+PO-01345,Vendor_H,Office Chair,2023-09-05,2023-10-05,Delivered,335,8703.16,8192.72,4.0,Compliant
+PO-01346,Vendor_F,Hard Drive,2023-07-03,2023-07-19,Delivered,195,4914.48,4699.1,3.0,Compliant
+PO-01347,Vendor_B,SSD,2023-12-05,,Pending,242,6630.75,6611.31,,Compliant
+PO-01348,Vendor_B,Laptop,2024-10-28,,Pending,377,55037.44,52992.34,,Compliant
+PO-01349,Vendor_B,Packaging Box,2024-09-05,2024-09-09,Delivered,55,125.28,124.91,0.0,Compliant
+PO-01350,Vendor_H,Laptop,2024-11-20,2024-12-08,Delivered,486,50251.56,48169.85,1.0,Compliant
+PO-01351,Vendor_F,SSD,2023-03-25,2023-04-21,Partially Delivered,25,6301.2,6098.5,0.0,Compliant
+PO-01352,Vendor_H,Mouse,2023-11-28,2023-12-06,Delivered,156,578.25,552.61,0.0,Non-Compliant
+PO-01353,Vendor_D,Mouse,2024-11-05,2024-11-29,Delivered,117,611.07,594.83,4.0,Non-Compliant
+PO-01354,Vendor_A,Router,2023-04-08,2023-04-23,Delivered,294,4204.38,3981.75,1.0,Compliant
+PO-01355,Vendor_B,Desktop,2023-04-27,,Pending,97,50534.99,48001.06,,Compliant
+PO-01356,Vendor_D,Office Chair,2023-06-30,2023-07-28,Delivered,451,8596.61,8504.87,2.0,Compliant
+PO-01357,Vendor_E,Mouse,2024-04-13,,Pending,278,541.19,531.73,,Compliant
+PO-01358,Vendor_D,Desk,2024-12-23,2024-12-25,Delivered,309,12308.88,12297.76,3.0,Compliant
+PO-01359,Vendor_H,Router,2023-11-01,2023-11-23,Delivered,200,3966.49,3830.67,2.0,Compliant
+PO-01360,Vendor_B,Printer,2024-01-28,,Pending,456,15134.8,14328.24,,Compliant
+PO-01361,Vendor_H,SSD,2023-05-25,2023-06-12,Delivered,278,6150.7,5785.43,9.0,Compliant
+PO-01362,Vendor_H,Monitor,2023-08-27,,Pending,142,12042.91,11351.03,,Compliant
+PO-01363,Vendor_A,SSD,2023-10-03,,Pending,96,6398.89,6051.31,,Compliant
+PO-01364,Vendor_A,Packaging Box,2024-10-18,2024-10-22,Delivered,360,122.0,116.02,2.0,Compliant
+PO-01365,Vendor_A,Keyboard,2023-12-16,2023-12-21,Delivered,428,850.88,850.53,3.0,Compliant
+PO-01366,Vendor_D,Monitor,2023-03-11,2023-03-24,Delivered,383,12810.3,12623.1,2.0,Compliant
+PO-01367,Vendor_G,Mouse,2023-04-10,,Pending,321,624.09,611.24,,Compliant
+PO-01368,Vendor_G,Mouse,2023-03-31,2023-04-08,Delivered,492,625.07,593.74,7.0,Non-Compliant
+PO-01369,Vendor_G,Office Chair,2024-10-27,2024-11-15,Delivered,331,9277.7,9154.34,1.0,Compliant
+PO-01370,Vendor_H,SSD,2024-07-28,2024-08-04,Delivered,300,6598.33,6214.53,4.0,Compliant
+PO-01371,Vendor_D,Office Chair,2024-04-07,2024-05-06,Partially Delivered,86,8518.02,8278.82,1.0,Compliant
+PO-01372,Vendor_F,Desktop,2024-06-27,2024-07-25,Delivered,145,44608.36,44578.05,0.0,Compliant
+PO-01373,Vendor_H,Keyboard,2023-03-08,2023-04-03,Delivered,437,881.85,861.98,3.0,Compliant
+PO-01374,Vendor_A,Desktop,2023-07-05,2023-07-13,Delivered,173,44513.39,42295.88,6.0,Non-Compliant
+PO-01375,Vendor_F,Laptop,2023-04-16,2023-04-20,Delivered,294,48412.38,46524.41,2.0,Compliant
+PO-01376,Vendor_D,Monitor,2024-05-30,2024-06-24,Delivered,495,13427.11,12719.46,3.0,Compliant
+PO-01377,Vendor_C,Monitor,2023-10-02,2023-10-27,Delivered,80,12075.0,11515.33,2.0,Compliant
+PO-01378,Vendor_B,Office Chair,2023-04-18,2023-05-01,Delivered,191,9059.17,9057.97,4.0,Compliant
+PO-01379,Vendor_F,Keyboard,2024-02-01,2024-02-17,Delivered,430,823.08,789.67,3.0,Compliant
+PO-01380,Vendor_H,Hard Drive,2024-06-02,2024-06-07,Delivered,273,5130.14,4879.46,6.0,Compliant
+PO-01381,Vendor_H,Packaging Box,2024-08-25,2024-09-15,Partially Delivered,485,116.56,114.82,2.0,Compliant
+PO-01382,Vendor_F,Mouse,2024-04-10,,Pending,308,483.63,456.04,,Compliant
+PO-01383,Vendor_E,Printer,2024-10-11,,Cancelled,312,14708.08,14143.41,,Compliant
+PO-01384,Vendor_A,Router,2023-03-09,2023-03-22,Delivered,191,4055.28,3922.19,2.0,Compliant
+PO-01385,Vendor_G,Desktop,2024-03-22,2024-04-04,Delivered,29,52602.63,49945.56,0.0,Compliant
+PO-01386,Vendor_E,Packaging Box,2023-03-13,2023-04-04,Delivered,227,119.26,112.87,6.0,Compliant
+PO-01387,Vendor_D,Packaging Box,2024-10-06,2024-10-20,Delivered,399,120.79,120.5,2.0,Non-Compliant
+PO-01388,Vendor_F,Desktop,2024-06-17,2024-06-21,Delivered,413,44377.12,44090.46,7.0,Compliant
+PO-01389,Vendor_B,Office Chair,2023-09-01,2023-09-03,Delivered,73,8973.35,8497.02,2.0,Compliant
+PO-01390,Vendor_A,Desk,2024-02-11,2024-02-18,Delivered,111,12086.72,12025.51,3.0,Non-Compliant
+PO-01391,Vendor_F,Desk,2024-06-09,2024-06-13,Delivered,70,11126.34,10757.76,0.0,Non-Compliant
+PO-01392,Vendor_C,Mouse,2024-04-30,2024-05-24,Delivered,436,504.13,497.67,5.0,Compliant
+PO-01393,Vendor_F,Desk,2024-07-08,2024-07-19,Delivered,488,11693.64,11468.27,2.0,Compliant
+PO-01394,Vendor_D,Office Chair,2024-04-01,2024-04-03,Delivered,306,8935.58,8834.15,0.0,Compliant
+PO-01395,Vendor_B,Monitor,2024-08-07,2024-08-20,Delivered,119,13408.76,12948.85,2.0,Non-Compliant
+PO-01396,Vendor_C,Printer,2024-11-09,2024-11-30,Delivered,439,13591.91,13527.05,1.0,Compliant
+PO-01397,Vendor_A,Office Chair,2023-09-30,2023-10-04,Delivered,123,8009.83,7626.09,2.0,Compliant
+PO-01398,Vendor_F,SSD,2023-08-22,2023-08-28,Delivered,379,6152.6,6101.77,8.0,Compliant
+PO-01399,Vendor_B,Mouse,2023-07-07,2023-07-27,Delivered,406,593.28,586.06,4.0,Compliant
+PO-01400,Vendor_A,Office Chair,2024-12-24,,Pending,58,8378.13,8009.92,,Compliant
+PO-01401,Vendor_H,Office Chair,2024-08-06,2024-08-27,Delivered,223,8423.05,8340.84,2.0,Non-Compliant
+PO-01402,Vendor_B,Hard Drive,2023-04-09,2023-05-04,Delivered,322,5354.45,5219.1,3.0,Compliant
+PO-01403,Vendor_A,Hard Drive,2024-09-26,2024-10-07,Partially Delivered,42,4900.75,4831.02,0.0,Compliant
+PO-01404,Vendor_B,Packaging Box,2024-07-23,2024-08-18,Delivered,153,118.13,114.25,0.0,Compliant
+PO-01405,Vendor_H,Laptop,2024-06-16,2024-07-14,Delivered,139,49741.29,48766.53,1.0,Compliant
+PO-01406,Vendor_B,Printer,2024-06-05,2024-06-18,Partially Delivered,374,15017.5,14609.54,4.0,Compliant
+PO-01407,Vendor_A,Keyboard,2024-03-09,,Cancelled,42,819.95,,,Compliant
+PO-01408,Vendor_C,Packaging Box,2023-08-06,,Pending,387,112.98,111.69,,Compliant
+PO-01409,Vendor_B,Mouse,2023-10-20,2023-11-13,Delivered,53,582.75,580.09,0.0,Compliant
+PO-01410,Vendor_F,Office Chair,2024-11-19,2024-11-28,Partially Delivered,26,7903.32,7576.69,0.0,Compliant
+PO-01411,Vendor_H,Hard Drive,2024-08-27,,Pending,9,5363.92,5064.08,,Non-Compliant
+PO-01412,Vendor_D,Monitor,2024-09-16,,Cancelled,35,12754.51,12464.73,,Compliant
+PO-01413,Vendor_B,Desktop,2024-11-17,2024-12-03,Delivered,478,46619.17,44740.47,2.0,Compliant
+PO-01414,Vendor_D,Hard Drive,2024-05-11,2024-05-24,Delivered,300,5492.95,5252.78,1.0,Compliant
+PO-01415,Vendor_D,Desk,2023-11-20,,Cancelled,338,12780.15,12419.43,,Compliant
+PO-01416,Vendor_H,Keyboard,2024-06-09,2024-07-04,Delivered,340,946.14,894.51,0.0,Non-Compliant
+PO-01417,Vendor_C,SSD,2023-03-06,2023-03-08,Delivered,325,6312.47,6136.38,2.0,Compliant
+PO-01418,Vendor_A,Packaging Box,2024-01-31,2024-02-24,Partially Delivered,213,113.97,112.35,0.0,Compliant
+PO-01419,Vendor_A,Desktop,2024-03-31,,Cancelled,282,48424.74,45744.93,,Compliant
+PO-01420,Vendor_H,Printer,2024-06-09,2024-07-04,Delivered,165,15049.06,14704.08,5.0,Compliant
+PO-01421,Vendor_D,Printer,2023-06-16,2023-07-12,Delivered,240,15709.36,15486.93,4.0,Compliant
+PO-01422,Vendor_H,Mouse,2024-05-04,2024-06-01,Delivered,71,581.8,571.4,0.0,Non-Compliant
+PO-01423,Vendor_F,Desk,2024-03-03,2024-03-08,Delivered,358,11555.06,11089.13,1.0,Compliant
+PO-01424,Vendor_H,Mouse,2023-03-20,,Pending,393,544.7,518.17,,Compliant
+PO-01425,Vendor_G,Hard Drive,2024-02-09,2024-02-18,Partially Delivered,6,5284.57,5170.89,0.0,Compliant
+PO-01426,Vendor_E,Mouse,2023-12-09,2023-12-22,Delivered,101,576.23,572.16,3.0,Compliant
+PO-01427,Vendor_G,Desktop,2023-01-19,2023-02-12,Delivered,35,54784.18,52647.59,0.0,Compliant
+PO-01428,Vendor_D,Desk,2023-12-23,,Pending,173,11922.3,11862.32,,Compliant
+PO-01429,Vendor_B,Office Chair,2024-12-11,2024-12-22,Delivered,35,8369.92,8275.08,1.0,Compliant
+PO-01430,Vendor_D,Packaging Box,2023-05-07,2023-06-01,Partially Delivered,269,127.64,121.15,3.0,Non-Compliant
+PO-01431,Vendor_E,Mouse,2023-12-07,2024-01-03,Delivered,456,530.44,527.63,7.0,Compliant
+PO-01432,Vendor_B,Router,2023-05-01,2023-05-26,Delivered,384,4160.49,4048.53,5.0,Non-Compliant
+PO-01433,Vendor_A,Hard Drive,2023-08-06,2023-08-19,Delivered,55,5256.01,5149.88,0.0,Compliant
+PO-01434,Vendor_G,Mouse,2023-02-17,2023-03-17,Delivered,321,596.34,583.37,3.0,Compliant
+PO-01435,Vendor_C,Mouse,2023-04-17,2023-05-03,Delivered,43,546.73,535.41,0.0,Compliant
+PO-01436,Vendor_B,Desk,2024-08-31,2024-09-30,Delivered,53,12519.86,12179.2,0.0,Compliant
+PO-01437,Vendor_B,Laptop,2024-11-07,,Cancelled,485,53152.09,52701.71,,Compliant
+PO-01438,Vendor_E,Keyboard,2024-12-29,2025-01-11,Delivered,435,871.57,838.52,1.0,Compliant
+PO-01439,Vendor_D,Office Chair,2023-07-28,2023-07-30,Partially Delivered,419,8519.24,8011.2,0.0,Compliant
+PO-01440,Vendor_G,Keyboard,2024-02-26,2024-03-25,Delivered,410,979.88,967.6,2.0,Compliant
+PO-01441,Vendor_E,Monitor,2024-08-25,2024-08-29,Delivered,137,12816.67,12542.5,0.0,Compliant
+PO-01442,Vendor_D,Keyboard,2023-07-31,,Pending,91,968.3,949.72,,Compliant
+PO-01443,Vendor_D,Printer,2023-10-24,2023-11-09,Partially Delivered,127,14995.41,14340.49,1.0,Compliant
+PO-01444,Vendor_H,Keyboard,2024-01-11,2024-02-06,Delivered,418,888.49,838.6,3.0,Compliant
+PO-01445,Vendor_F,Desktop,2024-07-21,2024-08-16,Delivered,59,46367.79,44417.92,2.0,Compliant
+PO-01446,Vendor_D,Router,2023-04-22,2023-05-16,Delivered,329,4491.98,4323.74,2.0,Compliant
+PO-01447,Vendor_H,Office Chair,2024-01-06,,Cancelled,162,8265.84,7917.18,,Compliant
+PO-01448,Vendor_E,Desktop,2024-11-25,2024-12-11,Delivered,187,48113.46,45384.1,2.0,Compliant
+PO-01449,Vendor_G,Packaging Box,2023-04-29,2023-05-09,Delivered,354,126.87,121.05,2.0,Compliant
+PO-01450,Vendor_E,Keyboard,2024-11-15,2024-12-06,Delivered,249,894.96,886.87,0.0,Non-Compliant
+PO-01451,Vendor_F,Printer,2023-10-09,2023-10-23,Delivered,297,13819.1,13243.99,5.0,Compliant
+PO-01452,Vendor_G,Monitor,2024-12-01,2024-12-13,Delivered,472,13683.26,13298.22,6.0,Compliant
+PO-01453,Vendor_E,Printer,2023-03-28,2023-04-12,Partially Delivered,441,14652.51,14462.86,3.0,Compliant
+PO-01454,Vendor_C,SSD,2024-06-03,2024-06-13,Delivered,76,5832.67,5690.75,0.0,Compliant
+PO-01455,Vendor_E,Monitor,2023-05-17,2023-05-21,Delivered,259,12756.04,12620.13,4.0,Compliant
+PO-01456,Vendor_E,Desk,2024-08-06,2024-09-02,Delivered,183,12077.73,11633.99,1.0,Compliant
+PO-01457,Vendor_H,Router,2023-02-02,2023-02-07,Delivered,119,4187.85,4054.87,1.0,Compliant
+PO-01458,Vendor_F,Keyboard,2024-03-11,2024-03-20,Partially Delivered,31,805.15,758.53,2.0,Compliant
+PO-01459,Vendor_D,Laptop,2023-01-21,,Pending,491,57051.02,56096.06,,Non-Compliant
+PO-01460,Vendor_D,Monitor,2024-07-01,2024-07-07,Delivered,250,12400.48,12012.86,4.0,Compliant
+PO-01461,Vendor_D,Keyboard,2023-10-26,2023-11-21,Partially Delivered,240,906.99,862.04,3.0,Compliant
+PO-01462,Vendor_D,Desktop,2024-08-30,2024-09-21,Delivered,321,47690.72,45518.77,2.0,Compliant
+PO-01463,Vendor_A,Packaging Box,2024-09-22,,Pending,441,114.58,109.7,,Compliant
+PO-01464,Vendor_G,Office Chair,2023-11-04,2023-11-13,Delivered,38,8922.48,8710.1,1.0,Compliant
+PO-01465,Vendor_A,Desk,2023-01-29,2023-02-01,Delivered,366,11497.69,10958.51,1.0,Compliant
+PO-01466,Vendor_C,Packaging Box,2024-12-10,2025-01-06,Delivered,252,116.36,114.58,1.0,Compliant
+PO-01467,Vendor_G,Printer,2024-04-09,2024-05-07,Delivered,72,16310.33,15936.32,1.0,Compliant
+PO-01468,Vendor_D,Printer,2023-09-06,2023-09-20,Partially Delivered,13,15630.88,15269.88,0.0,Compliant
+PO-01469,Vendor_B,Desk,2023-05-16,2023-05-28,Delivered,421,12565.53,11917.82,6.0,Compliant
+PO-01470,Vendor_G,Printer,2023-05-22,,Pending,395,15964.22,15533.6,,Compliant
+PO-01471,Vendor_D,Laptop,2023-12-12,2023-12-17,Delivered,208,54994.89,51974.6,0.0,Compliant
+PO-01472,Vendor_B,Office Chair,2024-10-18,2024-11-12,Delivered,448,8490.28,8091.96,4.0,Compliant
+PO-01473,Vendor_C,Packaging Box,2024-06-10,2024-07-05,Delivered,89,118.53,116.74,2.0,Compliant
+PO-01474,Vendor_F,Office Chair,2023-07-19,2023-07-21,Delivered,428,8054.61,7656.2,10.0,Compliant
+PO-01475,Vendor_E,Mouse,2023-08-16,2023-09-15,Delivered,149,555.67,544.66,0.0,Compliant
+PO-01476,Vendor_E,Mouse,2023-08-12,,Pending,128,529.9,529.1,,Compliant
+PO-01477,Vendor_C,Desktop,2023-03-12,2023-03-19,Delivered,277,45722.65,43469.07,0.0,Compliant
+PO-01478,Vendor_G,Router,2024-12-25,2025-01-15,Delivered,380,4634.01,4605.45,0.0,Compliant
+PO-01479,Vendor_C,Desk,2024-09-27,2024-10-19,Delivered,294,10999.43,10454.53,2.0,Compliant
+PO-01480,Vendor_C,Desk,2024-12-11,2024-12-20,Delivered,376,11191.99,10895.66,7.0,Compliant
+PO-01481,Vendor_H,Desk,2023-01-29,2023-02-20,Delivered,106,11436.65,11074.96,1.0,Compliant
+PO-01482,Vendor_C,Mouse,2023-10-19,2023-11-06,Delivered,379,535.13,533.89,4.0,Compliant
+PO-01483,Vendor_D,Keyboard,2024-07-06,2024-07-25,Partially Delivered,403,910.49,897.63,2.0,Non-Compliant
+PO-01484,Vendor_F,Monitor,2024-08-29,2024-09-02,Delivered,260,11224.82,10993.56,5.0,Compliant
+PO-01485,Vendor_G,Laptop,2024-04-11,2024-04-20,Delivered,77,59335.34,58574.53,3.0,Compliant
+PO-01486,Vendor_C,Laptop,2024-06-02,2024-06-09,Delivered,96,46690.13,44859.27,2.0,Compliant
+PO-01487,Vendor_B,Router,2024-07-26,2024-08-23,Delivered,124,4526.94,4467.49,1.0,Compliant
+PO-01488,Vendor_G,Monitor,2023-09-04,2023-09-06,Delivered,415,13844.6,13746.57,8.0,Compliant
+PO-01489,Vendor_D,Keyboard,2024-02-05,2024-02-14,Partially Delivered,147,922.63,883.66,1.0,Compliant
+PO-01490,Vendor_G,Office Chair,2023-07-21,2023-08-10,Delivered,13,8971.63,8946.68,0.0,Compliant
+PO-01491,Vendor_C,Packaging Box,2024-05-12,2024-05-28,Delivered,248,112.72,111.87,1.0,Compliant
+PO-01492,Vendor_H,Office Chair,2024-10-10,2024-10-21,Partially Delivered,304,8279.14,8229.18,8.0,Compliant
+PO-01493,Vendor_A,Packaging Box,2024-10-11,2024-10-15,Partially Delivered,500,109.9,108.91,4.0,Non-Compliant
+PO-01494,Vendor_E,Printer,2023-02-22,2023-03-09,Delivered,454,13921.79,13598.73,6.0,Compliant
+PO-01495,Vendor_F,SSD,2024-07-29,2024-08-27,Delivered,123,6004.2,5765.89,0.0,Compliant
+PO-01496,Vendor_D,Printer,2023-07-04,2023-07-17,Delivered,51,15767.76,15466.6,0.0,Compliant
+PO-01497,Vendor_C,Hard Drive,2023-07-24,2023-08-06,Delivered,232,4613.09,,3.0,Non-Compliant
+PO-01498,Vendor_G,Office Chair,2023-11-04,2023-11-13,Delivered,106,9728.81,9147.13,1.0,Compliant
+PO-01499,Vendor_F,Router,2023-07-10,2023-07-28,Delivered,7,4082.4,4053.84,0.0,Compliant
+PO-01500,Vendor_F,Printer,2024-07-30,2024-08-02,Delivered,281,12595.89,11967.41,0.0,Compliant
+PO-01501,Vendor_G,Printer,2024-11-22,2024-12-05,Partially Delivered,198,14731.92,14258.26,4.0,Compliant
+PO-01502,Vendor_D,Laptop,2023-09-14,2023-09-19,Delivered,38,52341.61,49307.5,1.0,Compliant
+PO-01503,Vendor_D,Keyboard,2023-07-21,2023-08-07,Partially Delivered,380,889.44,872.85,11.0,Compliant
+PO-01504,Vendor_C,Mouse,2024-05-30,2024-06-25,Partially Delivered,290,497.21,495.99,4.0,Compliant
+PO-01505,Vendor_F,Mouse,2023-01-31,2023-02-21,Delivered,334,520.97,507.22,0.0,Compliant
+PO-01506,Vendor_G,Desktop,2024-07-20,2024-07-28,Delivered,78,50348.77,48764.53,0.0,Compliant
+PO-01507,Vendor_B,Keyboard,2023-02-02,2023-02-11,Delivered,264,910.03,890.43,3.0,Compliant
+PO-01508,Vendor_B,Printer,2023-05-08,,Cancelled,178,14169.78,14104.39,,Compliant
+PO-01509,Vendor_C,Office Chair,2023-12-30,2024-01-21,Delivered,371,7879.69,7523.26,5.0,Compliant
+PO-01510,Vendor_B,SSD,2024-02-09,2024-03-09,Delivered,150,6847.32,6472.47,1.0,Compliant
+PO-01511,Vendor_D,Office Chair,2024-03-09,2024-03-12,Delivered,232,8680.65,8669.78,7.0,Compliant
+PO-01512,Vendor_B,Monitor,2023-12-14,2024-01-11,Delivered,258,13058.85,12453.33,1.0,Compliant
+PO-01513,Vendor_D,Router,2023-11-30,2023-12-14,Delivered,24,4235.28,4008.18,0.0,Non-Compliant
+PO-01514,Vendor_E,Monitor,2024-08-02,2024-08-18,Delivered,374,12080.12,11500.91,6.0,Compliant
+PO-01515,Vendor_G,Monitor,2023-03-18,2023-03-22,Delivered,373,13051.28,12679.81,5.0,Compliant
+PO-01516,Vendor_B,Keyboard,2024-11-10,2024-11-21,Delivered,411,885.61,867.27,7.0,Compliant
+PO-01517,Vendor_B,Keyboard,2024-12-19,2025-01-10,Delivered,150,906.35,902.27,1.0,Compliant
+PO-01518,Vendor_F,Laptop,2024-08-02,2024-08-14,Delivered,458,46998.22,46458.52,7.0,Compliant
+PO-01519,Vendor_G,Desk,2024-04-26,,Pending,254,13132.24,12908.35,,Compliant
+PO-01520,Vendor_E,Packaging Box,2023-01-17,2023-02-14,Delivered,227,112.85,106.77,2.0,Compliant
+PO-01521,Vendor_H,Printer,2023-01-07,2023-01-21,Delivered,55,13802.36,13238.23,0.0,Compliant
+PO-01522,Vendor_F,Desktop,2024-09-22,2024-10-18,Delivered,207,45926.79,45171.35,4.0,Compliant
+PO-01523,Vendor_D,Mouse,2024-12-18,2024-12-27,Delivered,42,567.19,552.65,1.0,Compliant
+PO-01524,Vendor_D,Monitor,2023-02-07,2023-02-17,Delivered,146,13847.77,13712.81,2.0,Compliant
+PO-01525,Vendor_G,Keyboard,2023-08-14,2023-09-07,Delivered,469,953.94,907.34,1.0,Compliant
+PO-01526,Vendor_C,Router,2023-02-21,2023-03-07,Delivered,378,4109.24,3899.25,3.0,Compliant
+PO-01527,Vendor_F,Office Chair,2023-08-30,2023-09-06,Partially Delivered,166,7547.64,7184.94,1.0,Non-Compliant
+PO-01528,Vendor_B,Office Chair,2024-12-13,2025-01-07,Delivered,160,8553.58,8182.84,0.0,Compliant
+PO-01529,Vendor_B,Desktop,2024-06-25,2024-07-20,Delivered,13,47241.26,45634.13,1.0,Non-Compliant
+PO-01530,Vendor_E,SSD,2023-10-29,2023-11-04,Delivered,50,6310.26,6082.57,0.0,Compliant
+PO-01531,Vendor_G,Desk,2024-01-27,2024-02-15,Delivered,332,13723.74,13255.57,0.0,Compliant
+PO-01532,Vendor_G,Hard Drive,2024-01-07,2024-01-16,Delivered,269,5782.3,5548.28,1.0,Compliant
+PO-01533,Vendor_E,Desk,2023-09-23,2023-10-12,Delivered,144,12573.45,12145.24,1.0,Compliant
+PO-01534,Vendor_C,Router,2024-08-08,2024-09-07,Delivered,310,4038.45,3898.24,2.0,Compliant
+PO-01535,Vendor_F,Keyboard,2023-12-31,2024-01-16,Delivered,18,849.82,799.96,0.0,Compliant
+PO-01536,Vendor_B,Router,2023-07-25,2023-08-18,Partially Delivered,318,4362.32,4339.18,1.0,Compliant
+PO-01537,Vendor_F,Hard Drive,2024-08-20,2024-09-04,Delivered,117,4976.52,4861.8,0.0,Compliant
+PO-01538,Vendor_E,Mouse,2023-05-04,2023-05-06,Delivered,132,560.67,530.91,0.0,Compliant
+PO-01539,Vendor_H,Desktop,2024-11-18,2024-12-18,Delivered,46,47072.8,45862.31,0.0,Compliant
+PO-01540,Vendor_B,Monitor,2024-03-31,,Pending,83,13024.65,12752.61,,Compliant
+PO-01541,Vendor_E,Office Chair,2023-11-08,2023-11-14,Delivered,116,8223.15,7923.54,0.0,Compliant
+PO-01542,Vendor_B,Packaging Box,2023-12-26,2024-01-13,Delivered,199,123.21,118.0,4.0,Compliant
+PO-01543,Vendor_E,Desk,2023-11-04,2023-11-25,Delivered,341,11196.2,11011.22,6.0,Compliant
+PO-01544,Vendor_E,Office Chair,2024-03-04,2024-03-18,Delivered,32,8791.82,8281.28,0.0,Compliant
+PO-01545,Vendor_E,Router,2024-03-17,2024-04-04,Delivered,40,4300.64,4186.04,1.0,Non-Compliant
+PO-01546,Vendor_E,Desk,2023-11-01,2023-11-12,Delivered,68,11922.61,11678.19,0.0,Compliant
+PO-01547,Vendor_C,Office Chair,2023-09-02,2023-09-09,Delivered,454,7571.8,7267.58,10.0,Compliant
+PO-01548,Vendor_B,Laptop,2023-10-22,2023-11-07,Delivered,429,49903.76,49868.03,6.0,Compliant
+PO-01549,Vendor_G,Desktop,2023-12-03,2024-01-01,Delivered,43,54300.77,52197.85,0.0,Compliant
+PO-01550,Vendor_E,Printer,2023-09-06,2023-09-16,Partially Delivered,249,14374.04,14117.22,3.0,Compliant
+PO-01551,Vendor_C,Keyboard,2024-05-12,2024-06-08,Delivered,377,873.5,828.57,1.0,Non-Compliant
+PO-01552,Vendor_E,Hard Drive,2024-04-13,2024-04-22,Partially Delivered,410,4964.09,4781.82,6.0,Compliant
+PO-01553,Vendor_E,Office Chair,2023-10-10,2023-10-18,Delivered,202,7918.24,7803.57,4.0,Compliant
+PO-01554,Vendor_D,Router,2024-02-27,2024-03-06,Delivered,495,4236.41,4089.16,6.0,Compliant
+PO-01555,Vendor_C,Hard Drive,2024-06-30,2024-07-22,Delivered,329,4632.67,4558.7,4.0,Compliant
+PO-01556,Vendor_B,SSD,2024-08-26,2024-09-21,Delivered,178,6602.66,6602.53,0.0,Compliant
+PO-01557,Vendor_B,Keyboard,2024-06-01,,Cancelled,326,958.19,940.64,,Compliant
+PO-01558,Vendor_H,Monitor,2024-11-14,2024-12-07,Delivered,482,12546.8,12307.99,9.0,Compliant
+PO-01559,Vendor_E,SSD,2024-06-02,2024-06-09,Delivered,397,6075.02,5857.9,4.0,Compliant
+PO-01560,Vendor_A,Router,2023-11-20,,Pending,164,3848.63,3832.46,,Compliant
+PO-01561,Vendor_D,Router,2024-12-22,2025-01-13,Delivered,40,4645.88,4575.52,0.0,Non-Compliant
+PO-01562,Vendor_B,SSD,2023-01-28,2023-02-08,Delivered,68,6263.33,6243.11,1.0,Compliant
+PO-01563,Vendor_D,Office Chair,2024-02-07,2024-02-21,Delivered,68,8976.13,8482.38,1.0,Non-Compliant
+PO-01564,Vendor_A,Mouse,2024-02-06,2024-02-25,Delivered,111,547.0,541.56,0.0,Compliant
+PO-01565,Vendor_F,SSD,2023-06-29,2023-07-14,Delivered,425,5715.41,5695.03,3.0,Compliant
+PO-01566,Vendor_A,Printer,2023-10-10,2023-10-30,Delivered,315,13321.5,13000.38,1.0,Compliant
+PO-01567,Vendor_E,Printer,2024-10-27,2024-11-15,Delivered,368,14190.76,13704.63,5.0,Compliant
+PO-01568,Vendor_G,Monitor,2024-07-16,2024-07-29,Delivered,79,13748.77,13464.64,3.0,Compliant
+PO-01569,Vendor_E,Hard Drive,2024-05-09,2024-05-28,Delivered,114,4965.31,4895.81,2.0,Compliant
+PO-01570,Vendor_G,Desk,2023-06-21,2023-07-15,Delivered,327,12838.7,12777.37,1.0,Compliant
+PO-01571,Vendor_B,Desk,2024-07-16,,Pending,353,11779.82,11213.26,,Compliant
+PO-01572,Vendor_G,Laptop,2023-08-25,2023-08-29,Delivered,291,56695.6,54133.58,6.0,Compliant
+PO-01573,Vendor_D,Mouse,2024-04-20,2024-05-08,Delivered,257,594.6,562.84,0.0,Compliant
+PO-01574,Vendor_H,Office Chair,2024-09-03,2024-09-30,Delivered,218,8881.18,8768.99,1.0,Compliant
+PO-01575,Vendor_C,SSD,2024-11-24,,Pending,25,6429.73,6392.21,,Compliant
+PO-01576,Vendor_C,Office Chair,2024-12-30,2025-01-15,Delivered,97,8170.53,7931.66,1.0,Compliant
+PO-01577,Vendor_D,Desktop,2023-12-02,2023-12-31,Delivered,23,50519.4,49554.87,0.0,Compliant
+PO-01578,Vendor_D,Hard Drive,2023-01-29,,Pending,448,5390.64,5132.47,,Compliant
+PO-01579,Vendor_E,Printer,2023-11-20,2023-12-03,Delivered,210,13856.44,13456.15,3.0,Compliant
+PO-01580,Vendor_G,Router,2024-10-10,2024-11-02,Delivered,263,4767.91,4710.18,4.0,Compliant
+PO-01581,Vendor_B,Office Chair,2023-03-22,2023-04-05,Partially Delivered,388,8204.15,7974.88,2.0,Non-Compliant
+PO-01582,Vendor_B,Hard Drive,2024-04-07,2024-04-23,Delivered,61,5271.24,5069.95,0.0,Non-Compliant
+PO-01583,Vendor_E,Laptop,2023-10-20,2023-11-18,Partially Delivered,339,53060.68,50109.39,3.0,Compliant
+PO-01584,Vendor_F,Router,2024-08-07,,Pending,435,4001.52,3860.58,,Compliant
+PO-01585,Vendor_A,SSD,2023-02-28,2023-03-21,Delivered,362,6102.98,5814.97,1.0,Compliant
+PO-01586,Vendor_D,Printer,2023-04-10,2023-04-27,Partially Delivered,217,16054.74,16045.56,1.0,Compliant
+PO-01587,Vendor_F,Monitor,2023-06-12,2023-06-17,Delivered,85,11809.13,11232.35,0.0,Compliant
+PO-01588,Vendor_E,Router,2024-04-23,2024-05-01,Delivered,425,4247.84,4232.13,10.0,Compliant
+PO-01589,Vendor_B,Desk,2023-04-08,2023-04-20,Delivered,372,12499.08,12321.72,3.0,Compliant
+PO-01590,Vendor_G,Office Chair,2023-05-05,2023-05-23,Delivered,165,9159.82,8640.92,2.0,Compliant
+PO-01591,Vendor_D,Mouse,2023-05-15,2023-05-26,Delivered,497,582.23,575.74,2.0,Compliant
+PO-01592,Vendor_H,Hard Drive,2023-07-31,2023-08-07,Delivered,439,5017.42,4995.19,2.0,Compliant
+PO-01593,Vendor_A,Laptop,2023-03-30,2023-04-17,Delivered,489,52492.82,51726.23,3.0,Compliant
+PO-01594,Vendor_E,Packaging Box,2024-09-17,2024-09-20,Delivered,256,119.96,119.3,0.0,Compliant
+PO-01595,Vendor_F,Packaging Box,2024-01-28,2024-02-14,Delivered,254,115.56,110.72,2.0,Compliant
+PO-01596,Vendor_F,Monitor,2024-09-08,2024-09-13,Delivered,404,11240.53,11117.42,3.0,Compliant
+PO-01597,Vendor_D,SSD,2023-01-29,2023-02-23,Delivered,148,6740.77,6578.58,0.0,Compliant
+PO-01598,Vendor_F,Keyboard,2024-06-26,2024-07-11,Delivered,165,829.68,807.74,5.0,Compliant
+PO-01599,Vendor_H,Monitor,2023-05-01,2023-05-19,Delivered,7,11942.2,11592.61,0.0,Compliant
+PO-01600,Vendor_E,Hard Drive,2024-09-15,2024-09-21,Delivered,52,5347.06,5322.01,0.0,Compliant
+PO-01601,Vendor_D,Laptop,2023-06-17,2023-07-07,Delivered,487,54662.33,53057.9,2.0,Compliant
+PO-01602,Vendor_H,Router,2023-08-09,2023-09-06,Delivered,265,3955.19,3932.38,3.0,Compliant
+PO-01603,Vendor_E,Desk,2023-11-05,,Cancelled,56,11902.88,11435.79,,Compliant
+PO-01604,Vendor_F,Packaging Box,2024-10-29,2024-11-21,Delivered,419,105.15,100.44,1.0,Compliant
+PO-01605,Vendor_E,Office Chair,2024-01-04,2024-01-07,Partially Delivered,450,8205.14,8171.18,0.0,Compliant
+PO-01606,Vendor_G,Desktop,2024-03-03,2024-04-02,Delivered,225,53791.02,52560.06,2.0,Compliant
+PO-01607,Vendor_H,Monitor,2023-03-06,2023-03-27,Delivered,194,12623.3,12015.95,3.0,Compliant
+PO-01608,Vendor_E,Mouse,2023-02-22,2023-02-25,Delivered,116,525.75,497.48,0.0,Compliant
+PO-01609,Vendor_D,Mouse,2023-10-11,2023-10-28,Delivered,163,583.84,561.35,1.0,Compliant
+PO-01610,Vendor_C,Hard Drive,2023-03-30,2023-04-27,Delivered,104,4846.56,4806.32,1.0,Compliant
+PO-01611,Vendor_F,Desktop,2024-10-14,,Pending,292,46592.16,44759.53,,Non-Compliant
+PO-01612,Vendor_C,Monitor,2024-07-25,,Pending,37,12154.81,12127.97,,Compliant
+PO-01613,Vendor_E,SSD,2024-08-23,,Pending,46,6440.02,6193.1,,Compliant
+PO-01614,Vendor_H,Packaging Box,2024-04-02,2024-04-08,Delivered,200,122.21,119.9,1.0,Compliant
+PO-01615,Vendor_B,Keyboard,2023-08-21,2023-08-23,Delivered,375,884.43,863.19,3.0,Compliant
+PO-01616,Vendor_H,Mouse,2024-12-12,2024-12-20,Delivered,356,553.32,543.06,1.0,Compliant
+PO-01617,Vendor_E,Monitor,2024-08-26,2024-08-30,Delivered,426,11913.68,11457.08,8.0,Compliant
+PO-01618,Vendor_H,Packaging Box,2024-09-21,2024-10-15,Delivered,254,114.09,111.71,0.0,Non-Compliant
+PO-01619,Vendor_D,SSD,2024-04-27,2024-04-29,Delivered,150,7096.16,7058.58,0.0,Compliant
+PO-01620,Vendor_G,Desk,2024-11-01,2024-11-08,Delivered,220,12870.69,12631.92,1.0,Compliant
+PO-01621,Vendor_G,Office Chair,2024-03-05,2024-03-16,Delivered,117,9139.77,8923.52,4.0,Compliant
+PO-01622,Vendor_F,Laptop,2023-07-20,2023-07-23,Delivered,448,49925.89,47407.12,0.0,Compliant
+PO-01623,Vendor_A,Desk,2023-09-11,2023-10-02,Delivered,455,11295.85,10670.88,7.0,Compliant
+PO-01624,Vendor_E,Hard Drive,2024-08-31,2024-09-15,Delivered,37,4962.42,4670.72,0.0,Non-Compliant
+PO-01625,Vendor_B,Printer,2023-03-01,,Pending,129,14700.41,14303.33,,Non-Compliant
+PO-01626,Vendor_G,SSD,2024-03-24,2024-03-27,Delivered,186,7043.46,6737.18,0.0,Compliant
+PO-01627,Vendor_C,SSD,2023-07-30,2023-08-24,Delivered,150,6156.18,5855.95,4.0,Compliant
+PO-01628,Vendor_E,Printer,2024-08-11,,Cancelled,72,13681.79,13007.17,,Compliant
+PO-01629,Vendor_G,Desktop,2024-01-03,2024-01-16,Delivered,428,53050.62,52156.73,8.0,Compliant
+PO-01630,Vendor_D,Desktop,2024-10-04,2024-10-08,Delivered,456,49170.48,47880.55,1.0,Compliant
+PO-01631,Vendor_D,Mouse,2023-10-07,2023-10-21,Delivered,186,607.87,573.01,2.0,Compliant
+PO-01632,Vendor_G,Desk,2024-09-15,,Cancelled,295,13187.08,12677.73,,Compliant
+PO-01633,Vendor_A,SSD,2023-09-28,2023-10-21,Delivered,425,6235.45,6144.17,4.0,Compliant
+PO-01634,Vendor_H,Printer,2024-08-28,2024-09-01,Delivered,84,14078.88,13363.12,1.0,Compliant
+PO-01635,Vendor_F,Desk,2024-05-24,2024-06-20,Delivered,212,11251.97,10771.93,0.0,Compliant
+PO-01636,Vendor_A,Office Chair,2023-08-03,2023-08-19,Delivered,392,7983.87,7907.46,2.0,Compliant
+PO-01637,Vendor_E,Hard Drive,2024-11-04,,Cancelled,247,4882.1,4734.57,,Compliant
+PO-01638,Vendor_H,Mouse,2023-03-10,2023-04-03,Partially Delivered,60,568.1,535.05,0.0,Compliant
+PO-01639,Vendor_F,SSD,2024-03-15,,Cancelled,267,5806.25,5490.7,,Compliant
+PO-01640,Vendor_F,Office Chair,2024-09-06,2024-09-11,Delivered,11,8094.67,7722.17,0.0,Compliant
+PO-01641,Vendor_D,Office Chair,2023-06-20,2023-06-22,Delivered,130,8495.26,8021.02,1.0,Compliant
+PO-01642,Vendor_D,Laptop,2023-10-05,2023-10-24,Delivered,155,52876.39,50831.14,5.0,Compliant
+PO-01643,Vendor_B,Router,2024-10-20,2024-10-24,Delivered,434,4296.59,4074.11,2.0,Compliant
+PO-01644,Vendor_C,Packaging Box,2024-05-11,2024-06-06,Delivered,59,113.05,109.81,1.0,Compliant
+PO-01645,Vendor_C,Hard Drive,2023-10-14,,Cancelled,159,4779.53,4593.09,,Non-Compliant
+PO-01646,Vendor_C,Office Chair,2023-02-09,,Cancelled,314,7678.83,7589.55,,Compliant
+PO-01647,Vendor_C,SSD,2023-07-19,2023-07-27,Delivered,203,6066.49,5948.7,4.0,Compliant
+PO-01648,Vendor_D,Hard Drive,2023-08-31,2023-09-29,Delivered,371,5732.56,5491.05,3.0,Compliant
+PO-01649,Vendor_B,Desk,2024-02-24,2024-03-07,Partially Delivered,53,12577.36,11980.76,0.0,Compliant
+PO-01650,Vendor_F,Packaging Box,2024-02-01,2024-02-22,Delivered,385,114.66,112.59,2.0,Compliant
+PO-01651,Vendor_A,SSD,2024-05-14,2024-06-08,Delivered,119,5886.33,5582.41,0.0,Compliant
+PO-01652,Vendor_A,Router,2024-09-02,2024-09-29,Delivered,155,3796.2,3617.91,0.0,Compliant
+PO-01653,Vendor_A,Monitor,2023-02-19,2023-03-17,Delivered,318,11341.83,10952.57,1.0,Compliant
+PO-01654,Vendor_C,Hard Drive,2023-07-21,2023-07-31,Delivered,229,4992.68,4938.42,3.0,Compliant
+PO-01655,Vendor_C,Keyboard,2024-09-03,2024-10-03,Partially Delivered,120,884.37,835.54,2.0,Compliant
+PO-01656,Vendor_H,Laptop,2024-10-25,2024-11-13,Delivered,186,52581.8,51127.27,0.0,Compliant
+PO-01657,Vendor_F,Printer,2024-11-25,,Pending,42,14120.54,13588.87,,Compliant
+PO-01658,Vendor_H,Router,2024-04-11,2024-05-02,Partially Delivered,444,4445.35,4190.61,6.0,Compliant
+PO-01659,Vendor_G,Desktop,2023-06-24,2023-07-19,Delivered,346,49302.35,46508.8,6.0,Compliant
+PO-01660,Vendor_C,Office Chair,2024-03-22,,Cancelled,205,8268.16,8099.29,,Compliant
+PO-01661,Vendor_H,Monitor,2023-08-11,2023-08-17,Delivered,128,12357.35,12321.0,2.0,Compliant
+PO-01662,Vendor_C,Desktop,2024-03-18,2024-04-07,Delivered,408,45078.91,42878.26,1.0,Compliant
+PO-01663,Vendor_G,SSD,2023-01-11,2023-02-03,Partially Delivered,205,7142.22,6870.54,4.0,Compliant
+PO-01664,Vendor_A,Keyboard,2023-04-19,2023-05-10,Partially Delivered,295,824.28,804.78,0.0,Compliant
+PO-01665,Vendor_B,Laptop,2024-10-07,2024-10-26,Delivered,496,53228.16,50127.21,2.0,Compliant
+PO-01666,Vendor_A,Packaging Box,2024-05-14,2024-06-03,Delivered,33,111.4,108.81,0.0,Compliant
+PO-01667,Vendor_A,Router,2024-08-23,2024-09-19,Delivered,498,3929.16,3809.61,9.0,Compliant
+PO-01668,Vendor_H,Packaging Box,2024-08-11,2024-08-24,Delivered,236,127.14,126.36,0.0,Compliant
+PO-01669,Vendor_G,Monitor,2023-08-30,2023-09-13,Delivered,495,13241.31,12703.1,8.0,Compliant
+PO-01670,Vendor_H,Monitor,2024-04-18,,Pending,236,13241.38,12580.52,,Compliant
+PO-01671,Vendor_C,Printer,2024-10-24,2024-10-27,Delivered,307,13421.24,12915.18,1.0,Non-Compliant
+PO-01672,Vendor_B,Hard Drive,2024-08-07,2024-08-24,Delivered,331,5528.25,5525.93,4.0,Compliant
+PO-01673,Vendor_F,Printer,2024-08-17,2024-09-15,Delivered,423,12618.98,12273.7,8.0,Non-Compliant
+PO-01674,Vendor_H,Packaging Box,2024-11-22,2024-11-28,Delivered,27,113.86,,0.0,Compliant
+PO-01675,Vendor_H,Packaging Box,2024-05-02,2024-05-08,Delivered,358,113.84,111.9,8.0,Compliant
+PO-01676,Vendor_B,Router,2023-07-03,2023-07-29,Delivered,409,4052.54,3936.83,12.0,Compliant
+PO-01677,Vendor_C,Laptop,2024-01-02,2024-01-21,Delivered,493,50891.64,48388.67,6.0,Compliant
+PO-01678,Vendor_E,Hard Drive,2024-05-26,,Pending,120,4846.87,4767.6,,Compliant
+PO-01679,Vendor_E,Mouse,2024-01-09,2024-02-01,Delivered,120,537.96,517.33,1.0,Compliant
+PO-01680,Vendor_C,Laptop,2023-07-24,2023-07-30,Delivered,453,49534.2,47273.85,9.0,Compliant
+PO-01681,Vendor_B,Printer,2024-12-20,2024-12-29,Delivered,105,15108.88,14886.35,0.0,Compliant
+PO-01682,Vendor_B,Packaging Box,2023-05-18,2023-06-11,Delivered,438,121.56,118.29,1.0,Compliant
+PO-01683,Vendor_A,Office Chair,2023-11-16,,Pending,226,7853.54,7546.2,,Compliant
+PO-01684,Vendor_A,Printer,2024-04-08,2024-04-24,Delivered,192,14561.08,14298.43,5.0,Compliant
+PO-01685,Vendor_B,Desk,2023-10-01,2023-10-09,Delivered,337,11803.31,11174.32,4.0,Non-Compliant
+PO-01686,Vendor_A,Office Chair,2023-05-14,2023-05-23,Partially Delivered,118,8500.41,8292.68,1.0,Compliant
+PO-01687,Vendor_C,Desktop,2023-11-17,2023-11-19,Delivered,97,43423.02,41084.47,0.0,Compliant
+PO-01688,Vendor_F,Router,2024-10-31,,Pending,315,3900.57,3788.73,,Compliant
+PO-01689,Vendor_D,Packaging Box,2024-05-14,2024-05-27,Delivered,312,131.82,125.9,4.0,Compliant
+PO-01690,Vendor_C,Packaging Box,2023-11-13,2023-12-09,Delivered,262,113.02,108.5,2.0,Compliant
+PO-01691,Vendor_H,Router,2024-10-14,,Pending,89,4251.73,4043.7,,Compliant
+PO-01692,Vendor_F,Packaging Box,2023-05-25,2023-06-14,Delivered,284,104.01,99.44,3.0,Compliant
+PO-01693,Vendor_E,Office Chair,2024-08-14,2024-08-30,Delivered,290,8461.73,8064.93,4.0,Compliant
+PO-01694,Vendor_D,Desk,2023-11-15,2023-11-25,Partially Delivered,496,12576.19,12155.89,4.0,Compliant
+PO-01695,Vendor_H,Office Chair,2023-03-24,2023-04-22,Delivered,35,8193.03,8131.91,0.0,Compliant
+PO-01696,Vendor_G,Office Chair,2024-12-06,2025-01-02,Delivered,184,9075.49,9006.07,2.0,Compliant
+PO-01697,Vendor_G,Router,2023-06-20,,Cancelled,410,4678.22,4665.37,,Compliant
+PO-01698,Vendor_D,Router,2023-05-13,2023-05-21,Delivered,76,4287.95,4103.75,4.0,Compliant
+PO-01699,Vendor_F,SSD,2024-08-28,2024-09-18,Delivered,73,6100.98,5877.06,0.0,Compliant
+PO-01700,Vendor_H,Desk,2023-07-21,,Pending,166,12702.84,12274.82,,Compliant
+PO-01701,Vendor_E,Router,2023-07-10,2023-07-27,Delivered,33,3956.26,3803.05,0.0,Compliant
+PO-01702,Vendor_B,Router,2024-08-28,2024-09-27,Delivered,374,4525.27,4287.8,1.0,Compliant
+PO-01703,Vendor_F,Router,2023-10-01,2023-10-15,Delivered,362,3797.82,3772.99,5.0,Compliant
+PO-01704,Vendor_F,Mouse,2024-03-14,2024-04-03,Delivered,279,482.05,481.8,5.0,Compliant
+PO-01705,Vendor_F,Keyboard,2024-10-01,2024-10-07,Delivered,130,860.49,848.18,3.0,Compliant
+PO-01706,Vendor_F,Keyboard,2024-04-29,2024-05-16,Delivered,87,813.41,786.99,0.0,Compliant
+PO-01707,Vendor_B,SSD,2023-11-15,2023-12-11,Delivered,203,6772.92,6763.99,0.0,Compliant
+PO-01708,Vendor_C,Desktop,2024-01-06,2024-01-10,Delivered,169,47175.11,45986.42,5.0,Compliant
+PO-01709,Vendor_E,Desk,2024-07-24,2024-08-17,Delivered,269,11685.17,11425.46,2.0,Non-Compliant
+PO-01710,Vendor_B,Router,2023-03-28,2023-03-30,Partially Delivered,35,4523.28,4471.52,0.0,Compliant
+PO-01711,Vendor_E,Router,2024-03-04,2024-03-19,Delivered,90,4392.87,4196.45,2.0,Compliant
+PO-01712,Vendor_D,Packaging Box,2024-02-28,2024-03-04,Delivered,276,129.83,123.75,0.0,Compliant
+PO-01713,Vendor_F,Keyboard,2023-12-06,2023-12-31,Delivered,158,828.76,813.47,3.0,Compliant
+PO-01714,Vendor_G,Router,2024-04-22,2024-05-20,Delivered,418,4491.22,4426.6,8.0,Compliant
+PO-01715,Vendor_H,Router,2023-05-13,,Cancelled,486,4292.39,4264.52,,Compliant
+PO-01716,Vendor_A,Desk,2024-05-13,2024-06-05,Delivered,324,11864.6,11292.35,3.0,Compliant
+PO-01717,Vendor_G,Packaging Box,2023-07-28,2023-08-19,Delivered,167,127.9,122.67,0.0,Compliant
+PO-01718,Vendor_F,Router,2023-01-19,2023-02-10,Delivered,59,3826.86,3641.85,1.0,Compliant
+PO-01719,Vendor_D,Keyboard,2024-05-25,2024-06-19,Delivered,334,966.12,910.14,0.0,Non-Compliant
+PO-01720,Vendor_G,Office Chair,2023-08-08,2023-08-18,Delivered,331,8712.2,8684.31,1.0,Compliant
+PO-01721,Vendor_B,Packaging Box,2024-06-13,2024-07-12,Delivered,401,115.17,111.18,1.0,Compliant
+PO-01722,Vendor_B,Desktop,2024-11-18,2024-12-09,Delivered,421,48998.5,46154.59,6.0,Compliant
+PO-01723,Vendor_B,Router,2024-04-12,2024-05-03,Partially Delivered,147,4153.52,4071.22,2.0,Compliant
+PO-01724,Vendor_G,Mouse,2024-06-03,2024-06-18,Delivered,475,594.82,568.61,1.0,Compliant
+PO-01725,Vendor_B,SSD,2023-05-22,2023-06-10,Partially Delivered,82,6500.92,6138.81,1.0,Compliant
+PO-01726,Vendor_G,Monitor,2023-09-28,,Pending,68,12891.57,12384.97,,Compliant
+PO-01727,Vendor_F,Mouse,2024-08-03,2024-08-29,Delivered,190,501.07,483.59,2.0,Compliant
+PO-01728,Vendor_G,Mouse,2024-08-17,2024-09-15,Delivered,362,601.72,579.64,6.0,Compliant
+PO-01729,Vendor_E,Mouse,2023-09-19,2023-10-16,Delivered,219,568.19,556.99,4.0,Compliant
+PO-01730,Vendor_D,Office Chair,2023-12-20,2023-12-27,Delivered,478,8972.74,8544.87,3.0,Compliant
+PO-01731,Vendor_D,Desk,2024-04-25,,Pending,371,12528.52,12373.17,,Compliant
+PO-01732,Vendor_A,SSD,2024-10-04,2024-10-06,Partially Delivered,364,6276.67,5974.67,3.0,Compliant
+PO-01733,Vendor_B,Printer,2024-05-25,2024-05-30,Delivered,416,15433.4,14690.72,1.0,Compliant
+PO-01734,Vendor_F,Monitor,2024-11-27,,Cancelled,453,11090.36,10469.89,,Compliant
+PO-01735,Vendor_H,Keyboard,2023-01-24,2023-01-26,Delivered,31,935.67,915.18,1.0,Compliant
+PO-01736,Vendor_B,Desktop,2024-03-11,2024-03-16,Delivered,44,47867.26,45774.74,0.0,Non-Compliant
+PO-01737,Vendor_C,Monitor,2023-07-15,2023-07-24,Delivered,78,11903.81,11766.19,1.0,Non-Compliant
+PO-01738,Vendor_C,Router,2023-08-15,2023-08-19,Delivered,277,3715.34,3534.47,1.0,Compliant
+PO-01739,Vendor_F,Router,2024-07-20,2024-08-04,Partially Delivered,360,3991.91,3772.51,0.0,Compliant
+PO-01740,Vendor_H,Router,2024-05-28,2024-06-05,Delivered,261,3954.48,3743.31,0.0,Compliant
+PO-01741,Vendor_B,Laptop,2024-08-07,2024-09-05,Delivered,437,52182.13,50227.14,2.0,Non-Compliant
+PO-01742,Vendor_D,Router,2023-02-03,2023-02-13,Delivered,92,4622.51,4392.04,0.0,Compliant
+PO-01743,Vendor_F,Keyboard,2024-02-06,2024-02-25,Delivered,328,858.55,814.0,3.0,Compliant
+PO-01744,Vendor_F,Office Chair,2024-12-25,2025-01-07,Delivered,65,7479.25,7450.47,0.0,Compliant
+PO-01745,Vendor_E,Router,2024-06-30,2024-07-30,Delivered,30,4313.73,4113.33,0.0,Compliant
+PO-01746,Vendor_F,Printer,2024-12-21,2025-01-20,Partially Delivered,327,13290.28,12701.48,7.0,Compliant
+PO-01747,Vendor_E,Mouse,2023-01-10,2023-01-28,Delivered,362,519.12,501.71,5.0,Compliant
+PO-01748,Vendor_A,Router,2023-05-16,2023-05-27,Delivered,434,4230.92,3984.42,5.0,Compliant
+PO-01749,Vendor_B,Desk,2024-04-26,2024-05-22,Delivered,193,12947.39,12723.28,1.0,Compliant
+PO-01750,Vendor_B,Desktop,2024-07-02,2024-08-01,Delivered,74,49527.77,48479.53,1.0,Compliant
+PO-01751,Vendor_G,Laptop,2023-02-22,2023-03-08,Delivered,122,57382.54,55024.84,0.0,Compliant
+PO-01752,Vendor_D,Monitor,2024-08-17,2024-08-22,Delivered,54,12946.95,12441.89,2.0,Compliant
+PO-01753,Vendor_H,Office Chair,2023-11-11,2023-12-06,Delivered,308,8773.1,8542.86,2.0,Compliant
+PO-01754,Vendor_B,Laptop,2024-08-14,2024-08-16,Delivered,427,50848.76,50143.59,4.0,Compliant
+PO-01755,Vendor_G,Printer,2024-01-16,2024-01-30,Delivered,317,15432.06,15263.64,4.0,Compliant
+PO-01756,Vendor_C,Router,2024-11-01,,Cancelled,289,3942.42,3800.78,,Compliant
+PO-01757,Vendor_A,SSD,2024-08-10,2024-08-28,Delivered,225,6565.16,6286.18,2.0,Compliant
+PO-01758,Vendor_B,Keyboard,2023-10-09,,Cancelled,280,958.3,954.79,,Compliant
+PO-01759,Vendor_D,Packaging Box,2023-12-06,2023-12-26,Delivered,380,132.12,124.3,4.0,Compliant
+PO-01760,Vendor_D,Hard Drive,2023-01-08,2023-01-15,Delivered,126,5762.54,5755.31,2.0,Compliant
+PO-01761,Vendor_A,Desk,2024-04-07,2024-04-28,Partially Delivered,19,11044.26,10507.0,0.0,Compliant
+PO-01762,Vendor_F,Monitor,2023-11-05,,Pending,219,11247.36,10984.59,,Compliant
+PO-01763,Vendor_B,Desk,2023-10-09,2023-10-30,Delivered,263,11694.15,11342.61,3.0,Compliant
+PO-01764,Vendor_C,Printer,2023-06-05,,Cancelled,482,12942.91,12166.77,,Compliant
+PO-01765,Vendor_A,Desktop,2024-10-25,2024-10-30,Delivered,202,46758.48,44385.64,7.0,Compliant
+PO-01766,Vendor_C,Desk,2024-01-30,2024-02-01,Delivered,293,11329.31,11154.0,7.0,Compliant
+PO-01767,Vendor_F,Mouse,2024-03-13,2024-03-29,Partially Delivered,8,529.94,525.07,0.0,Compliant
+PO-01768,Vendor_A,Desk,2024-02-04,2024-02-14,Delivered,360,11144.43,10731.1,3.0,Compliant
+PO-01769,Vendor_B,Desktop,2023-07-27,2023-08-08,Delivered,161,49210.01,46824.2,2.0,Compliant
+PO-01770,Vendor_C,Hard Drive,2024-02-16,,Pending,11,4987.14,4798.53,,Compliant
+PO-01771,Vendor_D,Printer,2024-01-26,2024-01-29,Delivered,106,14619.58,14598.73,1.0,Compliant
+PO-01772,Vendor_F,Desktop,2023-05-17,2023-06-16,Delivered,327,41597.02,40179.03,4.0,Compliant
+PO-01773,Vendor_B,Desk,2023-05-22,2023-06-02,Delivered,252,11538.16,10961.53,0.0,Compliant
+PO-01774,Vendor_D,Office Chair,2024-10-25,,Pending,356,9438.2,9173.16,,Compliant
+PO-01775,Vendor_G,Packaging Box,2023-09-11,2023-09-14,Partially Delivered,389,134.94,126.93,3.0,Compliant
+PO-01776,Vendor_B,Monitor,2023-10-31,2023-11-26,Delivered,354,12730.92,11998.02,6.0,Compliant
+PO-01777,Vendor_A,Desk,2023-10-11,,Pending,484,10847.33,10745.4,,Compliant
+PO-01778,Vendor_F,Packaging Box,2023-12-26,2024-01-20,Delivered,180,115.67,109.77,1.0,Compliant
+PO-01779,Vendor_F,Desk,2023-03-15,2023-04-12,Delivered,100,11418.22,11067.35,1.0,Compliant
+PO-01780,Vendor_D,Router,2023-06-10,2023-06-17,Delivered,190,4533.77,4339.18,3.0,Compliant
+PO-01781,Vendor_H,Hard Drive,2023-12-05,2023-12-31,Delivered,263,4982.52,4803.33,3.0,Compliant
+PO-01782,Vendor_D,Router,2023-08-14,,Pending,63,4468.97,4219.32,,Compliant
+PO-01783,Vendor_C,Laptop,2023-08-18,2023-08-27,Delivered,475,46340.04,45971.67,3.0,Compliant
+PO-01784,Vendor_F,SSD,2023-11-04,2023-11-25,Partially Delivered,178,5734.32,5567.2,0.0,Non-Compliant
+PO-01785,Vendor_B,Monitor,2023-07-13,2023-07-31,Delivered,159,12851.29,12263.67,2.0,Compliant
+PO-01786,Vendor_A,Hard Drive,2024-07-07,2024-07-16,Delivered,8,5113.51,5042.51,0.0,Compliant
+PO-01787,Vendor_G,Router,2023-07-12,2023-08-03,Partially Delivered,469,4759.13,4699.42,3.0,Compliant
+PO-01788,Vendor_C,Desktop,2023-11-04,2023-11-14,Delivered,458,45371.78,45245.39,1.0,Compliant
+PO-01789,Vendor_B,Printer,2023-04-16,2023-04-25,Delivered,195,15417.48,14563.91,1.0,Compliant
+PO-01790,Vendor_F,Packaging Box,2023-04-29,2023-05-13,Delivered,369,114.5,110.43,11.0,Compliant
+PO-01791,Vendor_C,Monitor,2023-02-15,2023-03-06,Delivered,98,11979.55,11867.66,2.0,Compliant
+PO-01792,Vendor_A,Hard Drive,2023-02-24,2023-03-14,Delivered,157,5075.65,4781.69,0.0,Compliant
+PO-01793,Vendor_C,Desktop,2023-01-09,,Pending,237,47771.56,45948.42,,Compliant
+PO-01794,Vendor_D,Mouse,2023-04-24,2023-05-01,Delivered,67,561.47,560.95,2.0,Compliant
+PO-01795,Vendor_H,Desktop,2024-01-24,2024-02-04,Delivered,68,50419.01,50394.2,0.0,Compliant
+PO-01796,Vendor_A,Monitor,2024-10-30,2024-11-02,Delivered,269,12206.83,11652.92,1.0,Compliant
+PO-01797,Vendor_B,Laptop,2023-03-06,2023-03-11,Partially Delivered,448,54979.59,54711.48,5.0,Compliant
+PO-01798,Vendor_E,Desktop,2023-09-20,2023-10-01,Delivered,178,49965.38,48740.23,0.0,Compliant
+PO-01799,Vendor_G,Router,2024-05-02,2024-05-27,Delivered,41,4505.37,4413.38,0.0,Compliant
+PO-01800,Vendor_B,Desk,2024-03-29,,Cancelled,165,11808.74,11490.55,,Compliant
+PO-01801,Vendor_H,Desktop,2023-04-10,2023-04-13,Delivered,149,45193.38,44132.61,3.0,Compliant
+PO-01802,Vendor_D,Desk,2024-05-27,,Cancelled,134,12973.32,12351.79,,Compliant
+PO-01803,Vendor_H,Desktop,2024-03-31,2024-04-28,Delivered,444,45871.8,44878.07,7.0,Compliant
+PO-01804,Vendor_E,SSD,2024-08-04,2024-08-10,Delivered,342,6287.41,6116.26,3.0,Compliant
+PO-01805,Vendor_B,Office Chair,2024-05-15,2024-05-27,Delivered,231,8631.74,8281.61,3.0,Compliant
+PO-01806,Vendor_A,Keyboard,2023-02-23,2023-03-24,Delivered,41,862.64,820.94,0.0,Compliant
+PO-01807,Vendor_H,Router,2024-05-10,2024-06-09,Delivered,392,4400.26,4212.4,5.0,Compliant
+PO-01808,Vendor_D,Mouse,2023-10-08,2023-10-16,Delivered,359,545.44,537.87,4.0,Compliant
+PO-01809,Vendor_D,Keyboard,2023-06-22,2023-07-11,Delivered,197,900.73,873.16,3.0,Compliant
+PO-01810,Vendor_B,Laptop,2023-07-18,2023-07-28,Delivered,63,55812.96,53776.55,2.0,Compliant
+PO-01811,Vendor_H,Desk,2023-06-02,2023-06-19,Delivered,114,12597.33,12083.86,0.0,Non-Compliant
+PO-01812,Vendor_H,Router,2024-06-08,,Pending,319,4028.83,3857.05,,Compliant
+PO-01813,Vendor_B,Monitor,2023-03-17,2023-04-14,Delivered,476,12112.29,11592.86,2.0,Compliant
+PO-01814,Vendor_C,Mouse,2024-02-22,,Pending,124,511.36,481.55,,Compliant
+PO-01815,Vendor_C,Printer,2024-01-06,2024-01-16,Delivered,175,13711.26,12952.84,3.0,Compliant
+PO-01816,Vendor_E,Keyboard,2024-06-12,2024-06-24,Delivered,38,855.89,852.36,0.0,Compliant
+PO-01817,Vendor_A,Desk,2023-03-12,2023-03-27,Delivered,435,11873.15,11570.08,9.0,Compliant
+PO-01818,Vendor_B,Desk,2024-11-27,2024-12-16,Partially Delivered,118,12038.96,11502.32,2.0,Compliant
+PO-01819,Vendor_G,Keyboard,2024-09-07,2024-09-29,Partially Delivered,19,968.69,955.86,0.0,Compliant
+PO-01820,Vendor_C,Keyboard,2024-01-27,2024-02-01,Delivered,71,892.98,847.61,0.0,Compliant
+PO-01821,Vendor_A,Printer,2024-03-21,,Pending,174,14006.51,13219.9,,Compliant
+PO-01822,Vendor_F,Packaging Box,2023-05-13,2023-06-09,Delivered,393,109.79,103.75,4.0,Non-Compliant
+PO-01823,Vendor_C,SSD,2024-09-25,2024-10-12,Delivered,360,6214.66,5854.16,1.0,Compliant
+PO-01824,Vendor_G,Desk,2023-12-18,2024-01-04,Delivered,160,12687.56,12527.0,4.0,Compliant
+PO-01825,Vendor_B,Keyboard,2023-05-03,,Pending,381,880.24,838.54,,Compliant
+PO-01826,Vendor_E,Laptop,2023-05-28,2023-06-04,Delivered,289,52216.12,51654.83,1.0,Compliant
+PO-01827,Vendor_F,SSD,2023-04-01,2023-04-17,Delivered,92,5702.62,5378.74,2.0,Compliant
+PO-01828,Vendor_H,Printer,2024-08-31,,Pending,287,14112.54,13439.61,,Compliant
+PO-01829,Vendor_G,Printer,2023-05-03,2023-05-11,Delivered,424,15279.88,14877.17,3.0,Compliant
+PO-01830,Vendor_H,Mouse,2024-05-01,2024-05-19,Delivered,41,575.86,563.16,2.0,Compliant
+PO-01831,Vendor_E,Mouse,2024-03-22,2024-04-19,Delivered,304,535.72,505.04,0.0,Compliant
+PO-01832,Vendor_B,Laptop,2023-07-13,2023-07-16,Delivered,107,51463.39,49612.85,2.0,Compliant
+PO-01833,Vendor_A,Monitor,2024-04-02,2024-04-19,Delivered,183,12698.9,12385.07,3.0,Compliant
+PO-01834,Vendor_B,Mouse,2023-08-12,2023-08-27,Delivered,266,588.42,583.95,3.0,Compliant
+PO-01835,Vendor_B,Keyboard,2023-05-16,2023-06-05,Delivered,493,932.17,925.75,2.0,Compliant
+PO-01836,Vendor_E,Laptop,2024-04-26,2024-05-02,Delivered,223,49212.85,46742.73,4.0,Compliant
+PO-01837,Vendor_H,Mouse,2024-09-01,2024-09-11,Delivered,374,525.21,510.4,6.0,Compliant
+PO-01838,Vendor_B,Keyboard,2023-09-10,2023-09-18,Delivered,164,869.04,849.53,3.0,Compliant
+PO-01839,Vendor_D,Keyboard,2023-08-11,2023-09-04,Delivered,362,925.56,871.52,8.0,Compliant
+PO-01840,Vendor_D,Monitor,2024-07-28,2024-08-08,Delivered,33,13722.43,13026.35,0.0,Compliant
+PO-01841,Vendor_B,Keyboard,2024-08-01,2024-08-11,Delivered,149,907.68,854.93,2.0,Compliant
+PO-01842,Vendor_H,Monitor,2023-10-04,2023-10-23,Delivered,337,11917.59,11403.98,2.0,Compliant
+PO-01843,Vendor_G,Mouse,2023-11-29,2023-12-28,Delivered,435,568.3,543.79,9.0,Compliant
+PO-01844,Vendor_D,Desktop,2023-08-08,2023-08-19,Delivered,477,50735.71,50100.52,2.0,Compliant
+PO-01845,Vendor_D,Laptop,2023-08-02,2023-08-09,Delivered,102,55151.8,53123.75,3.0,Compliant
+PO-01846,Vendor_F,Keyboard,2024-06-01,,Pending,36,862.7,829.21,,Compliant
+PO-01847,Vendor_G,Printer,2023-01-07,2023-01-24,Delivered,410,16065.43,15604.47,7.0,Compliant
+PO-01848,Vendor_B,Office Chair,2024-05-29,,Cancelled,133,8895.96,8759.89,,Non-Compliant
+PO-01849,Vendor_G,Keyboard,2023-03-07,2023-03-10,Delivered,210,975.56,929.59,2.0,Compliant
+PO-01850,Vendor_F,Monitor,2023-03-30,2023-04-01,Delivered,190,11212.51,10847.4,5.0,Non-Compliant
+PO-01851,Vendor_G,Printer,2024-07-31,2024-08-07,Partially Delivered,36,15479.03,15080.84,1.0,Compliant
+PO-01852,Vendor_H,Monitor,2024-01-24,2024-02-01,Delivered,412,12439.73,11850.22,9.0,Compliant
+PO-01853,Vendor_G,Keyboard,2024-08-04,2024-08-14,Delivered,374,959.24,907.99,2.0,Compliant
+PO-01854,Vendor_C,Desk,2024-11-29,2024-12-14,Partially Delivered,15,11370.62,11209.91,1.0,Compliant
+PO-01855,Vendor_C,Laptop,2024-01-16,2024-01-29,Partially Delivered,320,51793.6,50036.25,4.0,Non-Compliant
+PO-01856,Vendor_E,Desktop,2024-07-06,2024-07-30,Delivered,445,48253.55,48064.88,2.0,Compliant
+PO-01857,Vendor_C,Desktop,2023-06-21,2023-06-28,Delivered,105,43366.1,41453.41,1.0,Compliant
+PO-01858,Vendor_F,Desk,2024-10-06,2024-10-12,Delivered,37,11686.51,11187.92,1.0,Non-Compliant
+PO-01859,Vendor_G,Office Chair,2023-06-08,2023-07-07,Delivered,450,9389.45,9047.45,3.0,Compliant
+PO-01860,Vendor_H,Monitor,2023-04-13,2023-05-07,Delivered,304,12603.18,11935.12,4.0,Compliant
+PO-01861,Vendor_C,Office Chair,2024-07-16,2024-07-20,Delivered,396,8182.47,7966.69,10.0,Compliant
+PO-01862,Vendor_E,Keyboard,2024-04-09,2024-05-05,Delivered,91,871.39,869.46,0.0,Compliant
+PO-01863,Vendor_H,Keyboard,2023-10-03,2023-10-06,Delivered,237,887.1,882.23,2.0,Non-Compliant
+PO-01864,Vendor_F,Office Chair,2023-12-17,2024-01-11,Delivered,303,7755.77,7588.66,5.0,Compliant
+PO-01865,Vendor_B,Monitor,2024-01-27,2024-02-06,Delivered,356,12144.14,11987.7,8.0,Compliant
+PO-01866,Vendor_B,Printer,2024-07-02,2024-07-30,Delivered,86,15155.05,14383.93,0.0,Compliant
+PO-01867,Vendor_D,Keyboard,2024-07-09,2024-07-21,Delivered,147,889.79,880.25,2.0,Compliant
+PO-01868,Vendor_E,Mouse,2023-03-13,2023-04-11,Delivered,133,526.05,520.49,1.0,Compliant
+PO-01869,Vendor_D,SSD,2024-08-20,2024-09-02,Delivered,184,6444.22,6363.69,2.0,Compliant
+PO-01870,Vendor_H,SSD,2024-07-07,2024-08-04,Delivered,47,6136.72,5869.51,1.0,Compliant
+PO-01871,Vendor_C,Packaging Box,2024-07-30,2024-08-07,Delivered,434,116.38,114.83,1.0,Compliant
+PO-01872,Vendor_E,Hard Drive,2023-02-11,,Cancelled,439,4981.8,4802.21,,Compliant
+PO-01873,Vendor_C,Hard Drive,2024-08-30,2024-09-04,Delivered,396,4785.95,4684.16,8.0,Compliant
+PO-01874,Vendor_F,Hard Drive,2023-07-28,,Cancelled,221,4793.79,4519.31,,Compliant
+PO-01875,Vendor_D,Office Chair,2023-01-03,2023-01-08,Delivered,6,9234.71,9215.05,0.0,Compliant
+PO-01876,Vendor_D,Office Chair,2023-06-03,2023-06-19,Delivered,416,9176.09,8901.37,7.0,Non-Compliant
+PO-01877,Vendor_D,Printer,2023-01-15,2023-02-11,Delivered,277,15869.81,15219.91,1.0,Compliant
+PO-01878,Vendor_D,Laptop,2023-09-03,2023-09-15,Partially Delivered,395,56149.92,53075.54,3.0,Compliant
+PO-01879,Vendor_H,Laptop,2024-09-06,2024-09-28,Delivered,318,53760.89,53618.35,8.0,Compliant
+PO-01880,Vendor_C,SSD,2024-06-08,2024-07-03,Delivered,323,6322.52,6008.28,6.0,Compliant
+PO-01881,Vendor_C,Packaging Box,2024-04-13,,Cancelled,73,113.97,111.46,,Compliant
+PO-01882,Vendor_C,Keyboard,2023-07-20,2023-07-26,Partially Delivered,458,827.76,787.82,5.0,Compliant
+PO-01883,Vendor_C,Laptop,2023-04-17,2023-05-06,Delivered,269,49795.84,48049.45,0.0,Compliant
+PO-01884,Vendor_F,Router,2023-11-10,2023-12-06,Delivered,308,3948.48,3815.98,2.0,Compliant
+PO-01885,Vendor_H,Mouse,2023-01-26,,Pending,439,549.71,517.15,,Compliant
+PO-01886,Vendor_D,Keyboard,2023-11-25,2023-12-19,Delivered,140,991.04,945.52,3.0,Compliant
+PO-01887,Vendor_A,Desk,2024-02-14,2024-03-08,Delivered,133,12109.14,11456.72,3.0,Compliant
+PO-01888,Vendor_F,Hard Drive,2023-11-17,2023-12-06,Delivered,211,4928.51,4853.69,0.0,Compliant
+PO-01889,Vendor_B,Laptop,2024-11-19,2024-12-02,Delivered,282,53082.0,52733.14,2.0,Compliant
+PO-01890,Vendor_G,Desktop,2023-12-24,2024-01-11,Delivered,459,53862.33,50738.2,0.0,Compliant
+PO-01891,Vendor_H,Desktop,2023-11-06,2023-11-15,Delivered,39,45446.68,44323.49,0.0,Compliant
+PO-01892,Vendor_C,Laptop,2024-07-06,2024-08-02,Delivered,137,47342.16,45720.2,1.0,Compliant
+PO-01893,Vendor_D,Desktop,2024-06-07,2024-07-05,Delivered,463,51441.9,49420.72,3.0,Compliant
+PO-01894,Vendor_D,Mouse,2024-11-24,2024-11-29,Delivered,188,574.68,573.78,2.0,Compliant
+PO-01895,Vendor_D,Keyboard,2023-04-14,2023-04-28,Delivered,143,986.74,958.86,3.0,Compliant
+PO-01896,Vendor_B,Office Chair,2023-09-24,,Cancelled,273,8736.51,8423.28,,Compliant
+PO-01897,Vendor_G,SSD,2024-06-26,2024-07-15,Delivered,131,6815.97,6507.25,1.0,Compliant
+PO-01898,Vendor_A,Desk,2023-02-26,2023-03-12,Delivered,13,11911.31,11794.39,0.0,Compliant
+PO-01899,Vendor_D,Router,2023-03-27,2023-04-17,Delivered,259,4353.27,4195.21,3.0,Compliant
+PO-01900,Vendor_D,Packaging Box,2023-02-21,2023-02-23,Delivered,144,123.67,122.33,0.0,Compliant
+PO-01901,Vendor_A,Office Chair,2023-12-20,2023-12-24,Delivered,120,8408.18,8027.69,2.0,Compliant
+PO-01902,Vendor_F,Packaging Box,2023-08-19,2023-09-04,Partially Delivered,399,115.36,112.46,1.0,Compliant
+PO-01903,Vendor_H,Desktop,2024-01-25,2024-02-12,Delivered,190,45214.33,44789.23,2.0,Compliant
+PO-01904,Vendor_F,Monitor,2023-12-15,2024-01-03,Delivered,280,11337.51,11097.78,2.0,Compliant
+PO-01905,Vendor_G,Hard Drive,2024-09-25,2024-10-06,Delivered,397,5488.43,5350.33,1.0,Compliant
+PO-01906,Vendor_H,Router,2023-08-11,2023-09-02,Delivered,79,4351.62,4210.81,1.0,Compliant
+PO-01907,Vendor_B,Packaging Box,2023-06-16,2023-07-05,Delivered,304,127.98,123.68,3.0,Compliant
+PO-01908,Vendor_H,Printer,2023-04-14,2023-05-09,Partially Delivered,474,14406.81,13648.47,8.0,Compliant
+PO-01909,Vendor_D,Printer,2023-09-29,2023-10-26,Partially Delivered,394,16031.81,15955.96,4.0,Compliant
+PO-01910,Vendor_C,Laptop,2024-10-31,2024-11-16,Partially Delivered,304,51658.61,50022.67,0.0,Compliant
+PO-01911,Vendor_D,Printer,2024-06-15,2024-07-09,Delivered,386,15273.83,15134.8,0.0,Compliant
+PO-01912,Vendor_B,SSD,2023-05-13,2023-05-23,Delivered,211,6499.61,6359.12,1.0,Compliant
+PO-01913,Vendor_H,Packaging Box,2023-04-16,,Pending,147,125.8,125.11,,Compliant
+PO-01914,Vendor_E,Desktop,2024-02-20,2024-02-27,Delivered,500,45711.05,45425.45,1.0,Compliant
+PO-01915,Vendor_A,Router,2024-09-26,2024-10-07,Delivered,244,4128.09,4014.88,1.0,Compliant
+PO-01916,Vendor_A,Desk,2024-11-25,2024-12-24,Partially Delivered,202,11693.35,11440.56,2.0,Compliant
+PO-01917,Vendor_H,Keyboard,2024-09-02,2024-09-29,Delivered,241,913.71,894.05,0.0,Compliant
+PO-01918,Vendor_H,Monitor,2024-05-04,2024-06-02,Delivered,319,12696.37,12095.52,3.0,Compliant
+PO-01919,Vendor_D,SSD,2023-12-21,2024-01-19,Delivered,74,6704.96,6388.69,1.0,Compliant
+PO-01920,Vendor_C,Router,2023-11-19,2023-11-29,Delivered,336,3876.85,3783.28,5.0,Compliant
+PO-01921,Vendor_B,SSD,2024-06-25,2024-07-16,Delivered,499,6249.68,6232.34,4.0,Compliant
+PO-01922,Vendor_A,Desk,2023-11-16,2023-12-12,Delivered,379,11059.93,10712.53,12.0,Compliant
+PO-01923,Vendor_E,Mouse,2023-09-29,2023-10-13,Delivered,469,513.82,483.63,6.0,Compliant
+PO-01924,Vendor_D,SSD,2023-02-12,2023-02-16,Delivered,365,6839.24,6441.33,7.0,Compliant
+PO-01925,Vendor_C,Desktop,2024-10-03,2024-10-16,Delivered,134,46700.32,45210.4,5.0,Compliant
+PO-01926,Vendor_H,Desk,2024-06-27,2024-06-30,Delivered,27,12170.14,11689.38,0.0,Non-Compliant
+PO-01927,Vendor_B,Router,2024-03-27,2024-04-08,Delivered,373,4230.0,4107.48,4.0,Compliant
+PO-01928,Vendor_B,Packaging Box,2024-03-07,2024-04-02,Delivered,167,126.55,124.0,2.0,Compliant
+PO-01929,Vendor_D,SSD,2023-04-10,2023-04-30,Delivered,109,6836.66,6511.9,5.0,Compliant
+PO-01930,Vendor_F,Hard Drive,2023-01-15,,Pending,52,4957.06,4852.6,,Compliant
+PO-01931,Vendor_F,Keyboard,2023-04-25,2023-04-30,Delivered,421,847.08,839.25,7.0,Compliant
+PO-01932,Vendor_F,Mouse,2023-06-15,2023-07-08,Delivered,450,478.54,472.49,10.0,Compliant
+PO-01933,Vendor_G,Printer,2023-05-13,2023-05-29,Partially Delivered,56,15660.79,15233.7,3.0,Compliant
+PO-01934,Vendor_G,Keyboard,2023-09-03,,Pending,93,974.84,965.63,,Compliant
+PO-01935,Vendor_F,Printer,2023-08-31,2023-09-24,Delivered,47,13297.35,13043.56,0.0,Compliant
+PO-01936,Vendor_H,Printer,2024-12-09,2024-12-28,Delivered,277,14245.8,14035.84,2.0,Compliant
+PO-01937,Vendor_C,Desktop,2023-07-15,,Cancelled,111,45925.3,45168.61,,Compliant
+PO-01938,Vendor_B,Monitor,2024-03-15,2024-03-19,Delivered,184,13459.44,12975.15,0.0,Compliant
+PO-01939,Vendor_G,Printer,2023-04-03,2023-04-16,Delivered,141,15751.52,15616.89,1.0,Compliant
+PO-01940,Vendor_B,Router,2023-09-13,2023-10-06,Delivered,43,4066.42,3898.13,1.0,Compliant
+PO-01941,Vendor_A,Packaging Box,2024-03-19,2024-03-28,Delivered,160,113.02,107.42,3.0,Compliant
+PO-01942,Vendor_D,Mouse,2024-10-10,2024-10-27,Delivered,109,543.69,521.9,1.0,Compliant
+PO-01943,Vendor_D,Packaging Box,2024-12-28,2025-01-14,Delivered,130,132.81,128.26,0.0,Compliant
+PO-01944,Vendor_H,Keyboard,2024-07-27,2024-08-06,Delivered,367,936.56,920.96,0.0,Compliant
+PO-01945,Vendor_B,Monitor,2024-09-20,2024-10-06,Delivered,368,13366.77,12621.55,7.0,Compliant
+PO-01946,Vendor_F,Laptop,2023-12-03,,Cancelled,231,46636.5,45109.57,,Compliant
+PO-01947,Vendor_A,Router,2023-08-31,2023-09-07,Delivered,485,4132.97,3971.34,2.0,Compliant
+PO-01948,Vendor_G,Hard Drive,2024-07-14,2024-07-22,Delivered,60,5827.04,5581.29,0.0,Compliant
+PO-01949,Vendor_B,Desk,2024-04-27,2024-05-24,Delivered,439,12418.17,11741.16,10.0,Non-Compliant
+PO-01950,Vendor_D,Desk,2024-05-05,2024-05-08,Delivered,53,12659.6,12224.6,3.0,Compliant
+PO-01951,Vendor_H,Packaging Box,2023-01-31,2023-02-09,Delivered,26,117.81,115.12,1.0,Compliant
+PO-01952,Vendor_C,Hard Drive,2024-03-06,2024-03-29,Delivered,177,4803.44,4711.86,1.0,Compliant
+PO-01953,Vendor_D,Packaging Box,2023-06-01,2023-06-28,Delivered,164,132.68,126.31,1.0,Non-Compliant
+PO-01954,Vendor_C,Printer,2023-04-22,,Pending,207,13078.57,12870.09,,Compliant
+PO-01955,Vendor_C,Hard Drive,2023-01-03,2023-01-06,Delivered,63,4631.8,4574.95,1.0,Compliant
+PO-01956,Vendor_D,Hard Drive,2024-08-07,2024-08-10,Delivered,370,5259.86,5085.47,2.0,Compliant
+PO-01957,Vendor_B,Packaging Box,2024-09-15,2024-10-07,Delivered,211,128.85,121.73,5.0,Compliant
+PO-01958,Vendor_G,Packaging Box,2023-08-24,2023-09-21,Delivered,295,124.97,124.14,4.0,Compliant
+PO-01959,Vendor_G,Office Chair,2024-07-25,,Cancelled,28,8876.17,8674.71,,Compliant
+PO-01960,Vendor_H,Printer,2023-03-29,2023-04-12,Delivered,369,13917.87,13624.92,2.0,Compliant
+PO-01961,Vendor_H,Keyboard,2024-09-27,2024-10-19,Delivered,190,869.02,849.47,0.0,Compliant
+PO-01962,Vendor_E,Laptop,2024-12-11,2025-01-02,Delivered,485,51302.67,49912.36,9.0,Non-Compliant
+PO-01963,Vendor_B,Keyboard,2023-05-23,2023-05-25,Delivered,315,922.17,899.54,8.0,Compliant
+PO-01964,Vendor_B,Mouse,2023-06-18,2023-06-22,Delivered,270,575.48,573.0,5.0,Compliant
+PO-01965,Vendor_D,Printer,2023-01-04,2023-01-27,Delivered,380,15901.48,15316.8,0.0,Compliant
+PO-01966,Vendor_B,Hard Drive,2023-06-30,2023-07-09,Delivered,488,5374.55,5110.05,4.0,Compliant
+PO-01967,Vendor_F,Laptop,2023-11-06,2023-12-06,Delivered,278,48086.52,47271.79,3.0,Compliant
+PO-01968,Vendor_F,Mouse,2024-12-08,2024-12-31,Delivered,36,510.45,497.3,0.0,Compliant
+PO-01969,Vendor_A,Packaging Box,2023-12-18,,Cancelled,477,109.46,105.98,,Compliant
+PO-01970,Vendor_D,Hard Drive,2023-07-09,2023-08-04,Delivered,125,5148.15,5124.81,4.0,Compliant
+PO-01971,Vendor_E,Keyboard,2023-02-03,2023-02-07,Delivered,344,842.34,833.38,0.0,Compliant
+PO-01972,Vendor_E,Keyboard,2024-03-19,2024-04-18,Delivered,197,886.48,867.48,4.0,Compliant
+PO-01973,Vendor_F,Keyboard,2024-06-23,2024-07-10,Delivered,489,873.75,826.02,3.0,Compliant
+PO-01974,Vendor_B,Hard Drive,2023-11-25,2023-12-24,Partially Delivered,289,5303.95,5186.61,6.0,Compliant
+PO-01975,Vendor_G,Keyboard,2024-07-25,2024-08-11,Delivered,354,998.42,993.18,0.0,Compliant
+PO-01976,Vendor_H,Desktop,2024-11-13,2024-12-10,Delivered,77,49271.95,47057.59,0.0,Compliant
+PO-01977,Vendor_D,Printer,2023-05-09,2023-06-07,Delivered,440,15196.44,14807.89,3.0,Compliant
+PO-01978,Vendor_H,Mouse,2023-01-30,,Cancelled,418,541.71,515.95,,Compliant
+PO-01979,Vendor_B,SSD,2024-12-01,2024-12-05,Delivered,25,6805.83,6683.26,1.0,Compliant
+PO-01980,Vendor_E,Desk,2024-01-22,2024-02-14,Delivered,181,11210.05,10561.84,1.0,Compliant
+PO-01981,Vendor_H,Desk,2023-12-31,2024-01-15,Delivered,442,11426.65,11240.81,6.0,Compliant
+PO-01982,Vendor_H,SSD,2023-11-26,2023-12-16,Partially Delivered,387,6630.59,6619.42,4.0,Non-Compliant
+PO-01983,Vendor_F,Router,2023-01-06,2023-01-26,Delivered,337,3940.87,3895.82,7.0,Non-Compliant
+PO-01984,Vendor_F,Office Chair,2023-11-06,2023-11-15,Delivered,403,7559.42,7202.43,2.0,Compliant
+PO-01985,Vendor_A,Mouse,2023-05-03,2023-06-02,Delivered,296,525.29,498.46,0.0,Compliant
+PO-01986,Vendor_B,Desktop,2024-01-15,,Cancelled,150,48481.27,46682.1,,Compliant
+PO-01987,Vendor_E,Mouse,2023-09-14,2023-09-29,Delivered,136,541.23,512.73,0.0,Compliant
+PO-01988,Vendor_B,Monitor,2024-06-26,2024-07-20,Delivered,360,12664.0,12085.66,7.0,Compliant
+PO-01989,Vendor_C,Mouse,2024-09-09,2024-09-12,Delivered,363,544.89,531.92,5.0,Compliant
+PO-01990,Vendor_C,Laptop,2024-05-13,2024-05-25,Delivered,17,47213.06,45525.39,0.0,Compliant
+PO-01991,Vendor_B,Router,2024-09-02,2024-10-01,Partially Delivered,454,4157.8,4082.61,6.0,Compliant
+PO-01992,Vendor_F,Router,2024-10-03,2024-10-12,Delivered,228,3994.94,3760.77,2.0,Compliant
+PO-01993,Vendor_D,Keyboard,2023-06-27,2023-07-05,Delivered,155,979.43,958.16,1.0,Compliant
+PO-01994,Vendor_D,Monitor,2024-01-02,2024-01-17,Delivered,421,12908.37,12325.74,5.0,Compliant
+PO-01995,Vendor_A,SSD,2024-10-07,2024-10-28,Delivered,445,6158.94,6082.64,4.0,Compliant
+PO-01996,Vendor_B,Hard Drive,2024-01-29,2024-02-04,Delivered,310,5140.74,5104.71,0.0,Compliant
+PO-01997,Vendor_B,Laptop,2024-12-21,2025-01-01,Delivered,128,50252.66,47508.44,0.0,Compliant
+PO-01998,Vendor_A,Printer,2023-07-17,2023-07-30,Delivered,196,14283.58,14231.79,3.0,Compliant
+PO-01999,Vendor_G,Packaging Box,2024-01-06,2024-02-03,Delivered,314,128.07,123.35,2.0,Compliant
+PO-02000,Vendor_F,Router,2024-01-20,2024-02-14,Partially Delivered,60,3855.66,3705.82,0.0,Compliant
