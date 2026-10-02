@@ -6,6 +6,18 @@ This repository documents my journey of building practical data analysis project
 
 ## Projects
 
+### 📊 Excel
+**Project:** Vendor Cost Comparison for Procurement Decisions
+
+An Excel-based analysis project focused on comparing vendors using cost, delivery performance, defect rates, and negotiated pricing.
+
+**Tools:** Microsoft Excel
+
+[View Excel Project](./Excel)
+
+---
+
+
 ### 🐍 Python & Pandas
 **Project:** Automating Monthly Business Performance Reports
 
@@ -17,16 +29,6 @@ A data cleaning and analysis project using Python and Pandas to transform a mess
 
 ---
 
-### 📊 Excel
-**Project:** Vendor Cost Comparison for Procurement Decisions
-
-An Excel-based analysis project focused on comparing vendors using cost, delivery performance, defect rates, and negotiated pricing.
-
-**Tools:** Microsoft Excel
-
-[View Excel Project](./Excel)
-
----
 
 ### 📈 Tableau
 **Project:** Coming Soon
